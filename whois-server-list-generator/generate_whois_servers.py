@@ -36,7 +36,7 @@ def create_README(results):
     markdown_content = "| Domain   | WHOIS Server URL          |\n"
     markdown_content += "|----------|--------------------------|\n"
     for domain, server_url in results.items():
-        markdown_content += f"| {domain} | [{server_url}]({server_url}) |\n"
+        markdown_content += f"| {domain} | [{server_url}](https://{server_url}) |\n"
 
     with open(AFTER_FILENAME, 'r', encoding="utf-8") as after_file:
         after_content = after_file.read()
