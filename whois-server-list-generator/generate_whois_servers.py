@@ -26,9 +26,9 @@ def create_markdown(results):
 
 
 def create_README(results):
-    BEFORE_FILENAME = 'library/README/before.md'
-    AFTER_FILENAME = 'library/README/after.md'
-    README_FILENAME = 'README'
+    BEFORE_FILENAME = 'whois-server-list-generator/README/before.md'
+    AFTER_FILENAME = 'whois-server-list-generator/README/after.md'
+    README_FILENAME = 'README.md'
 
     with open(BEFORE_FILENAME, 'r', encoding="utf-8") as before_file:
         before_content = before_file.read()
@@ -75,6 +75,7 @@ if __name__ == "__main__":
         for tr in table.tbody.find_all('tr'):
             relative_tld_url = tr.td.span.a.get('href')
             tld = os.path.splitext(os.path.basename(relative_tld_url))[0]
+            print(tld)
 
             retry_count = 0
 
