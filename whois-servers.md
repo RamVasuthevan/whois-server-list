@@ -2,6 +2,7 @@
 |----------|--------------------------|
 | aarp | whois.nic.aarp |
 | abarth | whois.afilias-srs.net |
+| abb | whois.nic.abb |
 | abbott | whois.afilias-srs.net |
 | abbvie | whois.nic.abbvie |
 | abc | whois.nic.abc |
@@ -1083,6 +1084,7 @@
 | wed | whois.nic.wed |
 | wedding | whois.nic.wedding |
 | weibo | whois.nic.weibo |
+| weir | whois.nic.weir |
 | wf | whois.nic.wf |
 | whoswho | whois.nic.whoswho |
 | wien | whois.nic.wien |
