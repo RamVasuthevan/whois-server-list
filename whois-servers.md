@@ -1083,6 +1083,7 @@
 | wed | whois.nic.wed |
 | wedding | whois.nic.wedding |
 | weibo | whois.nic.weibo |
+| weir | whois.nic.weir |
 | wf | whois.nic.wf |
 | whoswho | whois.nic.whoswho |
 | wien | whois.nic.wien |
