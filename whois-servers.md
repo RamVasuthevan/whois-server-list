@@ -2,6 +2,7 @@
 |----------|--------------------------|
 | aarp | whois.nic.aarp |
 | abarth | whois.afilias-srs.net |
+| abb | whois.nic.abb |
 | abbott | whois.afilias-srs.net |
 | abbvie | whois.nic.abbvie |
 | abc | whois.nic.abc |
