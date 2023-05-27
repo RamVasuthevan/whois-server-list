@@ -45,9 +45,9 @@ def create_README(results:List[Result]):
     markdown_content += "|----------|--------------------------|\n"
     for result in results:
         if result.tld_punycode == result.tld_unicode.lower():
-            markdown_content+=(f"| .{result.tld_punycode} | https://{result.whois_server_url} |\n")
+            markdown_content+=(f"| .{result.tld_punycode} | [{result.whois_server_url}](https://{result.whois_server_url})|\n")
         else:
-            markdown_content+=(f"| .{result.tld_punycode} (.{result.tld_unicode}) | https://{result.whois_server_url} |\n")
+            markdown_content+=(f"| .{result.tld_punycode} (.{result.tld_unicode}) | [{result.whois_server_url}](https://{result.whois_server_url}) |\n")
 
     with open(AFTER_FILENAME, 'r', encoding="utf-8") as after_file:
         after_content = after_file.read()
@@ -114,7 +114,9 @@ if __name__ == "__main__":
                 response.raise_for_status()
 
             time.sleep(SLEEP)
-
+            if len(results)==5:
+                break
+            
     create_csv(results)
     create_markdown(results)
     create_README(results)
