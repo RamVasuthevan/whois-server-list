@@ -15,7 +15,7 @@ class Result:
 
 def create_csv(results:List[Result]):
     HEADERS = ['Domain', 'WHOIS Server URL']
-    FILENAME = 'whois-servers.csv'
+    FILENAME = os.path.join(os.pardir, 'whois-servers.csv')
 
     with open(FILENAME, 'w', newline='', encoding="utf-8") as file:
         writer = csv.writer(file)
@@ -24,7 +24,7 @@ def create_csv(results:List[Result]):
 
 
 def create_markdown(results:List[Result]):
-    FILENAME = 'whois-servers.md'
+    FILENAME = os.path.join(os.pardir, 'whois-servers.md')
 
     with open(FILENAME, 'w', newline='', encoding="utf-8") as file:
         file.write("| Domain   | WHOIS Server URL          |\n")
@@ -34,9 +34,9 @@ def create_markdown(results:List[Result]):
 
 
 def create_README(results:List[Result]):
-    BEFORE_FILENAME = 'whois-server-list-generator/README/before.md'
-    AFTER_FILENAME = 'whois-server-list-generator/README/after.md'
-    README_FILENAME = 'README.md'
+    BEFORE_FILENAME = 'README/before.md'
+    AFTER_FILENAME = 'README/after.md'
+    README_FILENAME = os.path.join(os.pardir, 'README.md')
 
     with open(BEFORE_FILENAME, 'r', encoding="utf-8") as before_file:
         before_content = before_file.read()
