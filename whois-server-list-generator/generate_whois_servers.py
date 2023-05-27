@@ -3,6 +3,7 @@ import os
 import time
 import requests
 from bs4 import BeautifulSoup
+from openpyxl import Workbook
 from dataclasses import dataclass
 from typing import Optional, Union, List
 
@@ -31,6 +32,20 @@ def create_markdown(results:List[Result]):
         file.write("|----------|--------------------------|\n")
         for result in results:
             file.write(f"| {result.tld_punycode} | {result.whois_server_url} |\n")           
+
+def create_xlsx(results: List[Result]):
+    HEADERS = ['Domain', 'WHOIS Server URL']
+    FILENAME = os.path.join(os.pardir, 'whois-servers.xlsx')
+
+    wb = Workbook()
+    ws = wb.active
+
+    ws.append(HEADERS)
+
+    for result in results:
+        ws.append([result.tld_punycode, result.whois_server_url])
+
+    wb.save(FILENAME)
 
 
 def create_README(results:List[Result]):
@@ -120,3 +135,4 @@ if __name__ == "__main__":
     create_csv(results)
     create_markdown(results)
     create_README(results)
+    create_xlsx(results)
