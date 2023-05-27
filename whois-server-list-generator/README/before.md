@@ -7,4 +7,6 @@ It does not contain:
 - WHOIS servers are only available through a web portal, such as .az ([whois.az](https://whois.az/))
 - TLDs that do not have WHOIS information available, such as .al
 
+[CSV](whois-servers.csv) [XLSX](whois-servers.xlsx) [Markdown](whois-servers.md)
+
 ## List of WHOIS Servers
