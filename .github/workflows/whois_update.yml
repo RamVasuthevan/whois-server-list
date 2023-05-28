@@ -24,11 +24,13 @@ jobs:
 
     - name: Install dependencies using Pipenv
       run: |
+        cd whois-server-list-generator
         pipenv install
 
     - name: Generate updated WHOIS server list
       run: |
-        pipenv run python whois-server-list-generator/generate_whois_servers.py
+        cd whois-server-list-generator
+        pipenv run python generate_whois_servers.py
 
     - name: Create Pull Request
       id: cpr
