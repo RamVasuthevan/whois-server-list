@@ -1,0 +1,45 @@
+name: Update WHOIS servers list
+
+on:
+  schedule:
+    - cron:  '0 0 * * *'
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Check out code
+      uses: actions/checkout@v2
+
+    - name: Set up Python from Pipfile
+      id: python
+      run: |
+        echo "::set-output name=version::$(grep python_version Pipfile | cut -d'"' -f2)"
+
+    - name: Install pipenv
+      run: |
+        pip install pipenv
+
+    - name: Install dependencies using Pipenv
+      run: |
+        pipenv install
+
+    - name: Generate updated WHOIS server list
+      run: |
+        pipenv run python whois-server-list-generator/generate_whois_servers.py
+
+    - name: Create Pull Request
+      id: cpr
+      uses: peter-evans/create-pull-request@v3
+      with:
+        token: ${{ secrets.GITHUB_TOKEN }}
+        commit-message: "Automatically updated on $(date +'%Y-%m-%d')"
+        title: "Update WHOIS servers list - $(date +'%Y-%m-%d')"
+        branch: update-whois-list-$(date +'%Y-%m-%d')-${{ github.run_number }}
+        labels: automated-pr
+
+    - name: PR details
+      run: |
+        echo "Pull Request Number - ${{ steps.cpr.outputs.pull-request-number }}"
+        echo "Pull Request URL - ${{ steps.cpr.outputs.pull-request-url }}"
