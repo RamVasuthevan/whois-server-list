@@ -1,6 +1,7 @@
 name: Update WHOIS servers list
 
 on:
+  workflow_dispatch:
   schedule:
     - cron:  '0 0 * * *'
 
