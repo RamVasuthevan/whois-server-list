@@ -11,7 +11,7 @@ import requests
 from bs4 import BeautifulSoup
 from openpyxl import Workbook as OriginalWorkbook
 from openpyxl.writer.excel import ExcelWriter
-
+from openpyxl import load_workbook
 def save_workbook(workbook, filename):
     """Save the given workbook on the filesystem under the name filename.
 
@@ -24,7 +24,7 @@ def save_workbook(workbook, filename):
     :rtype: bool
     """
     archive = ZipFile(filename, 'w', ZIP_DEFLATED, allowZip64=True)
-    workbook.properties.modified = datetime.datetime.utcnow()
+    #workbook.properties.modified = datetime.datetime.utcnow()
     writer = ExcelWriter(workbook, archive)
     writer.save()
     return True
@@ -42,12 +42,6 @@ class Result:
     whois_server_url: str
     tld_unicode: Optional[Union[None,str]] = None  
     
-def get_old_excel_properties():
-    FILENAME = os.path.join(os.pardir, 'whois-servers.xlsx')
-
-    wb = openpyxl.load_workbook(FILENAME)
-    return wb.properties
-
 
 def create_csv(results:List[Result]):
     HEADERS = ['Domain', 'WHOIS Server URL']
@@ -80,8 +74,8 @@ def create_xlsx(results: List[Result]):
     for result in results:
         ws.append([result.tld_punycode, result.whois_server_url])
 
-    wb.properties.created=datetime.datetime(1970, 1, 1, 0, 0)
-    wb.properties.modified=datetime.datetime(1970, 1, 1, 0, 0)
+    old_wb = load_workbook(FILENAME)
+    wb.properties = old_wb.properties
     
     wb.save(FILENAME)
 
