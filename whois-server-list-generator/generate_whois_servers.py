@@ -29,12 +29,22 @@ def save_workbook(workbook, filename):
     writer.save()
     return True
 
-# Override save_workbook method
-openpyxl.writer.excel.save_workbook = save_workbook
-
 class Workbook(OriginalWorkbook):
     def save(self, filename: str) -> None:
+        """Save the current workbook under the given `filename`.
+        Use this function instead of using an `ExcelWriter`.
+
+        .. warning::
+            When creating your workbook using `write_only` set to True,
+            you will only be able to call this function once. Subsequent attempts to
+            modify or save the file will raise an :class:`openpyxl.shared.exc.WorkbookAlreadySaved` exception.
+        """
+        if self.read_only:
+            raise TypeError("""Workbook is read-only""")
+        if self.write_only and not self.worksheets:
+            self.create_sheet()
         save_workbook(self, filename)
+
  
 @dataclass
 class Result:
@@ -162,6 +172,8 @@ if __name__ == "__main__":
                 response.raise_for_status()
 
             time.sleep(SLEEP)
+            if len(results)==1:
+                break
             
 if __name__ == "__main__":
     create_csv(results)
