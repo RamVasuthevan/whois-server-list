@@ -15,5 +15,3 @@ It does not contain:
 | Domain   | WHOIS Server URL          |
 |----------|--------------------------|
 | .aarp | [whois.nic.aarp](https://whois.nic.aarp)|
-| .abarth | [whois.afilias-srs.net](https://whois.afilias-srs.net)|
-| .abb | [whois.nic.abb](https://whois.nic.abb)|
