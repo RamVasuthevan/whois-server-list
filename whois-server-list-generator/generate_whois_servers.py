@@ -1,18 +1,57 @@
 import csv
+import datetime
 import os
 import time
+from dataclasses import dataclass
+from typing import List, Optional, Union
+from zipfile import ZIP_DEFLATED, ZipFile
+
+import openpyxl
 import requests
 from bs4 import BeautifulSoup
-from openpyxl import Workbook
-from dataclasses import dataclass
-from typing import Optional, Union, List
+from openpyxl import Workbook as OriginalWorkbook
+from openpyxl.writer.excel import ExcelWriter
+from openpyxl import load_workbook
+def save_workbook(workbook, filename):
+    """Save the given workbook on the filesystem under the name filename.
 
+    :param workbook: the workbook to save
+    :type workbook: :class:`openpyxl.workbook.Workbook`
+
+    :param filename: the path to which save the workbook
+    :type filename: string
+
+    :rtype: bool
+    """
+    archive = ZipFile(filename, 'w', ZIP_DEFLATED, allowZip64=True)
+    #workbook.properties.modified = datetime.datetime.utcnow()
+    writer = ExcelWriter(workbook, archive)
+    writer.save()
+    return True
+
+class Workbook(OriginalWorkbook):
+    def save(self, filename: str) -> None:
+        """Save the current workbook under the given `filename`.
+        Use this function instead of using an `ExcelWriter`.
+
+        .. warning::
+            When creating your workbook using `write_only` set to True,
+            you will only be able to call this function once. Subsequent attempts to
+            modify or save the file will raise an :class:`openpyxl.shared.exc.WorkbookAlreadySaved` exception.
+        """
+        if self.read_only:
+            raise TypeError("""Workbook is read-only""")
+        if self.write_only and not self.worksheets:
+            self.create_sheet()
+        save_workbook(self, filename)
+
+ 
 @dataclass
 class Result:
     tld_punycode: str
     whois_server_url: str
-    tld_unicode: Optional[Union[None,str]] = None    
-
+    tld_unicode: Optional[Union[None,str]] = None  
+    
 
 def create_csv(results:List[Result]):
     HEADERS = ['Domain', 'WHOIS Server URL']
@@ -45,7 +84,11 @@ def create_xlsx(results: List[Result]):
     for result in results:
         ws.append([result.tld_punycode, result.whois_server_url])
 
+    old_wb = load_workbook(FILENAME)
+    wb.properties = old_wb.properties
+    
     wb.save(FILENAME)
+
 
 
 def create_README(results:List[Result]):
@@ -129,7 +172,10 @@ if __name__ == "__main__":
                 response.raise_for_status()
 
             time.sleep(SLEEP)
+            if len(results)==1:
+                break
             
+if __name__ == "__main__":
     create_csv(results)
     create_markdown(results)
     create_README(results)

@@ -5,8 +5,8 @@ name = "pypi"
 
 [packages]
 requests = "*"
-beautifulsoup4 = "*"
-openpyxl = "*"
+openpyxl = "~=3.0"
+bs4 = "*"
 
 [dev-packages]
 
