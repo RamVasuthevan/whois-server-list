@@ -172,8 +172,6 @@ if __name__ == "__main__":
                 response.raise_for_status()
 
             time.sleep(SLEEP)
-            if len(results)==1:
-                break
             
 if __name__ == "__main__":
     create_csv(results)
