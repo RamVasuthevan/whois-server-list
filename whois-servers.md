@@ -1,7 +1,6 @@
 | Domain   | WHOIS Server URL          |
 |----------|--------------------------|
 | aarp | whois.nic.aarp |
-| abarth | whois.afilias-srs.net |
 | abb | whois.nic.abb |
 | abbott | whois.afilias-srs.net |
 | abbvie | whois.nic.abbvie |
@@ -30,7 +29,6 @@
 | airforce | whois.nic.airforce |
 | airtel | whois.nic.airtel |
 | akdn | whois.afilias-srs.net |
-| alfaromeo | whois.afilias-srs.net |
 | alibaba | whois.nic.alibaba |
 | alipay | whois.nic.alipay |
 | allfinanz | whois.nic.allfinanz |
@@ -345,7 +343,6 @@
 | feedback | whois.nic.feedback |
 | ferrari | whois.nic.ferrari |
 | fi | whois.fi |
-| fiat | whois.afilias-srs.net |
 | fidelity | whois.nic.fidelity |
 | fido | whois.afilias-srs.net |
 | film | whois.nic.film |
@@ -565,7 +562,6 @@
 | lamborghini | whois.afilias-srs.net |
 | lamer | whois.nic.lamer |
 | lancaster | whois.nic.lancaster |
-| lancia | whois.afilias-srs.net |
 | land | whois.nic.land |
 | landrover | whois.nic.landrover |
 | lasalle | whois.afilias-srs.net |
@@ -629,7 +625,6 @@
 | marketing | whois.nic.marketing |
 | markets | whois.nic.markets |
 | marriott | whois.afilias-srs.net |
-| maserati | whois.nic.maserati |
 | mba | whois.nic.mba |
 | mckinsey | whois.nic.mckinsey |
 | md | whois.nic.md |
