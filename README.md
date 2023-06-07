@@ -15,7 +15,6 @@ It does not contain:
 | Domain   | WHOIS Server URL          |
 |----------|--------------------------|
 | .aarp | [whois.nic.aarp](https://whois.nic.aarp)|
-| .abarth | [whois.afilias-srs.net](https://whois.afilias-srs.net)|
 | .abb | [whois.nic.abb](https://whois.nic.abb)|
 | .abbott | [whois.afilias-srs.net](https://whois.afilias-srs.net)|
 | .abbvie | [whois.nic.abbvie](https://whois.nic.abbvie)|
@@ -44,7 +43,6 @@ It does not contain:
 | .airforce | [whois.nic.airforce](https://whois.nic.airforce)|
 | .airtel | [whois.nic.airtel](https://whois.nic.airtel)|
 | .akdn | [whois.afilias-srs.net](https://whois.afilias-srs.net)|
-| .alfaromeo | [whois.afilias-srs.net](https://whois.afilias-srs.net)|
 | .alibaba | [whois.nic.alibaba](https://whois.nic.alibaba)|
 | .alipay | [whois.nic.alipay](https://whois.nic.alipay)|
 | .allfinanz | [whois.nic.allfinanz](https://whois.nic.allfinanz)|
@@ -359,7 +357,6 @@ It does not contain:
 | .feedback | [whois.nic.feedback](https://whois.nic.feedback)|
 | .ferrari | [whois.nic.ferrari](https://whois.nic.ferrari)|
 | .fi | [whois.fi](https://whois.fi)|
-| .fiat | [whois.afilias-srs.net](https://whois.afilias-srs.net)|
 | .fidelity | [whois.nic.fidelity](https://whois.nic.fidelity)|
 | .fido | [whois.afilias-srs.net](https://whois.afilias-srs.net)|
 | .film | [whois.nic.film](https://whois.nic.film)|
@@ -579,7 +576,6 @@ It does not contain:
 | .lamborghini | [whois.afilias-srs.net](https://whois.afilias-srs.net)|
 | .lamer | [whois.nic.lamer](https://whois.nic.lamer)|
 | .lancaster | [whois.nic.lancaster](https://whois.nic.lancaster)|
-| .lancia | [whois.afilias-srs.net](https://whois.afilias-srs.net)|
 | .land | [whois.nic.land](https://whois.nic.land)|
 | .landrover | [whois.nic.landrover](https://whois.nic.landrover)|
 | .lasalle | [whois.afilias-srs.net](https://whois.afilias-srs.net)|
@@ -643,7 +639,6 @@ It does not contain:
 | .marketing | [whois.nic.marketing](https://whois.nic.marketing)|
 | .markets | [whois.nic.markets](https://whois.nic.markets)|
 | .marriott | [whois.afilias-srs.net](https://whois.afilias-srs.net)|
-| .maserati | [whois.nic.maserati](https://whois.nic.maserati)|
 | .mba | [whois.nic.mba](https://whois.nic.mba)|
 | .mckinsey | [whois.nic.mckinsey](https://whois.nic.mckinsey)|
 | .md | [whois.nic.md](https://whois.nic.md)|
