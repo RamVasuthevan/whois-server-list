@@ -253,7 +253,7 @@ It does not contain:
 | .cr | [whois.nic.cr](https://whois.nic.cr)|
 | .credit | [whois.nic.credit](https://whois.nic.credit)|
 | .creditcard | [whois.nic.creditcard](https://whois.nic.creditcard)|
-| .creditunion | [whois.afilias-srs.net](https://whois.afilias-srs.net)|
+| .creditunion | [whois.nic.creditunion](https://whois.nic.creditunion)|
 | .cricket | [whois.nic.cricket](https://whois.nic.cricket)|
 | .cruise | [whois.nic.cruise](https://whois.nic.cruise)|
 | .cruises | [whois.nic.cruises](https://whois.nic.cruises)|
