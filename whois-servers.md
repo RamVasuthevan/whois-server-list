@@ -228,7 +228,6 @@
 | contact | whois.nic.contact |
 | contractors | whois.nic.contractors |
 | cooking | whois.nic.cooking |
-| cookingchannel | whois.nic.cookingchannel |
 | cool | whois.nic.cool |
 | coop | whois.nic.coop |
 | corsica | whois.nic.corsica |
@@ -364,7 +363,6 @@
 | fm | whois.nic.fm |
 | fo | whois.nic.fo |
 | foo | whois.nic.google |
-| foodnetwork | whois.nic.foodnetwork |
 | football | whois.nic.football |
 | forex | whois.nic.forex |
 | forsale | whois.nic.forsale |
@@ -452,7 +450,6 @@
 | helsinki | whois.nic.helsinki |
 | here | whois.nic.google |
 | hermes | whois.afilias-srs.net |
-| hgtv | whois.nic.hgtv |
 | hiphop | whois.nic.hiphop |
 | hisamitsu | whois.nic.gmo |
 | hitachi | whois.nic.gmo |
@@ -1010,7 +1007,6 @@
 | trading | whois.nic.trading |
 | training | whois.nic.training |
 | travel | whois.nic.travel |
-| travelchannel | whois.nic.travelchannel |
 | travelers | whois.afilias-srs.net |
 | travelersinsurance | whois.afilias-srs.net |
 | trust | whois.nic.trust |
