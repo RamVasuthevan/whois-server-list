@@ -242,7 +242,6 @@ It does not contain:
 | .contact | [whois.nic.contact](https://whois.nic.contact)|
 | .contractors | [whois.nic.contractors](https://whois.nic.contractors)|
 | .cooking | [whois.nic.cooking](https://whois.nic.cooking)|
-| .cookingchannel | [whois.nic.cookingchannel](https://whois.nic.cookingchannel)|
 | .cool | [whois.nic.cool](https://whois.nic.cool)|
 | .coop | [whois.nic.coop](https://whois.nic.coop)|
 | .corsica | [whois.nic.corsica](https://whois.nic.corsica)|
@@ -378,7 +377,6 @@ It does not contain:
 | .fm | [whois.nic.fm](https://whois.nic.fm)|
 | .fo | [whois.nic.fo](https://whois.nic.fo)|
 | .foo | [whois.nic.google](https://whois.nic.google)|
-| .foodnetwork | [whois.nic.foodnetwork](https://whois.nic.foodnetwork)|
 | .football | [whois.nic.football](https://whois.nic.football)|
 | .forex | [whois.nic.forex](https://whois.nic.forex)|
 | .forsale | [whois.nic.forsale](https://whois.nic.forsale)|
@@ -466,7 +464,6 @@ It does not contain:
 | .helsinki | [whois.nic.helsinki](https://whois.nic.helsinki)|
 | .here | [whois.nic.google](https://whois.nic.google)|
 | .hermes | [whois.afilias-srs.net](https://whois.afilias-srs.net)|
-| .hgtv | [whois.nic.hgtv](https://whois.nic.hgtv)|
 | .hiphop | [whois.nic.hiphop](https://whois.nic.hiphop)|
 | .hisamitsu | [whois.nic.gmo](https://whois.nic.gmo)|
 | .hitachi | [whois.nic.gmo](https://whois.nic.gmo)|
@@ -1024,7 +1021,6 @@ It does not contain:
 | .trading | [whois.nic.trading](https://whois.nic.trading)|
 | .training | [whois.nic.training](https://whois.nic.training)|
 | .travel | [whois.nic.travel](https://whois.nic.travel)|
-| .travelchannel | [whois.nic.travelchannel](https://whois.nic.travelchannel)|
 | .travelers | [whois.afilias-srs.net](https://whois.afilias-srs.net)|
 | .travelersinsurance | [whois.afilias-srs.net](https://whois.afilias-srs.net)|
 | .trust | [whois.nic.trust](https://whois.nic.trust)|
