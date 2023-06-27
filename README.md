@@ -254,6 +254,7 @@ It does not contain:
 | .creditcard | [whois.nic.creditcard](https://whois.nic.creditcard)|
 | .creditunion | [whois.nic.creditunion](https://whois.nic.creditunion)|
 | .cricket | [whois.nic.cricket](https://whois.nic.cricket)|
+| .crown | [whois.nic.crown](https://whois.nic.crown)|
 | .cruise | [whois.nic.cruise](https://whois.nic.cruise)|
 | .cruises | [whois.nic.cruises](https://whois.nic.cruises)|
 | .cuisinella | [whois.nic.cuisinella](https://whois.nic.cuisinella)|

@@ -240,6 +240,7 @@
 | creditcard | whois.nic.creditcard |
 | creditunion | whois.nic.creditunion |
 | cricket | whois.nic.cricket |
+| crown | whois.nic.crown |
 | cruise | whois.nic.cruise |
 | cruises | whois.nic.cruises |
 | cuisinella | whois.nic.cuisinella |
