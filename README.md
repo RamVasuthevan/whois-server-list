@@ -1240,6 +1240,7 @@ It does not contain:
 | .xyz | [whois.nic.xyz](https://whois.nic.xyz)|
 | .yachts | [whois.nic.yachts](https://whois.nic.yachts)|
 | .yamaxun | [whois.nic.yamaxun](https://whois.nic.yamaxun)|
+| .ye | [whois.y.net.ye](https://whois.y.net.ye)|
 | .yodobashi | [whois.nic.gmo](https://whois.nic.gmo)|
 | .yoga | [whois.nic.yoga](https://whois.nic.yoga)|
 | .yokohama | [whois.nic.yokohama](https://whois.nic.yokohama)|
