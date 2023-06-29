@@ -1226,6 +1226,7 @@
 | xyz | whois.nic.xyz |
 | yachts | whois.nic.yachts |
 | yamaxun | whois.nic.yamaxun |
+| ye | whois.y.net.ye |
 | yodobashi | whois.nic.gmo |
 | yoga | whois.nic.yoga |
 | yokohama | whois.nic.yokohama |
