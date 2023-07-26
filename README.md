@@ -655,7 +655,7 @@ It does not contain:
 | .mit | [whois.afilias-srs.net](https://whois.afilias-srs.net)|
 | .mitsubishi | [whois.nic.gmo](https://whois.nic.gmo)|
 | .mk | [whois.marnet.mk](https://whois.marnet.mk)|
-| .ml | [whois.dot.ml](https://whois.dot.ml)|
+| .ml | [whois.nic.ml](https://whois.nic.ml)|
 | .mls | [whois.nic.mls](https://whois.nic.mls)|
 | .mm | [whois.registry.gov.mm](https://whois.registry.gov.mm)|
 | .mma | [whois.nic.mma](https://whois.nic.mma)|
