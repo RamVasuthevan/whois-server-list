@@ -641,7 +641,7 @@
 | mit | whois.afilias-srs.net |
 | mitsubishi | whois.nic.gmo |
 | mk | whois.marnet.mk |
-| ml | whois.dot.ml |
+| ml | whois.nic.ml |
 | mls | whois.nic.mls |
 | mm | whois.registry.gov.mm |
 | mma | whois.nic.mma |
