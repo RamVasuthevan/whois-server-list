@@ -996,7 +996,6 @@ It does not contain:
 | .tiaa | [whois.nic.tiaa](https://whois.nic.tiaa)|
 | .tickets | [whois.nic.tickets](https://whois.nic.tickets)|
 | .tienda | [whois.nic.tienda](https://whois.nic.tienda)|
-| .tiffany | [whois.nic.tiffany](https://whois.nic.tiffany)|
 | .tips | [whois.nic.tips](https://whois.nic.tips)|
 | .tires | [whois.nic.tires](https://whois.nic.tires)|
 | .tirol | [whois.nic.tirol](https://whois.nic.tirol)|
