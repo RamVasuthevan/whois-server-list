@@ -85,7 +85,7 @@ It does not contain:
 | .author | [whois.nic.author](https://whois.nic.author)|
 | .auto | [whois.nic.auto](https://whois.nic.auto)|
 | .autos | [whois.nic.autos](https://whois.nic.autos)|
-| .avianca | [whois.afilias-srs.net](https://whois.afilias-srs.net)|
+| .avianca | [whois.nic.avianca](https://whois.nic.avianca)|
 | .aw | [whois.nic.aw](https://whois.nic.aw)|
 | .aws | [whois.nic.aws](https://whois.nic.aws)|
 | .ax | [whois.ax](https://whois.ax)|
@@ -316,7 +316,7 @@ It does not contain:
 | .eat | [whois.nic.google](https://whois.nic.google)|
 | .ec | [whois.nic.ec](https://whois.nic.ec)|
 | .eco | [whois.nic.eco](https://whois.nic.eco)|
-| .edeka | [whois.afilias-srs.net](https://whois.afilias-srs.net)|
+| .edeka | [whois.nic.edeka](https://whois.nic.edeka)|
 | .edu | [whois.educause.edu](https://whois.educause.edu)|
 | .education | [whois.nic.education](https://whois.nic.education)|
 | .ee | [whois.tld.ee](https://whois.tld.ee)|
@@ -996,7 +996,6 @@ It does not contain:
 | .tiaa | [whois.nic.tiaa](https://whois.nic.tiaa)|
 | .tickets | [whois.nic.tickets](https://whois.nic.tickets)|
 | .tienda | [whois.nic.tienda](https://whois.nic.tienda)|
-| .tiffany | [whois.nic.tiffany](https://whois.nic.tiffany)|
 | .tips | [whois.nic.tips](https://whois.nic.tips)|
 | .tires | [whois.nic.tires](https://whois.nic.tires)|
 | .tirol | [whois.nic.tirol](https://whois.nic.tirol)|
