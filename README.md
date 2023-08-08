@@ -946,7 +946,7 @@ It does not contain:
 | .statebank | [whois.nic.statebank](https://whois.nic.statebank)|
 | .stc | [whois.nic.stc](https://whois.nic.stc)|
 | .stcgroup | [whois.nic.stcgroup](https://whois.nic.stcgroup)|
-| .stockholm | [whois.afilias-srs.net](https://whois.afilias-srs.net)|
+| .stockholm | [whois.nic.stockholm](https://whois.nic.stockholm)|
 | .storage | [whois.nic.storage](https://whois.nic.storage)|
 | .store | [whois.nic.store](https://whois.nic.store)|
 | .stream | [whois.nic.stream](https://whois.nic.stream)|

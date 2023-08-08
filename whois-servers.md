@@ -932,7 +932,7 @@
 | statebank | whois.nic.statebank |
 | stc | whois.nic.stc |
 | stcgroup | whois.nic.stcgroup |
-| stockholm | whois.afilias-srs.net |
+| stockholm | whois.nic.stockholm |
 | storage | whois.nic.storage |
 | store | whois.nic.store |
 | stream | whois.nic.stream |
