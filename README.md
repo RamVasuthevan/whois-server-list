@@ -720,7 +720,7 @@ It does not contain:
 | .now | [whois.nic.now](https://whois.nic.now)|
 | .nowruz | [whois.nic.nowruz](https://whois.nic.nowruz)|
 | .nowtv | [whois.nic.nowtv](https://whois.nic.nowtv)|
-| .nra | [whois.afilias-srs.net](https://whois.afilias-srs.net)|
+| .nra | [whois.nic.nra](https://whois.nic.nra)|
 | .nrw | [whois.nic.nrw](https://whois.nic.nrw)|
 | .nu | [whois.iis.nu](https://whois.iis.nu)|
 | .nz | [whois.irs.net.nz](https://whois.irs.net.nz)|
@@ -946,7 +946,7 @@ It does not contain:
 | .statebank | [whois.nic.statebank](https://whois.nic.statebank)|
 | .stc | [whois.nic.stc](https://whois.nic.stc)|
 | .stcgroup | [whois.nic.stcgroup](https://whois.nic.stcgroup)|
-| .stockholm | [whois.afilias-srs.net](https://whois.afilias-srs.net)|
+| .stockholm | [whois.nic.stockholm](https://whois.nic.stockholm)|
 | .storage | [whois.nic.storage](https://whois.nic.storage)|
 | .store | [whois.nic.store](https://whois.nic.store)|
 | .stream | [whois.nic.stream](https://whois.nic.stream)|

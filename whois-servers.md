@@ -706,7 +706,7 @@
 | now | whois.nic.now |
 | nowruz | whois.nic.nowruz |
 | nowtv | whois.nic.nowtv |
-| nra | whois.afilias-srs.net |
+| nra | whois.nic.nra |
 | nrw | whois.nic.nrw |
 | nu | whois.iis.nu |
 | nz | whois.irs.net.nz |
@@ -932,7 +932,7 @@
 | statebank | whois.nic.statebank |
 | stc | whois.nic.stc |
 | stcgroup | whois.nic.stcgroup |
-| stockholm | whois.afilias-srs.net |
+| stockholm | whois.nic.stockholm |
 | storage | whois.nic.storage |
 | store | whois.nic.store |
 | stream | whois.nic.stream |
