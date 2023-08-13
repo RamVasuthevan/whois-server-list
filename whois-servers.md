@@ -94,7 +94,7 @@
 | bcg | whois.nic.bcg |
 | bcn | whois.nic.bcn |
 | be | whois.dns.be |
-| beats | whois.afilias-srs.net |
+| beats | whois.nic.beats |
 | beauty | whois.nic.beauty |
 | beer | whois.nic.beer |
 | bentley | whois.nic.bentley |
@@ -122,7 +122,7 @@
 | bnpparibas | whois.afilias-srs.net |
 | bo | whois.nic.bo |
 | boats | whois.nic.boats |
-| boehringer | whois.afilias-srs.net |
+| boehringer | whois.nic.boehringer |
 | bofa | whois.nic.bofa |
 | bom | whois.gtlds.nic.br |
 | bond | whois.nic.bond |
@@ -193,7 +193,7 @@
 | chrome | whois.nic.google |
 | church | whois.nic.church |
 | ci | whois.nic.ci |
-| cipriani | whois.afilias-srs.net |
+| cipriani | whois.nic.cipriani |
 | circle | whois.nic.circle |
 | city | whois.nic.city |
 | cityeats | whois.nic.cityeats |
@@ -241,6 +241,7 @@
 | creditunion | whois.nic.creditunion |
 | cricket | whois.nic.cricket |
 | crown | whois.nic.crown |
+| crs | whois.nic.crs |
 | cruise | whois.nic.cruise |
 | cruises | whois.nic.cruises |
 | cuisinella | whois.nic.cuisinella |
@@ -329,7 +330,7 @@
 | exposed | whois.nic.exposed |
 | express | whois.nic.express |
 | extraspace | whois.afilias-srs.net |
-| fage | whois.afilias-srs.net |
+| fage | whois.nic.fage |
 | fail | whois.nic.fail |
 | fairwinds | whois.nic.fairwinds |
 | faith | whois.nic.faith |
@@ -344,7 +345,7 @@
 | ferrari | whois.nic.ferrari |
 | fi | whois.fi |
 | fidelity | whois.nic.fidelity |
-| fido | whois.afilias-srs.net |
+| fido | whois.nic.fido |
 | film | whois.nic.film |
 | final | whois.gtlds.nic.br |
 | finance | whois.nic.finance |
@@ -513,16 +514,16 @@
 | ist | whois.nic.ist |
 | istanbul | whois.nic.istanbul |
 | it | whois.nic.it |
-| itv | whois.afilias-srs.net |
+| itv | whois.nic.itv |
 | jaguar | whois.nic.jaguar |
 | java | whois.nic.java |
 | jcb | whois.nic.gmo |
 | je | whois.je |
-| jeep | whois.afilias-srs.net |
+| jeep | whois.nic.jeep |
 | jetzt | whois.nic.jetzt |
 | jewelry | whois.nic.jewelry |
 | jio | whois.nic.jio |
-| jll | whois.afilias-srs.net |
+| jll | whois.nic.jll |
 | jobs | whois.nic.jobs |
 | joburg | whois.nic.joburg |
 | jot | whois.nic.jot |
@@ -562,7 +563,7 @@
 | lancaster | whois.nic.lancaster |
 | land | whois.nic.land |
 | landrover | whois.nic.landrover |
-| lasalle | whois.afilias-srs.net |
+| lasalle | whois.nic.lasalle |
 | lat | whois.nic.lat |
 | latino | whois.nic.latino |
 | latrobe | whois.nic.latrobe |
@@ -780,7 +781,7 @@
 | prod | whois.nic.google |
 | productions | whois.nic.productions |
 | prof | whois.nic.google |
-| progressive | whois.afilias-srs.net |
+| progressive | whois.nic.progressive |
 | promo | whois.nic.promo |
 | properties | whois.nic.properties |
 | property | whois.nic.property |
@@ -788,7 +789,7 @@
 | pt | whois.dns.pt |
 | pub | whois.nic.pub |
 | pw | whois.nic.pw |
-| pwc | whois.afilias-srs.net |
+| pwc | whois.nic.pwc |
 | qa | whois.registry.qa |
 | qpon | whois.nic.qpon |
 | quebec | whois.nic.quebec |
@@ -803,7 +804,7 @@
 | recipes | whois.nic.recipes |
 | red | whois.nic.red |
 | redstone | whois.nic.redstone |
-| redumbrella | whois.afilias-srs.net |
+| redumbrella | whois.nic.redumbrella |
 | rehab | whois.nic.rehab |
 | reise | whois.nic.reise |
 | reisen | whois.nic.reisen |
@@ -829,7 +830,7 @@
 | ro | whois.rotld.ro |
 | rocks | whois.nic.rocks |
 | rodeo | whois.nic.rodeo |
-| rogers | whois.afilias-srs.net |
+| rogers | whois.nic.rogers |
 | room | whois.nic.room |
 | rs | whois.rnids.rs |
 | rsvp | whois.nic.google |
@@ -970,7 +971,7 @@
 | tech | whois.nic.tech |
 | technology | whois.nic.technology |
 | tel | whois.nic.tel |
-| temasek | whois.afilias-srs.net |
+| temasek | whois.nic.temasek |
 | tennis | whois.nic.tennis |
 | teva | whois.nic.teva |
 | tf | whois.nic.tf |
@@ -1007,10 +1008,10 @@
 | trading | whois.nic.trading |
 | training | whois.nic.training |
 | travel | whois.nic.travel |
-| travelers | whois.afilias-srs.net |
-| travelersinsurance | whois.afilias-srs.net |
+| travelers | whois.nic.travelers |
+| travelersinsurance | whois.nic.travelersinsurance |
 | trust | whois.nic.trust |
-| trv | whois.afilias-srs.net |
+| trv | whois.nic.trv |
 | tui | whois.nic.tui |
 | tunes | whois.nic.tunes |
 | tushu | whois.nic.tushu |
@@ -1044,8 +1045,8 @@
 | vg | whois.nic.vg |
 | viajes | whois.nic.viajes |
 | video | whois.nic.video |
-| vig | whois.afilias-srs.net |
-| viking | whois.afilias-srs.net |
+| vig | whois.nic.vig |
+| viking | whois.nic.viking |
 | villas | whois.nic.villas |
 | vin | whois.nic.vin |
 | vip | whois.nic.vip |
@@ -1129,7 +1130,7 @@
 | xn--9dbq2a | whois.nic.xn--9dbq2a |
 | xn--9et52u | whois.gtld.knet.cn |
 | xn--9krt00a | whois.nic.xn--9krt00a |
-| xn--b4w605ferd | whois.afilias-srs.net |
+| xn--b4w605ferd | whois.nic.xn--b4w605ferd |
 | xn--c1avg | whois.nic.xn--c1avg |
 | xn--c2br7g | whois.nic.xn--c2br7g |
 | xn--cckwcxetd | whois.nic.xn--cckwcxetd |
