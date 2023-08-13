@@ -108,7 +108,7 @@ It does not contain:
 | .bcg | [whois.nic.bcg](https://whois.nic.bcg)|
 | .bcn | [whois.nic.bcn](https://whois.nic.bcn)|
 | .be | [whois.dns.be](https://whois.dns.be)|
-| .beats | [whois.afilias-srs.net](https://whois.afilias-srs.net)|
+| .beats | [whois.nic.beats](https://whois.nic.beats)|
 | .beauty | [whois.nic.beauty](https://whois.nic.beauty)|
 | .beer | [whois.nic.beer](https://whois.nic.beer)|
 | .bentley | [whois.nic.bentley](https://whois.nic.bentley)|
@@ -136,7 +136,7 @@ It does not contain:
 | .bnpparibas | [whois.afilias-srs.net](https://whois.afilias-srs.net)|
 | .bo | [whois.nic.bo](https://whois.nic.bo)|
 | .boats | [whois.nic.boats](https://whois.nic.boats)|
-| .boehringer | [whois.afilias-srs.net](https://whois.afilias-srs.net)|
+| .boehringer | [whois.nic.boehringer](https://whois.nic.boehringer)|
 | .bofa | [whois.nic.bofa](https://whois.nic.bofa)|
 | .bom | [whois.gtlds.nic.br](https://whois.gtlds.nic.br)|
 | .bond | [whois.nic.bond](https://whois.nic.bond)|
@@ -207,7 +207,7 @@ It does not contain:
 | .chrome | [whois.nic.google](https://whois.nic.google)|
 | .church | [whois.nic.church](https://whois.nic.church)|
 | .ci | [whois.nic.ci](https://whois.nic.ci)|
-| .cipriani | [whois.afilias-srs.net](https://whois.afilias-srs.net)|
+| .cipriani | [whois.nic.cipriani](https://whois.nic.cipriani)|
 | .circle | [whois.nic.circle](https://whois.nic.circle)|
 | .city | [whois.nic.city](https://whois.nic.city)|
 | .cityeats | [whois.nic.cityeats](https://whois.nic.cityeats)|
@@ -255,6 +255,7 @@ It does not contain:
 | .creditunion | [whois.nic.creditunion](https://whois.nic.creditunion)|
 | .cricket | [whois.nic.cricket](https://whois.nic.cricket)|
 | .crown | [whois.nic.crown](https://whois.nic.crown)|
+| .crs | [whois.nic.crs](https://whois.nic.crs)|
 | .cruise | [whois.nic.cruise](https://whois.nic.cruise)|
 | .cruises | [whois.nic.cruises](https://whois.nic.cruises)|
 | .cuisinella | [whois.nic.cuisinella](https://whois.nic.cuisinella)|
@@ -343,7 +344,7 @@ It does not contain:
 | .exposed | [whois.nic.exposed](https://whois.nic.exposed)|
 | .express | [whois.nic.express](https://whois.nic.express)|
 | .extraspace | [whois.afilias-srs.net](https://whois.afilias-srs.net)|
-| .fage | [whois.afilias-srs.net](https://whois.afilias-srs.net)|
+| .fage | [whois.nic.fage](https://whois.nic.fage)|
 | .fail | [whois.nic.fail](https://whois.nic.fail)|
 | .fairwinds | [whois.nic.fairwinds](https://whois.nic.fairwinds)|
 | .faith | [whois.nic.faith](https://whois.nic.faith)|
@@ -358,7 +359,7 @@ It does not contain:
 | .ferrari | [whois.nic.ferrari](https://whois.nic.ferrari)|
 | .fi | [whois.fi](https://whois.fi)|
 | .fidelity | [whois.nic.fidelity](https://whois.nic.fidelity)|
-| .fido | [whois.afilias-srs.net](https://whois.afilias-srs.net)|
+| .fido | [whois.nic.fido](https://whois.nic.fido)|
 | .film | [whois.nic.film](https://whois.nic.film)|
 | .final | [whois.gtlds.nic.br](https://whois.gtlds.nic.br)|
 | .finance | [whois.nic.finance](https://whois.nic.finance)|
@@ -527,16 +528,16 @@ It does not contain:
 | .ist | [whois.nic.ist](https://whois.nic.ist)|
 | .istanbul | [whois.nic.istanbul](https://whois.nic.istanbul)|
 | .it | [whois.nic.it](https://whois.nic.it)|
-| .itv | [whois.afilias-srs.net](https://whois.afilias-srs.net)|
+| .itv | [whois.nic.itv](https://whois.nic.itv)|
 | .jaguar | [whois.nic.jaguar](https://whois.nic.jaguar)|
 | .java | [whois.nic.java](https://whois.nic.java)|
 | .jcb | [whois.nic.gmo](https://whois.nic.gmo)|
 | .je | [whois.je](https://whois.je)|
-| .jeep | [whois.afilias-srs.net](https://whois.afilias-srs.net)|
+| .jeep | [whois.nic.jeep](https://whois.nic.jeep)|
 | .jetzt | [whois.nic.jetzt](https://whois.nic.jetzt)|
 | .jewelry | [whois.nic.jewelry](https://whois.nic.jewelry)|
 | .jio | [whois.nic.jio](https://whois.nic.jio)|
-| .jll | [whois.afilias-srs.net](https://whois.afilias-srs.net)|
+| .jll | [whois.nic.jll](https://whois.nic.jll)|
 | .jobs | [whois.nic.jobs](https://whois.nic.jobs)|
 | .joburg | [whois.nic.joburg](https://whois.nic.joburg)|
 | .jot | [whois.nic.jot](https://whois.nic.jot)|
@@ -576,7 +577,7 @@ It does not contain:
 | .lancaster | [whois.nic.lancaster](https://whois.nic.lancaster)|
 | .land | [whois.nic.land](https://whois.nic.land)|
 | .landrover | [whois.nic.landrover](https://whois.nic.landrover)|
-| .lasalle | [whois.afilias-srs.net](https://whois.afilias-srs.net)|
+| .lasalle | [whois.nic.lasalle](https://whois.nic.lasalle)|
 | .lat | [whois.nic.lat](https://whois.nic.lat)|
 | .latino | [whois.nic.latino](https://whois.nic.latino)|
 | .latrobe | [whois.nic.latrobe](https://whois.nic.latrobe)|
@@ -794,7 +795,7 @@ It does not contain:
 | .prod | [whois.nic.google](https://whois.nic.google)|
 | .productions | [whois.nic.productions](https://whois.nic.productions)|
 | .prof | [whois.nic.google](https://whois.nic.google)|
-| .progressive | [whois.afilias-srs.net](https://whois.afilias-srs.net)|
+| .progressive | [whois.nic.progressive](https://whois.nic.progressive)|
 | .promo | [whois.nic.promo](https://whois.nic.promo)|
 | .properties | [whois.nic.properties](https://whois.nic.properties)|
 | .property | [whois.nic.property](https://whois.nic.property)|
@@ -802,7 +803,7 @@ It does not contain:
 | .pt | [whois.dns.pt](https://whois.dns.pt)|
 | .pub | [whois.nic.pub](https://whois.nic.pub)|
 | .pw | [whois.nic.pw](https://whois.nic.pw)|
-| .pwc | [whois.afilias-srs.net](https://whois.afilias-srs.net)|
+| .pwc | [whois.nic.pwc](https://whois.nic.pwc)|
 | .qa | [whois.registry.qa](https://whois.registry.qa)|
 | .qpon | [whois.nic.qpon](https://whois.nic.qpon)|
 | .quebec | [whois.nic.quebec](https://whois.nic.quebec)|
@@ -817,7 +818,7 @@ It does not contain:
 | .recipes | [whois.nic.recipes](https://whois.nic.recipes)|
 | .red | [whois.nic.red](https://whois.nic.red)|
 | .redstone | [whois.nic.redstone](https://whois.nic.redstone)|
-| .redumbrella | [whois.afilias-srs.net](https://whois.afilias-srs.net)|
+| .redumbrella | [whois.nic.redumbrella](https://whois.nic.redumbrella)|
 | .rehab | [whois.nic.rehab](https://whois.nic.rehab)|
 | .reise | [whois.nic.reise](https://whois.nic.reise)|
 | .reisen | [whois.nic.reisen](https://whois.nic.reisen)|
@@ -843,7 +844,7 @@ It does not contain:
 | .ro | [whois.rotld.ro](https://whois.rotld.ro)|
 | .rocks | [whois.nic.rocks](https://whois.nic.rocks)|
 | .rodeo | [whois.nic.rodeo](https://whois.nic.rodeo)|
-| .rogers | [whois.afilias-srs.net](https://whois.afilias-srs.net)|
+| .rogers | [whois.nic.rogers](https://whois.nic.rogers)|
 | .room | [whois.nic.room](https://whois.nic.room)|
 | .rs | [whois.rnids.rs](https://whois.rnids.rs)|
 | .rsvp | [whois.nic.google](https://whois.nic.google)|
@@ -984,7 +985,7 @@ It does not contain:
 | .tech | [whois.nic.tech](https://whois.nic.tech)|
 | .technology | [whois.nic.technology](https://whois.nic.technology)|
 | .tel | [whois.nic.tel](https://whois.nic.tel)|
-| .temasek | [whois.afilias-srs.net](https://whois.afilias-srs.net)|
+| .temasek | [whois.nic.temasek](https://whois.nic.temasek)|
 | .tennis | [whois.nic.tennis](https://whois.nic.tennis)|
 | .teva | [whois.nic.teva](https://whois.nic.teva)|
 | .tf | [whois.nic.tf](https://whois.nic.tf)|
@@ -1021,10 +1022,10 @@ It does not contain:
 | .trading | [whois.nic.trading](https://whois.nic.trading)|
 | .training | [whois.nic.training](https://whois.nic.training)|
 | .travel | [whois.nic.travel](https://whois.nic.travel)|
-| .travelers | [whois.afilias-srs.net](https://whois.afilias-srs.net)|
-| .travelersinsurance | [whois.afilias-srs.net](https://whois.afilias-srs.net)|
+| .travelers | [whois.nic.travelers](https://whois.nic.travelers)|
+| .travelersinsurance | [whois.nic.travelersinsurance](https://whois.nic.travelersinsurance)|
 | .trust | [whois.nic.trust](https://whois.nic.trust)|
-| .trv | [whois.afilias-srs.net](https://whois.afilias-srs.net)|
+| .trv | [whois.nic.trv](https://whois.nic.trv)|
 | .tui | [whois.nic.tui](https://whois.nic.tui)|
 | .tunes | [whois.nic.tunes](https://whois.nic.tunes)|
 | .tushu | [whois.nic.tushu](https://whois.nic.tushu)|
@@ -1058,8 +1059,8 @@ It does not contain:
 | .vg | [whois.nic.vg](https://whois.nic.vg)|
 | .viajes | [whois.nic.viajes](https://whois.nic.viajes)|
 | .video | [whois.nic.video](https://whois.nic.video)|
-| .vig | [whois.afilias-srs.net](https://whois.afilias-srs.net)|
-| .viking | [whois.afilias-srs.net](https://whois.afilias-srs.net)|
+| .vig | [whois.nic.vig](https://whois.nic.vig)|
+| .viking | [whois.nic.viking](https://whois.nic.viking)|
 | .villas | [whois.nic.villas](https://whois.nic.villas)|
 | .vin | [whois.nic.vin](https://whois.nic.vin)|
 | .vip | [whois.nic.vip](https://whois.nic.vip)|
@@ -1143,7 +1144,7 @@ It does not contain:
 | .xn--9dbq2a (.קום) | [whois.nic.xn--9dbq2a](https://whois.nic.xn--9dbq2a) |
 | .xn--9et52u (.时尚) | [whois.gtld.knet.cn](https://whois.gtld.knet.cn) |
 | .xn--9krt00a (.微博) | [whois.nic.xn--9krt00a](https://whois.nic.xn--9krt00a) |
-| .xn--b4w605ferd (.淡马锡) | [whois.afilias-srs.net](https://whois.afilias-srs.net) |
+| .xn--b4w605ferd (.淡马锡) | [whois.nic.xn--b4w605ferd](https://whois.nic.xn--b4w605ferd) |
 | .xn--c1avg (.ОРГ) | [whois.nic.xn--c1avg](https://whois.nic.xn--c1avg) |
 | .xn--c2br7g (.नेट) | [whois.nic.xn--c2br7g](https://whois.nic.xn--c2br7g) |
 | .xn--cckwcxetd (.アマゾン) | [whois.nic.xn--cckwcxetd](https://whois.nic.xn--cckwcxetd) |
