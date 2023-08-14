@@ -61,7 +61,7 @@ It does not contain:
 | .aol | [whois.nic.aol](https://whois.nic.aol)|
 | .apartments | [whois.nic.apartments](https://whois.nic.apartments)|
 | .app | [whois.nic.google](https://whois.nic.google)|
-| .apple | [whois.afilias-srs.net](https://whois.afilias-srs.net)|
+| .apple | [whois.nic.apple](https://whois.nic.apple)|
 | .aquarelle | [whois.nic.aquarelle](https://whois.nic.aquarelle)|
 | .ar | [whois.nic.ar](https://whois.nic.ar)|
 | .arab | [whois.nic.arab](https://whois.nic.arab)|

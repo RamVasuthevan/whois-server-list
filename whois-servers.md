@@ -47,7 +47,7 @@
 | aol | whois.nic.aol |
 | apartments | whois.nic.apartments |
 | app | whois.nic.google |
-| apple | whois.afilias-srs.net |
+| apple | whois.nic.apple |
 | aquarelle | whois.nic.aquarelle |
 | ar | whois.nic.ar |
 | arab | whois.nic.arab |
