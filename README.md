@@ -893,7 +893,7 @@ It does not contain:
 | .select | [whois.nic.select](https://whois.nic.select)|
 | .services | [whois.nic.services](https://whois.nic.services)|
 | .seven | [whois.nic.seven](https://whois.nic.seven)|
-| .sew | [whois.afilias-srs.net](https://whois.afilias-srs.net)|
+| .sew | [whois.nic.sew](https://whois.nic.sew)|
 | .sex | [whois.nic.sex](https://whois.nic.sex)|
 | .sexy | [whois.nic.sexy](https://whois.nic.sexy)|
 | .sfr | [whois.nic.sfr](https://whois.nic.sfr)|

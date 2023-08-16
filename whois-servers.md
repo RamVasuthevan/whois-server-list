@@ -879,7 +879,7 @@
 | select | whois.nic.select |
 | services | whois.nic.services |
 | seven | whois.nic.seven |
-| sew | whois.afilias-srs.net |
+| sew | whois.nic.sew |
 | sex | whois.nic.sex |
 | sexy | whois.nic.sexy |
 | sfr | whois.nic.sfr |
