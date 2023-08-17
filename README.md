@@ -16,7 +16,7 @@ It does not contain:
 |----------|--------------------------|
 | .aarp | [whois.nic.aarp](https://whois.nic.aarp)|
 | .abb | [whois.nic.abb](https://whois.nic.abb)|
-| .abbott | [whois.afilias-srs.net](https://whois.afilias-srs.net)|
+| .abbott | [whois.nic.abbott](https://whois.nic.abbott)|
 | .abbvie | [whois.nic.abbvie](https://whois.nic.abbvie)|
 | .abc | [whois.nic.abc](https://whois.nic.abc)|
 | .abogado | [whois.nic.abogado](https://whois.nic.abogado)|
@@ -46,7 +46,7 @@ It does not contain:
 | .alibaba | [whois.nic.alibaba](https://whois.nic.alibaba)|
 | .alipay | [whois.nic.alipay](https://whois.nic.alipay)|
 | .allfinanz | [whois.nic.allfinanz](https://whois.nic.allfinanz)|
-| .allstate | [whois.afilias-srs.net](https://whois.afilias-srs.net)|
+| .allstate | [whois.nic.allstate](https://whois.nic.allstate)|
 | .ally | [whois.nic.ally](https://whois.nic.ally)|
 | .alsace | [whois.nic.alsace](https://whois.nic.alsace)|
 | .alstom | [whois.nic.alstom](https://whois.nic.alstom)|
@@ -78,7 +78,7 @@ It does not contain:
 | .attorney | [whois.nic.attorney](https://whois.nic.attorney)|
 | .au | [whois.auda.org.au](https://whois.auda.org.au)|
 | .auction | [whois.nic.auction](https://whois.nic.auction)|
-| .audi | [whois.afilias-srs.net](https://whois.afilias-srs.net)|
+| .audi | [whois.nic.audi](https://whois.nic.audi)|
 | .audible | [whois.nic.audible](https://whois.nic.audible)|
 | .audio | [whois.nic.audio](https://whois.nic.audio)|
 | .auspost | [whois.nic.auspost](https://whois.nic.auspost)|
@@ -343,7 +343,7 @@ It does not contain:
 | .expert | [whois.nic.expert](https://whois.nic.expert)|
 | .exposed | [whois.nic.exposed](https://whois.nic.exposed)|
 | .express | [whois.nic.express](https://whois.nic.express)|
-| .extraspace | [whois.afilias-srs.net](https://whois.afilias-srs.net)|
+| .extraspace | [whois.nic.extraspace](https://whois.nic.extraspace)|
 | .fage | [whois.nic.fage](https://whois.nic.fage)|
 | .fail | [whois.nic.fail](https://whois.nic.fail)|
 | .fairwinds | [whois.nic.fairwinds](https://whois.nic.fairwinds)|
@@ -572,7 +572,7 @@ It does not contain:
 | .kz | [whois.nic.kz](https://whois.nic.kz)|
 | .la | [whois.nic.la](https://whois.nic.la)|
 | .lacaixa | [whois.nic.lacaixa](https://whois.nic.lacaixa)|
-| .lamborghini | [whois.afilias-srs.net](https://whois.afilias-srs.net)|
+| .lamborghini | [whois.nic.lamborghini](https://whois.nic.lamborghini)|
 | .lamer | [whois.nic.lamer](https://whois.nic.lamer)|
 | .lancaster | [whois.nic.lancaster](https://whois.nic.lancaster)|
 | .land | [whois.nic.land](https://whois.nic.land)|
@@ -893,7 +893,7 @@ It does not contain:
 | .select | [whois.nic.select](https://whois.nic.select)|
 | .services | [whois.nic.services](https://whois.nic.services)|
 | .seven | [whois.nic.seven](https://whois.nic.seven)|
-| .sew | [whois.afilias-srs.net](https://whois.afilias-srs.net)|
+| .sew | [whois.nic.sew](https://whois.nic.sew)|
 | .sex | [whois.nic.sex](https://whois.nic.sex)|
 | .sexy | [whois.nic.sexy](https://whois.nic.sexy)|
 | .sfr | [whois.nic.sfr](https://whois.nic.sfr)|
@@ -1070,7 +1070,7 @@ It does not contain:
 | .viva | [whois.nic.viva](https://whois.nic.viva)|
 | .vlaanderen | [whois.nic.vlaanderen](https://whois.nic.vlaanderen)|
 | .vodka | [whois.nic.vodka](https://whois.nic.vodka)|
-| .volkswagen | [whois.afilias-srs.net](https://whois.afilias-srs.net)|
+| .volkswagen | [whois.nic.volkswagen](https://whois.nic.volkswagen)|
 | .volvo | [whois.nic.volvo](https://whois.nic.volvo)|
 | .vote | [whois.nic.vote](https://whois.nic.vote)|
 | .voting | [whois.nic.voting](https://whois.nic.voting)|
