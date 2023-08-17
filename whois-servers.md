@@ -2,7 +2,7 @@
 |----------|--------------------------|
 | aarp | whois.nic.aarp |
 | abb | whois.nic.abb |
-| abbott | whois.afilias-srs.net |
+| abbott | whois.nic.abbott |
 | abbvie | whois.nic.abbvie |
 | abc | whois.nic.abc |
 | abogado | whois.nic.abogado |
@@ -32,7 +32,7 @@
 | alibaba | whois.nic.alibaba |
 | alipay | whois.nic.alipay |
 | allfinanz | whois.nic.allfinanz |
-| allstate | whois.afilias-srs.net |
+| allstate | whois.nic.allstate |
 | ally | whois.nic.ally |
 | alsace | whois.nic.alsace |
 | alstom | whois.nic.alstom |
@@ -64,7 +64,7 @@
 | attorney | whois.nic.attorney |
 | au | whois.auda.org.au |
 | auction | whois.nic.auction |
-| audi | whois.afilias-srs.net |
+| audi | whois.nic.audi |
 | audible | whois.nic.audible |
 | audio | whois.nic.audio |
 | auspost | whois.nic.auspost |
@@ -329,7 +329,7 @@
 | expert | whois.nic.expert |
 | exposed | whois.nic.exposed |
 | express | whois.nic.express |
-| extraspace | whois.afilias-srs.net |
+| extraspace | whois.nic.extraspace |
 | fage | whois.nic.fage |
 | fail | whois.nic.fail |
 | fairwinds | whois.nic.fairwinds |
@@ -558,7 +558,7 @@
 | kz | whois.nic.kz |
 | la | whois.nic.la |
 | lacaixa | whois.nic.lacaixa |
-| lamborghini | whois.afilias-srs.net |
+| lamborghini | whois.nic.lamborghini |
 | lamer | whois.nic.lamer |
 | lancaster | whois.nic.lancaster |
 | land | whois.nic.land |
@@ -879,7 +879,7 @@
 | select | whois.nic.select |
 | services | whois.nic.services |
 | seven | whois.nic.seven |
-| sew | whois.afilias-srs.net |
+| sew | whois.nic.sew |
 | sex | whois.nic.sex |
 | sexy | whois.nic.sexy |
 | sfr | whois.nic.sfr |
@@ -1056,7 +1056,7 @@
 | viva | whois.nic.viva |
 | vlaanderen | whois.nic.vlaanderen |
 | vodka | whois.nic.vodka |
-| volkswagen | whois.afilias-srs.net |
+| volkswagen | whois.nic.volkswagen |
 | volvo | whois.nic.volvo |
 | vote | whois.nic.vote |
 | voting | whois.nic.voting |
