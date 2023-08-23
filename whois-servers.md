@@ -178,7 +178,7 @@
 | cc | ccwhois.verisign-grs.com |
 | center | whois.nic.center |
 | ceo | whois.nic.ceo |
-| cern | whois.afilias-srs.net |
+| cern | whois.nic.cern |
 | cf | whois.dot.cf |
 | cfa | whois.nic.cfa |
 | cfd | whois.nic.cfd |
