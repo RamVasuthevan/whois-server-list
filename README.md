@@ -192,7 +192,7 @@ It does not contain:
 | .cc | [ccwhois.verisign-grs.com](https://ccwhois.verisign-grs.com)|
 | .center | [whois.nic.center](https://whois.nic.center)|
 | .ceo | [whois.nic.ceo](https://whois.nic.ceo)|
-| .cern | [whois.afilias-srs.net](https://whois.afilias-srs.net)|
+| .cern | [whois.nic.cern](https://whois.nic.cern)|
 | .cf | [whois.dot.cf](https://whois.dot.cf)|
 | .cfa | [whois.nic.cfa](https://whois.nic.cfa)|
 | .cfd | [whois.nic.cfd](https://whois.nic.cfd)|
