@@ -22,13 +22,13 @@
 | afl | whois.nic.afl |
 | africa | whois.nic.africa |
 | ag | whois.nic.ag |
-| agakhan | whois.afilias-srs.net |
+| agakhan | whois.nic.agakhan |
 | agency | whois.nic.agency |
 | ai | whois.nic.ai |
 | airbus | whois.nic.airbus |
 | airforce | whois.nic.airforce |
 | airtel | whois.nic.airtel |
-| akdn | whois.afilias-srs.net |
+| akdn | whois.nic.akdn |
 | alibaba | whois.nic.alibaba |
 | alipay | whois.nic.alipay |
 | allfinanz | whois.nic.allfinanz |
@@ -488,7 +488,7 @@
 | ikano | whois.nic.ikano |
 | il | whois.isoc.org.il |
 | im | whois.nic.im |
-| imamat | whois.afilias-srs.net |
+| imamat | whois.nic.imamat |
 | imdb | whois.nic.imdb |
 | immo | whois.nic.immo |
 | immobilien | whois.nic.immobilien |
@@ -510,7 +510,7 @@
 | ir | whois.nic.ir |
 | irish | whois.nic.irish |
 | is | whois.isnic.is |
-| ismaili | whois.afilias-srs.net |
+| ismaili | whois.nic.ismaili |
 | ist | whois.nic.ist |
 | istanbul | whois.nic.istanbul |
 | it | whois.nic.it |
