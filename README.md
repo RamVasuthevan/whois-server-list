@@ -36,13 +36,13 @@ It does not contain:
 | .afl | [whois.nic.afl](https://whois.nic.afl)|
 | .africa | [whois.nic.africa](https://whois.nic.africa)|
 | .ag | [whois.nic.ag](https://whois.nic.ag)|
-| .agakhan | [whois.afilias-srs.net](https://whois.afilias-srs.net)|
+| .agakhan | [whois.nic.agakhan](https://whois.nic.agakhan)|
 | .agency | [whois.nic.agency](https://whois.nic.agency)|
 | .ai | [whois.nic.ai](https://whois.nic.ai)|
 | .airbus | [whois.nic.airbus](https://whois.nic.airbus)|
 | .airforce | [whois.nic.airforce](https://whois.nic.airforce)|
 | .airtel | [whois.nic.airtel](https://whois.nic.airtel)|
-| .akdn | [whois.afilias-srs.net](https://whois.afilias-srs.net)|
+| .akdn | [whois.nic.akdn](https://whois.nic.akdn)|
 | .alibaba | [whois.nic.alibaba](https://whois.nic.alibaba)|
 | .alipay | [whois.nic.alipay](https://whois.nic.alipay)|
 | .allfinanz | [whois.nic.allfinanz](https://whois.nic.allfinanz)|
@@ -502,7 +502,7 @@ It does not contain:
 | .ikano | [whois.nic.ikano](https://whois.nic.ikano)|
 | .il | [whois.isoc.org.il](https://whois.isoc.org.il)|
 | .im | [whois.nic.im](https://whois.nic.im)|
-| .imamat | [whois.afilias-srs.net](https://whois.afilias-srs.net)|
+| .imamat | [whois.nic.imamat](https://whois.nic.imamat)|
 | .imdb | [whois.nic.imdb](https://whois.nic.imdb)|
 | .immo | [whois.nic.immo](https://whois.nic.immo)|
 | .immobilien | [whois.nic.immobilien](https://whois.nic.immobilien)|
@@ -524,7 +524,7 @@ It does not contain:
 | .ir | [whois.nic.ir](https://whois.nic.ir)|
 | .irish | [whois.nic.irish](https://whois.nic.irish)|
 | .is | [whois.isnic.is](https://whois.isnic.is)|
-| .ismaili | [whois.afilias-srs.net](https://whois.afilias-srs.net)|
+| .ismaili | [whois.nic.ismaili](https://whois.nic.ismaili)|
 | .ist | [whois.nic.ist](https://whois.nic.ist)|
 | .istanbul | [whois.nic.istanbul](https://whois.nic.istanbul)|
 | .it | [whois.nic.it](https://whois.nic.it)|
