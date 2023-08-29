@@ -133,7 +133,7 @@ It does not contain:
 | .bms | [whois.nic.bms](https://whois.nic.bms)|
 | .bmw | [whois.nic.bmw](https://whois.nic.bmw)|
 | .bn | [whois.bnnic.bn](https://whois.bnnic.bn)|
-| .bnpparibas | [whois.afilias-srs.net](https://whois.afilias-srs.net)|
+| .bnpparibas | [whois.nic.bnpparibas](https://whois.nic.bnpparibas)|
 | .bo | [whois.nic.bo](https://whois.nic.bo)|
 | .boats | [whois.nic.boats](https://whois.nic.boats)|
 | .boehringer | [whois.nic.boehringer](https://whois.nic.boehringer)|
