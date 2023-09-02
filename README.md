@@ -126,7 +126,7 @@ It does not contain:
 | .biz | [whois.nic.biz](https://whois.nic.biz)|
 | .bj | [whois.nic.bj](https://whois.nic.bj)|
 | .black | [whois.nic.black](https://whois.nic.black)|
-| .blackfriday | [whois.uniregistry.net](https://whois.uniregistry.net)|
+| .blackfriday | [whois.nic.blackfriday](https://whois.nic.blackfriday)|
 | .blockbuster | [whois.nic.blockbuster](https://whois.nic.blockbuster)|
 | .blog | [whois.nic.blog](https://whois.nic.blog)|
 | .blue | [whois.nic.blue](https://whois.nic.blue)|
@@ -465,7 +465,7 @@ It does not contain:
 | .help | [whois.nic.help](https://whois.nic.help)|
 | .helsinki | [whois.nic.helsinki](https://whois.nic.helsinki)|
 | .here | [whois.nic.google](https://whois.nic.google)|
-| .hermes | [whois.afilias-srs.net](https://whois.afilias-srs.net)|
+| .hermes | [whois.nic.hermes](https://whois.nic.hermes)|
 | .hiphop | [whois.nic.hiphop](https://whois.nic.hiphop)|
 | .hisamitsu | [whois.nic.gmo](https://whois.nic.gmo)|
 | .hitachi | [whois.nic.gmo](https://whois.nic.gmo)|
@@ -763,7 +763,7 @@ It does not contain:
 | .phd | [whois.nic.google](https://whois.nic.google)|
 | .philips | [whois.nic.philips](https://whois.nic.philips)|
 | .phone | [whois.nic.phone](https://whois.nic.phone)|
-| .photo | [whois.uniregistry.net](https://whois.uniregistry.net)|
+| .photo | [whois.nic.photo](https://whois.nic.photo)|
 | .photography | [whois.nic.photography](https://whois.nic.photography)|
 | .photos | [whois.nic.photos](https://whois.nic.photos)|
 | .physio | [whois.nic.physio](https://whois.nic.physio)|
