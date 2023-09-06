@@ -295,7 +295,7 @@ It does not contain:
 | .discount | [whois.nic.discount](https://whois.nic.discount)|
 | .dish | [whois.nic.dish](https://whois.nic.dish)|
 | .diy | [whois.nic.diy](https://whois.nic.diy)|
-| .dk | [whois.dk-hostmaster.dk](https://whois.dk-hostmaster.dk)|
+| .dk | [whois.punktum.dk](https://whois.punktum.dk)|
 | .dm | [whois.dmdomains.dm](https://whois.dmdomains.dm)|
 | .dnp | [whois.nic.dnp](https://whois.nic.dnp)|
 | .do | [whois.nic.do](https://whois.nic.do)|
