@@ -447,6 +447,7 @@ It does not contain:
 | .gratis | [whois.nic.gratis](https://whois.nic.gratis)|
 | .green | [whois.nic.green](https://whois.nic.green)|
 | .gripe | [whois.nic.gripe](https://whois.nic.gripe)|
+| .grocery | [whois.nic.grocery](https://whois.nic.grocery)|
 | .group | [whois.nic.group](https://whois.nic.group)|
 | .gs | [whois.nic.gs](https://whois.nic.gs)|
 | .gucci | [whois.nic.gucci](https://whois.nic.gucci)|
