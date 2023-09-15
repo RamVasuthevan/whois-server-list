@@ -433,6 +433,7 @@
 | gratis | whois.nic.gratis |
 | green | whois.nic.green |
 | gripe | whois.nic.gripe |
+| grocery | whois.nic.grocery |
 | group | whois.nic.group |
 | gs | whois.nic.gs |
 | gucci | whois.nic.gucci |
