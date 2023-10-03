@@ -717,7 +717,7 @@ It does not contain:
 | .nissay | [whois.nic.nissay](https://whois.nic.nissay)|
 | .nl | [whois.domain-registry.nl](https://whois.domain-registry.nl)|
 | .no | [whois.norid.no](https://whois.norid.no)|
-| .nokia | [whois.afilias-srs.net](https://whois.afilias-srs.net)|
+| .nokia | [whois.nic.nokia](https://whois.nic.nokia)|
 | .norton | [whois.nic.norton](https://whois.nic.norton)|
 | .now | [whois.nic.now](https://whois.nic.now)|
 | .nowruz | [whois.nic.nowruz](https://whois.nic.nowruz)|
