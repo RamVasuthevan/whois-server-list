@@ -116,6 +116,7 @@ It does not contain:
 | .best | [whois.nic.best](https://whois.nic.best)|
 | .bestbuy | [whois.nic.bestbuy](https://whois.nic.bestbuy)|
 | .bet | [whois.nic.bet](https://whois.nic.bet)|
+| .bf | [whois.registre.bf](https://whois.registre.bf)|
 | .bg | [whois.register.bg](https://whois.register.bg)|
 | .bi | [whois1.nic.bi](https://whois1.nic.bi)|
 | .bible | [whois.nic.bible](https://whois.nic.bible)|

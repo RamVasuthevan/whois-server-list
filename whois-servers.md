@@ -102,6 +102,7 @@
 | best | whois.nic.best |
 | bestbuy | whois.nic.bestbuy |
 | bet | whois.nic.bet |
+| bf | whois.registre.bf |
 | bg | whois.register.bg |
 | bi | whois1.nic.bi |
 | bible | whois.nic.bible |
