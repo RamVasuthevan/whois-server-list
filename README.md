@@ -323,7 +323,7 @@ It does not contain:
 | .education | [whois.nic.education](https://whois.nic.education)|
 | .ee | [whois.tld.ee](https://whois.tld.ee)|
 | .email | [whois.nic.email](https://whois.nic.email)|
-| .emerck | [whois.afilias-srs.net](https://whois.afilias-srs.net)|
+| .emerck | [whois.nic.emerck](https://whois.nic.emerck)|
 | .energy | [whois.nic.energy](https://whois.nic.energy)|
 | .engineer | [whois.nic.engineer](https://whois.nic.engineer)|
 | .engineering | [whois.nic.engineering](https://whois.nic.engineering)|

@@ -309,7 +309,7 @@
 | education | whois.nic.education |
 | ee | whois.tld.ee |
 | email | whois.nic.email |
-| emerck | whois.afilias-srs.net |
+| emerck | whois.nic.emerck |
 | energy | whois.nic.energy |
 | engineer | whois.nic.engineer |
 | engineering | whois.nic.engineering |
