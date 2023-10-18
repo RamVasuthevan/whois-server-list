@@ -196,6 +196,7 @@
 | ci | whois.nic.ci |
 | cipriani | whois.nic.cipriani |
 | circle | whois.nic.circle |
+| citadel | whois.nic.citadel |
 | city | whois.nic.city |
 | cityeats | whois.nic.cityeats |
 | cl | whois.nic.cl |
