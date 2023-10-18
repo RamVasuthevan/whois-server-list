@@ -210,6 +210,7 @@ It does not contain:
 | .ci | [whois.nic.ci](https://whois.nic.ci)|
 | .cipriani | [whois.nic.cipriani](https://whois.nic.cipriani)|
 | .circle | [whois.nic.circle](https://whois.nic.circle)|
+| .citadel | [whois.nic.citadel](https://whois.nic.citadel)|
 | .city | [whois.nic.city](https://whois.nic.city)|
 | .cityeats | [whois.nic.cityeats](https://whois.nic.cityeats)|
 | .cl | [whois.nic.cl](https://whois.nic.cl)|
