@@ -39,9 +39,9 @@ jobs:
       id: date
       run: echo "::set-output name=date::$(date +'%Y-%m-%d')"
     
-     - name: Check for changes in CSV
+    - name: Check for changes in CSV
       run: |
-        git diff --exit-code whois-servers.csv || (echo "Changes detected in CSV" && exit 1)
+          git diff --exit-code whois-servers.csv || (echo "Changes detected in CSV" && exit 1)
 
     - name: Create Pull Request
       id: cpr
