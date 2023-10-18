@@ -1,0 +1,21 @@
+{
+    "name": "Python env",
+    "context": "..",
+    "dockerFile": "Dockerfile",
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "ms-python.python",
+                "GitHub.copilot",
+                "ms-python.black-formatter",
+                "ms-azuretools.vscode-docker",
+                "GitHub.codespaces",
+                "GitHub.github-vscode-theme",
+                "github.vscode-github-actions",
+                "GitHub.vscode-pull-request-github",
+                "ms-python.vscode-pylance"
+            ]
+        }
+    },
+    "postCreateCommand": "pipenv sync --dev"
+}
