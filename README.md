@@ -212,7 +212,6 @@ It does not contain:
 | .circle | [whois.nic.circle](https://whois.nic.circle)|
 | .citadel | [whois.nic.citadel](https://whois.nic.citadel)|
 | .city | [whois.nic.city](https://whois.nic.city)|
-| .cityeats | [whois.nic.cityeats](https://whois.nic.cityeats)|
 | .cl | [whois.nic.cl](https://whois.nic.cl)|
 | .claims | [whois.nic.claims](https://whois.nic.claims)|
 | .cleaning | [whois.nic.cleaning](https://whois.nic.cleaning)|
@@ -392,7 +391,6 @@ It does not contain:
 | .fresenius | [whois.nic.fresenius](https://whois.nic.fresenius)|
 | .frl | [whois.nic.frl](https://whois.nic.frl)|
 | .frogans | [whois.nic.frogans](https://whois.nic.frogans)|
-| .frontdoor | [whois.nic.frontdoor](https://whois.nic.frontdoor)|
 | .fujitsu | [whois.nic.gmo](https://whois.nic.gmo)|
 | .fun | [whois.nic.fun](https://whois.nic.fun)|
 | .fund | [whois.nic.fund](https://whois.nic.fund)|
