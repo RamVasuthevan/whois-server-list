@@ -42,7 +42,7 @@ jobs:
     - name: Check for changes in CSV
       id: check_changes
       run: |
-          git diff --exit-code whois-servers.csv && (echo "No changes detected in CSV" >> $GITHUB_ENV) || (echo "Changes detected in CSV" && echo "changes=yes" >> $GITHUB_ENV)
+          git diff --exit-code whois-servers.csv && (echo "No changes detected in CSV" && echo "changes=no" >> $GITHUB_ENV) || (echo "Changes detected in CSV" && echo "changes=yes" >> $GITHUB_ENV)
       
     - name: Create Pull Request
       if: env.changes == 'yes'
