@@ -40,10 +40,12 @@ jobs:
       run: echo "::set-output name=date::$(date +'%Y-%m-%d')"
     
     - name: Check for changes in CSV
+      id: check_changes
       run: |
-          git diff --exit-code whois-servers.csv || (echo "Changes detected in CSV" && exit 1)
-
+          git diff --exit-code whois-servers.csv && (echo "No changes detected in CSV" >> $GITHUB_ENV) || (echo "Changes detected in CSV" && echo "changes=yes" >> $GITHUB_ENV)
+      
     - name: Create Pull Request
+      if: env.changes == 'yes'
       id: cpr
       uses: peter-evans/create-pull-request@v3
       with:
@@ -54,6 +56,7 @@ jobs:
         labels: automated-pr
 
     - name: PR details
+      if: env.changes == 'yes'
       run: |
         echo "Pull Request Number - ${{ steps.cpr.outputs.pull-request-number }}"
         echo "Pull Request URL - ${{ steps.cpr.outputs.pull-request-url }}"
