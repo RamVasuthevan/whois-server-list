@@ -189,7 +189,6 @@ It does not contain:
 | .catering | [whois.nic.catering](https://whois.nic.catering)|
 | .catholic | [whois.nic.catholic](https://whois.nic.catholic)|
 | .cba | [whois.nic.cba](https://whois.nic.cba)|
-| .cbs | [whois.nic.cbs](https://whois.nic.cbs)|
 | .cc | [ccwhois.verisign-grs.com](https://ccwhois.verisign-grs.com)|
 | .center | [whois.nic.center](https://whois.nic.center)|
 | .ceo | [whois.nic.ceo](https://whois.nic.ceo)|
@@ -911,7 +910,6 @@ It does not contain:
 | .shopping | [whois.nic.shopping](https://whois.nic.shopping)|
 | .shouji | [whois.teleinfo.cn](https://whois.teleinfo.cn)|
 | .show | [whois.nic.show](https://whois.nic.show)|
-| .showtime | [whois.nic.showtime](https://whois.nic.showtime)|
 | .si | [whois.register.si](https://whois.register.si)|
 | .silk | [whois.nic.silk](https://whois.nic.silk)|
 | .sina | [whois.nic.sina](https://whois.nic.sina)|

@@ -175,7 +175,6 @@
 | catering | whois.nic.catering |
 | catholic | whois.nic.catholic |
 | cba | whois.nic.cba |
-| cbs | whois.nic.cbs |
 | cc | ccwhois.verisign-grs.com |
 | center | whois.nic.center |
 | ceo | whois.nic.ceo |
@@ -897,7 +896,6 @@
 | shopping | whois.nic.shopping |
 | shouji | whois.teleinfo.cn |
 | show | whois.nic.show |
-| showtime | whois.nic.showtime |
 | si | whois.register.si |
 | silk | whois.nic.silk |
 | sina | whois.nic.sina |
