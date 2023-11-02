@@ -415,6 +415,7 @@
 | gmbh | whois.nic.gmbh |
 | gmo | whois.nic.gmo |
 | gmx | whois.nic.gmx |
+| gn | whois.ande.gov.gn |
 | godaddy | whois.nic.godaddy |
 | gold | whois.nic.gold |
 | goldpoint | whois.nic.goldpoint |
