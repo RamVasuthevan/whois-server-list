@@ -429,6 +429,7 @@ It does not contain:
 | .gmbh | [whois.nic.gmbh](https://whois.nic.gmbh)|
 | .gmo | [whois.nic.gmo](https://whois.nic.gmo)|
 | .gmx | [whois.nic.gmx](https://whois.nic.gmx)|
+| .gn | [whois.ande.gov.gn](https://whois.ande.gov.gn)|
 | .godaddy | [whois.nic.godaddy](https://whois.nic.godaddy)|
 | .gold | [whois.nic.gold](https://whois.nic.gold)|
 | .goldpoint | [whois.nic.goldpoint](https://whois.nic.goldpoint)|
