@@ -320,7 +320,6 @@
 | es | whois.nic.es |
 | esq | whois.nic.google |
 | estate | whois.nic.estate |
-| etisalat | whois.centralnic.com |
 | eu | whois.eu |
 | eurovision | whois.nic.eurovision |
 | eus | whois.nic.eus |
@@ -1170,7 +1169,6 @@
 | xn--mgb9awbf | whois.registry.om |
 | xn--mgba3a4f16a | whois.nic.ir |
 | xn--mgba7c0bbn0a | whois.nic.xn--mgba7c0bbn0a |
-| xn--mgbaakc7dvf | whois.centralnic.com |
 | xn--mgbaam7a8h | whois.aeda.net.ae |
 | xn--mgbab2bd | whois.nic.xn--mgbab2bd |
 | xn--mgbah1a3hjkrd | whois.nic.mr |
