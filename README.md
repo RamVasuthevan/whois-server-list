@@ -334,7 +334,6 @@ It does not contain:
 | .es | [whois.nic.es](https://whois.nic.es)|
 | .esq | [whois.nic.google](https://whois.nic.google)|
 | .estate | [whois.nic.estate](https://whois.nic.estate)|
-| .etisalat | [whois.centralnic.com](https://whois.centralnic.com)|
 | .eu | [whois.eu](https://whois.eu)|
 | .eurovision | [whois.nic.eurovision](https://whois.nic.eurovision)|
 | .eus | [whois.nic.eus](https://whois.nic.eus)|
@@ -1184,7 +1183,6 @@ It does not contain:
 | .xn--mgb9awbf (.عمان) | [whois.registry.om](https://whois.registry.om) |
 | .xn--mgba3a4f16a (.ایران) | [whois.nic.ir](https://whois.nic.ir) |
 | .xn--mgba7c0bbn0a (.العليان) | [whois.nic.xn--mgba7c0bbn0a](https://whois.nic.xn--mgba7c0bbn0a) |
-| .xn--mgbaakc7dvf (.اتصالات) | [whois.centralnic.com](https://whois.centralnic.com) |
 | .xn--mgbaam7a8h (.امارات) | [whois.aeda.net.ae](https://whois.aeda.net.ae) |
 | .xn--mgbab2bd (.بازار) | [whois.nic.xn--mgbab2bd](https://whois.nic.xn--mgbab2bd) |
 | .xn--mgbah1a3hjkrd (.موريتانيا) | [whois.nic.mr](https://whois.nic.mr) |
