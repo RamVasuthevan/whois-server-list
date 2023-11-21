@@ -1055,7 +1055,6 @@
 | viva | whois.nic.viva |
 | vlaanderen | whois.nic.vlaanderen |
 | vodka | whois.nic.vodka |
-| volkswagen | whois.nic.volkswagen |
 | volvo | whois.nic.volvo |
 | vote | whois.nic.vote |
 | voting | whois.nic.voting |

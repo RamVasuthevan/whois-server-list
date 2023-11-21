@@ -1069,7 +1069,6 @@ It does not contain:
 | .viva | [whois.nic.viva](https://whois.nic.viva)|
 | .vlaanderen | [whois.nic.vlaanderen](https://whois.nic.vlaanderen)|
 | .vodka | [whois.nic.vodka](https://whois.nic.vodka)|
-| .volkswagen | [whois.nic.volkswagen](https://whois.nic.volkswagen)|
 | .volvo | [whois.nic.volvo](https://whois.nic.volvo)|
 | .vote | [whois.nic.vote](https://whois.nic.vote)|
 | .voting | [whois.nic.voting](https://whois.nic.voting)|
