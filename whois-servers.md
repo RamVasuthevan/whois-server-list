@@ -959,7 +959,7 @@
 | taobao | whois.nic.taobao |
 | tatamotors | whois.nic.tatamotors |
 | tatar | whois.nic.tatar |
-| tattoo | whois.uniregistry.net |
+| tattoo | whois.nic.tattoo |
 | tax | whois.nic.tax |
 | taxi | whois.nic.taxi |
 | tc | whois.nic.tc |
@@ -1055,7 +1055,6 @@
 | viva | whois.nic.viva |
 | vlaanderen | whois.nic.vlaanderen |
 | vodka | whois.nic.vodka |
-| volkswagen | whois.nic.volkswagen |
 | volvo | whois.nic.volvo |
 | vote | whois.nic.vote |
 | voting | whois.nic.voting |

@@ -973,7 +973,7 @@ It does not contain:
 | .taobao | [whois.nic.taobao](https://whois.nic.taobao)|
 | .tatamotors | [whois.nic.tatamotors](https://whois.nic.tatamotors)|
 | .tatar | [whois.nic.tatar](https://whois.nic.tatar)|
-| .tattoo | [whois.uniregistry.net](https://whois.uniregistry.net)|
+| .tattoo | [whois.nic.tattoo](https://whois.nic.tattoo)|
 | .tax | [whois.nic.tax](https://whois.nic.tax)|
 | .taxi | [whois.nic.taxi](https://whois.nic.taxi)|
 | .tc | [whois.nic.tc](https://whois.nic.tc)|
@@ -1069,7 +1069,6 @@ It does not contain:
 | .viva | [whois.nic.viva](https://whois.nic.viva)|
 | .vlaanderen | [whois.nic.vlaanderen](https://whois.nic.vlaanderen)|
 | .vodka | [whois.nic.vodka](https://whois.nic.vodka)|
-| .volkswagen | [whois.nic.volkswagen](https://whois.nic.volkswagen)|
 | .volvo | [whois.nic.volvo](https://whois.nic.volvo)|
 | .vote | [whois.nic.vote](https://whois.nic.vote)|
 | .voting | [whois.nic.voting](https://whois.nic.voting)|
