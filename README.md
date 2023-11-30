@@ -99,6 +99,7 @@ It does not contain:
 | .barclays | [whois.nic.barclays](https://whois.nic.barclays)|
 | .barefoot | [whois.nic.barefoot](https://whois.nic.barefoot)|
 | .bargains | [whois.nic.bargains](https://whois.nic.bargains)|
+| .baseball | [whois.nic.baseball](https://whois.nic.baseball)|
 | .basketball | [whois.nic.basketball](https://whois.nic.basketball)|
 | .bauhaus | [whois.nic.bauhaus](https://whois.nic.bauhaus)|
 | .bayern | [whois.nic.bayern](https://whois.nic.bayern)|
@@ -485,6 +486,7 @@ It does not contain:
 | .host | [whois.nic.host](https://whois.nic.host)|
 | .hosting | [whois.nic.hosting](https://whois.nic.hosting)|
 | .hot | [whois.nic.hot](https://whois.nic.hot)|
+| .hotels | [whois.nic.hotels](https://whois.nic.hotels)|
 | .house | [whois.nic.house](https://whois.nic.house)|
 | .how | [whois.nic.google](https://whois.nic.google)|
 | .hr | [whois.dns.hr](https://whois.dns.hr)|
@@ -724,6 +726,7 @@ It does not contain:
 | .nra | [whois.nic.nra](https://whois.nic.nra)|
 | .nrw | [whois.nic.nrw](https://whois.nic.nrw)|
 | .nu | [whois.iis.nu](https://whois.iis.nu)|
+| .nyc | [whois.nic.nyc](https://whois.nic.nyc)|
 | .nz | [whois.irs.net.nz](https://whois.irs.net.nz)|
 | .obi | [whois.nic.obi](https://whois.nic.obi)|
 | .observer | [whois.nic.observer](https://whois.nic.observer)|
