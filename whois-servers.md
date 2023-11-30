@@ -85,6 +85,7 @@
 | barclays | whois.nic.barclays |
 | barefoot | whois.nic.barefoot |
 | bargains | whois.nic.bargains |
+| baseball | whois.nic.baseball |
 | basketball | whois.nic.basketball |
 | bauhaus | whois.nic.bauhaus |
 | bayern | whois.nic.bayern |
@@ -471,6 +472,7 @@
 | host | whois.nic.host |
 | hosting | whois.nic.hosting |
 | hot | whois.nic.hot |
+| hotels | whois.nic.hotels |
 | house | whois.nic.house |
 | how | whois.nic.google |
 | hr | whois.dns.hr |
@@ -710,6 +712,7 @@
 | nra | whois.nic.nra |
 | nrw | whois.nic.nrw |
 | nu | whois.iis.nu |
+| nyc | whois.nic.nyc |
 | nz | whois.irs.net.nz |
 | obi | whois.nic.obi |
 | observer | whois.nic.observer |
