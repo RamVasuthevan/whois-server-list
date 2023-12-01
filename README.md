@@ -741,6 +741,7 @@ It does not contain:
 | .onl | [whois.nic.onl](https://whois.nic.onl)|
 | .online | [whois.nic.online](https://whois.nic.online)|
 | .ooo | [whois.nic.ooo](https://whois.nic.ooo)|
+| .open | [whois.nic.open](https://whois.nic.open)|
 | .oracle | [whois.nic.oracle](https://whois.nic.oracle)|
 | .orange | [whois.nic.orange](https://whois.nic.orange)|
 | .org | [whois.publicinterestregistry.org](https://whois.publicinterestregistry.org)|
@@ -1028,6 +1029,7 @@ It does not contain:
 | .travelersinsurance | [whois.nic.travelersinsurance](https://whois.nic.travelersinsurance)|
 | .trust | [whois.nic.trust](https://whois.nic.trust)|
 | .trv | [whois.nic.trv](https://whois.nic.trv)|
+| .tube | [whois.nic.tube](https://whois.nic.tube)|
 | .tui | [whois.nic.tui](https://whois.nic.tui)|
 | .tunes | [whois.nic.tunes](https://whois.nic.tunes)|
 | .tushu | [whois.nic.tushu](https://whois.nic.tushu)|

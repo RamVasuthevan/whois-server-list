@@ -727,6 +727,7 @@
 | onl | whois.nic.onl |
 | online | whois.nic.online |
 | ooo | whois.nic.ooo |
+| open | whois.nic.open |
 | oracle | whois.nic.oracle |
 | orange | whois.nic.orange |
 | org | whois.publicinterestregistry.org |
@@ -1014,6 +1015,7 @@
 | travelersinsurance | whois.nic.travelersinsurance |
 | trust | whois.nic.trust |
 | trv | whois.nic.trv |
+| tube | whois.nic.tube |
 | tui | whois.nic.tui |
 | tunes | whois.nic.tunes |
 | tushu | whois.nic.tushu |
