@@ -772,6 +772,7 @@ It does not contain:
 | .photos | [whois.nic.photos](https://whois.nic.photos)|
 | .physio | [whois.nic.physio](https://whois.nic.physio)|
 | .pics | [whois.nic.pics](https://whois.nic.pics)|
+| .pictet | [whois.nic.pictet](https://whois.nic.pictet)|
 | .pictures | [whois.nic.pictures](https://whois.nic.pictures)|
 | .pid | [whois.nic.pid](https://whois.nic.pid)|
 | .pin | [whois.nic.pin](https://whois.nic.pin)|
