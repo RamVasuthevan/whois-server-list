@@ -758,6 +758,7 @@
 | photos | whois.nic.photos |
 | physio | whois.nic.physio |
 | pics | whois.nic.pics |
+| pictet | whois.nic.pictet |
 | pictures | whois.nic.pictures |
 | pid | whois.nic.pid |
 | pin | whois.nic.pin |
