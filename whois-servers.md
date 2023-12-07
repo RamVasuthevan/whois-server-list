@@ -117,6 +117,7 @@
 | blackfriday | whois.nic.blackfriday |
 | blockbuster | whois.nic.blockbuster |
 | blog | whois.nic.blog |
+| bloomberg | whois.nic.bloomberg |
 | blue | whois.nic.blue |
 | bms | whois.nic.bms |
 | bmw | whois.nic.bmw |
