@@ -131,6 +131,7 @@ It does not contain:
 | .blackfriday | [whois.nic.blackfriday](https://whois.nic.blackfriday)|
 | .blockbuster | [whois.nic.blockbuster](https://whois.nic.blockbuster)|
 | .blog | [whois.nic.blog](https://whois.nic.blog)|
+| .bloomberg | [whois.nic.bloomberg](https://whois.nic.bloomberg)|
 | .blue | [whois.nic.blue](https://whois.nic.blue)|
 | .bms | [whois.nic.bms](https://whois.nic.bms)|
 | .bmw | [whois.nic.bmw](https://whois.nic.bmw)|
