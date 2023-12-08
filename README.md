@@ -777,6 +777,7 @@ It does not contain:
 | .pictures | [whois.nic.pictures](https://whois.nic.pictures)|
 | .pid | [whois.nic.pid](https://whois.nic.pid)|
 | .pin | [whois.nic.pin](https://whois.nic.pin)|
+| .ping | [whois.nic.ping](https://whois.nic.ping)|
 | .pink | [whois.nic.pink](https://whois.nic.pink)|
 | .pioneer | [whois.nic.pioneer](https://whois.nic.pioneer)|
 | .pizza | [whois.nic.pizza](https://whois.nic.pizza)|
