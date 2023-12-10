@@ -148,6 +148,7 @@
 | builders | whois.nic.builders |
 | business | whois.nic.business |
 | buy | whois.nic.buy |
+| buzz | whois.nic.buzz |
 | bw | whois.nic.net.bw |
 | by | whois.cctld.by |
 | bzh | whois.nic.bzh |

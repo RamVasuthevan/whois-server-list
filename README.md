@@ -162,6 +162,7 @@ It does not contain:
 | .builders | [whois.nic.builders](https://whois.nic.builders)|
 | .business | [whois.nic.business](https://whois.nic.business)|
 | .buy | [whois.nic.buy](https://whois.nic.buy)|
+| .buzz | [whois.nic.buzz](https://whois.nic.buzz)|
 | .bw | [whois.nic.net.bw](https://whois.nic.net.bw)|
 | .by | [whois.cctld.by](https://whois.cctld.by)|
 | .bzh | [whois.nic.bzh](https://whois.nic.bzh)|
