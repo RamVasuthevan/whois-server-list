@@ -417,6 +417,7 @@ It does not contain:
 | .gf | [whois.mediaserv.net](https://whois.mediaserv.net)|
 | .gg | [whois.gg](https://whois.gg)|
 | .ggee | [whois.nic.ggee](https://whois.nic.ggee)|
+| .gh | [whois.nic.gh](https://whois.nic.gh)|
 | .gi | [whois2.afilias-grs.net](https://whois2.afilias-grs.net)|
 | .gift | [whois.uniregistry.net](https://whois.uniregistry.net)|
 | .gifts | [whois.nic.gifts](https://whois.nic.gifts)|
@@ -882,7 +883,6 @@ It does not contain:
 | .sbi | [whois.nic.sbi](https://whois.nic.sbi)|
 | .sbs | [whois.nic.sbs](https://whois.nic.sbs)|
 | .sc | [whois2.afilias-grs.net](https://whois2.afilias-grs.net)|
-| .sca | [whois.nic.sca](https://whois.nic.sca)|
 | .scb | [whois.nic.scb](https://whois.nic.scb)|
 | .schaeffler | [whois.afilias-srs.net](https://whois.afilias-srs.net)|
 | .schmidt | [whois.nic.schmidt](https://whois.nic.schmidt)|
