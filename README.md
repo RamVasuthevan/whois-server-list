@@ -119,6 +119,7 @@ It does not contain:
 | .bet | [whois.nic.bet](https://whois.nic.bet)|
 | .bf | [whois.registre.bf](https://whois.registre.bf)|
 | .bg | [whois.register.bg](https://whois.register.bg)|
+| .bh | [whois.nic.bh](https://whois.nic.bh)|
 | .bi | [whois1.nic.bi](https://whois1.nic.bi)|
 | .bible | [whois.nic.bible](https://whois.nic.bible)|
 | .bid | [whois.nic.bid](https://whois.nic.bid)|

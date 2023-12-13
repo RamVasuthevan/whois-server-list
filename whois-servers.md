@@ -105,6 +105,7 @@
 | bet | whois.nic.bet |
 | bf | whois.registre.bf |
 | bg | whois.register.bg |
+| bh | whois.nic.bh |
 | bi | whois1.nic.bi |
 | bible | whois.nic.bible |
 | bid | whois.nic.bid |
