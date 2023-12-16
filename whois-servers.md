@@ -587,6 +587,7 @@
 | li | whois.nic.li |
 | lidl | whois.nic.lidl |
 | life | whois.nic.life |
+| lifeinsurance | whois.nic.lifeinsurance |
 | lifestyle | whois.nic.lifestyle |
 | lighting | whois.nic.lighting |
 | like | whois.nic.like |

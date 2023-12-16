@@ -601,6 +601,7 @@ It does not contain:
 | .li | [whois.nic.li](https://whois.nic.li)|
 | .lidl | [whois.nic.lidl](https://whois.nic.lidl)|
 | .life | [whois.nic.life](https://whois.nic.life)|
+| .lifeinsurance | [whois.nic.lifeinsurance](https://whois.nic.lifeinsurance)|
 | .lifestyle | [whois.nic.lifestyle](https://whois.nic.lifestyle)|
 | .lighting | [whois.nic.lighting](https://whois.nic.lighting)|
 | .like | [whois.nic.like](https://whois.nic.like)|
