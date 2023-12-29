@@ -681,6 +681,7 @@ It does not contain:
 | .mormon | [whois.nic.mormon](https://whois.nic.mormon)|
 | .mortgage | [whois.nic.mortgage](https://whois.nic.mortgage)|
 | .moscow | [whois.nic.moscow](https://whois.nic.moscow)|
+| .moto | [whois.nic.moto](https://whois.nic.moto)|
 | .motorcycles | [whois.nic.motorcycles](https://whois.nic.motorcycles)|
 | .mov | [whois.nic.google](https://whois.nic.google)|
 | .movie | [whois.nic.movie](https://whois.nic.movie)|
