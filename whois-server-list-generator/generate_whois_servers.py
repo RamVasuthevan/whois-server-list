@@ -1,17 +1,17 @@
 import csv
-import datetime
 import os
 import time
 from dataclasses import dataclass
 from typing import List, Optional, Union
 from zipfile import ZIP_DEFLATED, ZipFile
 
-import openpyxl
 import requests
+from tenacity import retry, stop_after_attempt, wait_exponential
 from bs4 import BeautifulSoup
 from openpyxl import Workbook as OriginalWorkbook
 from openpyxl.writer.excel import ExcelWriter
 from openpyxl import load_workbook
+
 def save_workbook(workbook, filename):
     """Save the given workbook on the filesystem under the name filename.
 
@@ -120,21 +120,20 @@ if __name__ == "__main__":
     MAX_RETRIES = 3
     TIMEOUT = 10
     SLEEP = 1
+    MIN_WAIT = 4
+    MAX_WAIT = 10
 
     BASE_IANA_URL = 'https://www.iana.org'
     ROOT_ZONE_DATABASE_URL = BASE_IANA_URL + '/domains/root/db'
+    
 
-    retry_count = 0
+    @retry(stop=stop_after_attempt(MAX_RETRIES), wait=wait_exponential(multiplier=1, min=MIN_WAIT, max=MAX_WAIT))
+    def get_response(url):
+        response = requests.get(url, timeout=TIMEOUT)
+        response.raise_for_status()
+        return response
 
-    while retry_count < MAX_RETRIES:
-        try:
-            response = requests.get(ROOT_ZONE_DATABASE_URL, timeout=TIMEOUT)
-            response.raise_for_status()
-            break
-        except requests.exceptions.RequestException:
-            print("Error occurred while fetching root zone database. Retrying...")
-            retry_count += 1
-            time.sleep(SLEEP)
+    response = get_response(ROOT_ZONE_DATABASE_URL)
 
     if response and response.status_code == 200:
         soup = BeautifulSoup(response.content, 'html.parser')
@@ -146,17 +145,7 @@ if __name__ == "__main__":
             tld_punycode = os.path.splitext(os.path.basename(relative_tld_url))[0]
             print(tld_punycode)
 
-            retry_count = 0
-
-            while retry_count < MAX_RETRIES:
-                try:
-                    response = requests.get(BASE_IANA_URL + relative_tld_url, timeout=TIMEOUT)
-                    response.raise_for_status()
-                    break
-                except requests.exceptions.RequestException:
-                    print(f"Error occurred while fetching {tld_punycode}. Retrying...")
-                    retry_count += 1
-                    time.sleep(SLEEP)
+            response = get_response(BASE_IANA_URL + relative_tld_url)
 
             if response and response.status_code == 200:
                 soup = BeautifulSoup(response.content, 'html.parser')
