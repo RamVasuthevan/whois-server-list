@@ -881,6 +881,7 @@
 | schwarz | whois.nic.schwarz |
 | science | whois.nic.science |
 | scot | whois.nic.scot |
+| sd | whois.nic.sd |
 | se | whois.iis.se |
 | search | whois.nic.google |
 | seat | whois.nic.seat |
