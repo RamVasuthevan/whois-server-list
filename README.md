@@ -895,6 +895,7 @@ It does not contain:
 | .schwarz | [whois.nic.schwarz](https://whois.nic.schwarz)|
 | .science | [whois.nic.science](https://whois.nic.science)|
 | .scot | [whois.nic.scot](https://whois.nic.scot)|
+| .sd | [whois.nic.sd](https://whois.nic.sd)|
 | .se | [whois.iis.se](https://whois.iis.se)|
 | .search | [whois.nic.google](https://whois.nic.google)|
 | .seat | [whois.nic.seat](https://whois.nic.seat)|
