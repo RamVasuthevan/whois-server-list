@@ -17,5 +17,5 @@
             ]
         }
     },
-    "postCreateCommand": "pipenv sync --dev"
+    "postAttachCommand": "cd whois-server-list-generator && pipenv sync --dev && pipenv shell"
 }
