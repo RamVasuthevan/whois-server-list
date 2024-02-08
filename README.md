@@ -233,7 +233,6 @@ It does not contain:
 | .college | [whois.nic.college](https://whois.nic.college)|
 | .cologne | [whois.ryce-rsp.com](https://whois.ryce-rsp.com)|
 | .com | [whois.verisign-grs.com](https://whois.verisign-grs.com)|
-| .comcast | [whois.nic.comcast](https://whois.nic.comcast)|
 | .commbank | [whois.nic.commbank](https://whois.nic.commbank)|
 | .community | [whois.nic.community](https://whois.nic.community)|
 | .company | [whois.nic.company](https://whois.nic.company)|
@@ -1119,7 +1118,6 @@ It does not contain:
 | .wtc | [whois.nic.wtc](https://whois.nic.wtc)|
 | .wtf | [whois.nic.wtf](https://whois.nic.wtf)|
 | .xerox | [whois.nic.xerox](https://whois.nic.xerox)|
-| .xfinity | [whois.nic.xfinity](https://whois.nic.xfinity)|
 | .xihuan | [whois.teleinfo.cn](https://whois.teleinfo.cn)|
 | .xin | [whois.nic.xin](https://whois.nic.xin)|
 | .xn--11b4c3d (.कॉम) | [whois.nic.xn--11b4c3d](https://whois.nic.xn--11b4c3d) |

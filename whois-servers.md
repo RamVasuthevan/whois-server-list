@@ -219,7 +219,6 @@
 | college | whois.nic.college |
 | cologne | whois.ryce-rsp.com |
 | com | whois.verisign-grs.com |
-| comcast | whois.nic.comcast |
 | commbank | whois.nic.commbank |
 | community | whois.nic.community |
 | company | whois.nic.company |
@@ -1105,7 +1104,6 @@
 | wtc | whois.nic.wtc |
 | wtf | whois.nic.wtf |
 | xerox | whois.nic.xerox |
-| xfinity | whois.nic.xfinity |
 | xihuan | whois.teleinfo.cn |
 | xin | whois.nic.xin |
 | xn--11b4c3d | whois.nic.xn--11b4c3d |
