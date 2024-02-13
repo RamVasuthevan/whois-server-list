@@ -248,6 +248,7 @@
 | cruise | whois.nic.cruise |
 | cruises | whois.nic.cruises |
 | cuisinella | whois.nic.cuisinella |
+| cv | whois.nic.cv |
 | cx | whois.nic.cx |
 | cymru | whois.nic.cymru |
 | cyou | whois.nic.cyou |
