@@ -262,6 +262,7 @@ It does not contain:
 | .cruise | [whois.nic.cruise](https://whois.nic.cruise)|
 | .cruises | [whois.nic.cruises](https://whois.nic.cruises)|
 | .cuisinella | [whois.nic.cuisinella](https://whois.nic.cuisinella)|
+| .cv | [whois.nic.cv](https://whois.nic.cv)|
 | .cx | [whois.nic.cx](https://whois.nic.cx)|
 | .cymru | [whois.nic.cymru](https://whois.nic.cymru)|
 | .cyou | [whois.nic.cyou](https://whois.nic.cyou)|
