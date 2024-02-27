@@ -1069,6 +1069,7 @@ It does not contain:
 | .versicherung | [whois.nic.versicherung](https://whois.nic.versicherung)|
 | .vet | [whois.nic.vet](https://whois.nic.vet)|
 | .vg | [whois.nic.vg](https://whois.nic.vg)|
+| .vi | [virgil.nic.vi](https://virgil.nic.vi)|
 | .viajes | [whois.nic.viajes](https://whois.nic.viajes)|
 | .video | [whois.nic.video](https://whois.nic.video)|
 | .vig | [whois.nic.vig](https://whois.nic.vig)|
