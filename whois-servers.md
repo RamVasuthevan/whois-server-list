@@ -643,6 +643,7 @@
 | memorial | whois.nic.memorial |
 | men | whois.nic.men |
 | menu | whois.nic.menu |
+| merckmsd | whois.nic.merckmsd |
 | mg | whois.nic.mg |
 | miami | whois.nic.miami |
 | mini | whois.nic.mini |
@@ -674,6 +675,7 @@
 | mq | whois.mediaserv.net |
 | mr | whois.nic.mr |
 | ms | whois.nic.ms |
+| msd | whois.nic.msd |
 | mtn | whois.nic.mtn |
 | mtr | whois.nic.mtr |
 | mu | whois.nic.mu |
