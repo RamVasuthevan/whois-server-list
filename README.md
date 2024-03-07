@@ -657,6 +657,7 @@ It does not contain:
 | .memorial | [whois.nic.memorial](https://whois.nic.memorial)|
 | .men | [whois.nic.men](https://whois.nic.men)|
 | .menu | [whois.nic.menu](https://whois.nic.menu)|
+| .merckmsd | [whois.nic.merckmsd](https://whois.nic.merckmsd)|
 | .mg | [whois.nic.mg](https://whois.nic.mg)|
 | .miami | [whois.nic.miami](https://whois.nic.miami)|
 | .mini | [whois.nic.mini](https://whois.nic.mini)|
@@ -688,6 +689,7 @@ It does not contain:
 | .mq | [whois.mediaserv.net](https://whois.mediaserv.net)|
 | .mr | [whois.nic.mr](https://whois.nic.mr)|
 | .ms | [whois.nic.ms](https://whois.nic.ms)|
+| .msd | [whois.nic.msd](https://whois.nic.msd)|
 | .mtn | [whois.nic.mtn](https://whois.nic.mtn)|
 | .mtr | [whois.nic.mtr](https://whois.nic.mtr)|
 | .mu | [whois.nic.mu](https://whois.nic.mu)|
