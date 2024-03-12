@@ -120,6 +120,7 @@
 | blog | whois.nic.blog |
 | bloomberg | whois.nic.bloomberg |
 | blue | whois.nic.blue |
+| bm | whois.nic.bm |
 | bms | whois.nic.bms |
 | bmw | whois.nic.bmw |
 | bn | whois.bnnic.bn |
