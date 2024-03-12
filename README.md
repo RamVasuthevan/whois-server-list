@@ -134,6 +134,7 @@ It does not contain:
 | .blog | [whois.nic.blog](https://whois.nic.blog)|
 | .bloomberg | [whois.nic.bloomberg](https://whois.nic.bloomberg)|
 | .blue | [whois.nic.blue](https://whois.nic.blue)|
+| .bm | [whois.nic.bm](https://whois.nic.bm)|
 | .bms | [whois.nic.bms](https://whois.nic.bms)|
 | .bmw | [whois.nic.bmw](https://whois.nic.bmw)|
 | .bn | [whois.bnnic.bn](https://whois.bnnic.bn)|
