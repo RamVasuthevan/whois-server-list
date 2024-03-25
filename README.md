@@ -1163,7 +1163,7 @@ It does not contain:
 | .xn--c2br7g (.नेट) | [whois.nic.xn--c2br7g](https://whois.nic.xn--c2br7g) |
 | .xn--cckwcxetd (.アマゾン) | [whois.nic.xn--cckwcxetd](https://whois.nic.xn--cckwcxetd) |
 | .xn--cg4bki (.삼성) | [whois.kr](https://whois.kr) |
-| .xn--clchc0ea0b2g2a9gcd (.சிங்கப்பூர்) | [whois.sgnic.sg](https://whois.sgnic.sg) |
+| .xn--clchc0ea0b2g2a9gcd (.சிங்கப்பூர்) | [whois.ta.sgnic.sg](https://whois.ta.sgnic.sg) |
 | .xn--czrs0t (.商店) | [whois.nic.xn--czrs0t](https://whois.nic.xn--czrs0t) |
 | .xn--czru2d (.商城) | [whois.gtld.knet.cn](https://whois.gtld.knet.cn) |
 | .xn--d1acj3b (.ДЕТИ) | [whois.nic.xn--d1acj3b](https://whois.nic.xn--d1acj3b) |
@@ -1246,7 +1246,7 @@ It does not contain:
 | .xn--xhq521b (.广东) | [whois.ngtld.cn](https://whois.ngtld.cn) |
 | .xn--xkc2dl3a5ee0h (.இந்தியா) | [whois.registry.in](https://whois.registry.in) |
 | .xn--y9a3aq (.ՀԱՅ) | [whois.amnic.net](https://whois.amnic.net) |
-| .xn--yfro4i67o (.新加坡) | [whois.sgnic.sg](https://whois.sgnic.sg) |
+| .xn--yfro4i67o (.新加坡) | [whois.zh.sgnic.sg](https://whois.zh.sgnic.sg) |
 | .xn--ygbi2ammx (.فلسطين) | [whois.pnina.ps](https://whois.pnina.ps) |
 | .xn--zfr164b (.政务) | [whois.conac.cn](https://whois.conac.cn) |
 | .xxx | [whois.nic.xxx](https://whois.nic.xxx)|
