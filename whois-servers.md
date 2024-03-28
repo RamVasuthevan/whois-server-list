@@ -71,7 +71,6 @@
 | author | whois.nic.author |
 | auto | whois.nic.auto |
 | autos | whois.nic.autos |
-| avianca | whois.nic.avianca |
 | aw | whois.nic.aw |
 | aws | whois.nic.aws |
 | ax | whois.ax |
