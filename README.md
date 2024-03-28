@@ -85,7 +85,6 @@ It does not contain:
 | .author | [whois.nic.author](https://whois.nic.author)|
 | .auto | [whois.nic.auto](https://whois.nic.auto)|
 | .autos | [whois.nic.autos](https://whois.nic.autos)|
-| .avianca | [whois.nic.avianca](https://whois.nic.avianca)|
 | .aw | [whois.nic.aw](https://whois.nic.aw)|
 | .aws | [whois.nic.aws](https://whois.nic.aws)|
 | .ax | [whois.ax](https://whois.ax)|
