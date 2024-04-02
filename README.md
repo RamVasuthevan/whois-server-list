@@ -23,6 +23,7 @@ It does not contain:
 | .abudhabi | [whois.nic.abudhabi](https://whois.nic.abudhabi)|
 | .ac | [whois.nic.ac](https://whois.nic.ac)|
 | .academy | [whois.nic.academy](https://whois.nic.academy)|
+| .accenture | [whois.nic.accenture](https://whois.nic.accenture)|
 | .accountant | [whois.nic.accountant](https://whois.nic.accountant)|
 | .accountants | [whois.nic.accountants](https://whois.nic.accountants)|
 | .aco | [whois.nic.aco](https://whois.nic.aco)|
@@ -635,6 +636,7 @@ It does not contain:
 | .ly | [whois.nic.ly](https://whois.nic.ly)|
 | .ma | [whois.registre.ma](https://whois.registre.ma)|
 | .madrid | [whois.nic.madrid](https://whois.nic.madrid)|
+| .maif | [whois.nic.maif](https://whois.nic.maif)|
 | .maison | [whois.nic.maison](https://whois.nic.maison)|
 | .makeup | [whois.nic.makeup](https://whois.nic.makeup)|
 | .man | [whois.nic.man](https://whois.nic.man)|

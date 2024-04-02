@@ -9,6 +9,7 @@
 | abudhabi | whois.nic.abudhabi |
 | ac | whois.nic.ac |
 | academy | whois.nic.academy |
+| accenture | whois.nic.accenture |
 | accountant | whois.nic.accountant |
 | accountants | whois.nic.accountants |
 | aco | whois.nic.aco |
@@ -621,6 +622,7 @@
 | ly | whois.nic.ly |
 | ma | whois.registre.ma |
 | madrid | whois.nic.madrid |
+| maif | whois.nic.maif |
 | maison | whois.nic.maison |
 | makeup | whois.nic.makeup |
 | man | whois.nic.man |
