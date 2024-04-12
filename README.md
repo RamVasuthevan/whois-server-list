@@ -89,6 +89,7 @@ It does not contain:
 | .aw | [whois.nic.aw](https://whois.nic.aw)|
 | .aws | [whois.nic.aws](https://whois.nic.aws)|
 | .ax | [whois.ax](https://whois.ax)|
+| .azure | [whois.nic.azure](https://whois.nic.azure)|
 | .baby | [whois.nic.baby](https://whois.nic.baby)|
 | .baidu | [whois.gtld.knet.cn](https://whois.gtld.knet.cn)|
 | .band | [whois.nic.band](https://whois.nic.band)|
@@ -124,6 +125,7 @@ It does not contain:
 | .bible | [whois.nic.bible](https://whois.nic.bible)|
 | .bid | [whois.nic.bid](https://whois.nic.bid)|
 | .bike | [whois.nic.bike](https://whois.nic.bike)|
+| .bing | [whois.nic.bing](https://whois.nic.bing)|
 | .bingo | [whois.nic.bingo](https://whois.nic.bingo)|
 | .bio | [whois.nic.bio](https://whois.nic.bio)|
 | .biz | [whois.nic.biz](https://whois.nic.biz)|
@@ -492,6 +494,7 @@ It does not contain:
 | .hosting | [whois.nic.hosting](https://whois.nic.hosting)|
 | .hot | [whois.nic.hot](https://whois.nic.hot)|
 | .hotels | [whois.nic.hotels](https://whois.nic.hotels)|
+| .hotmail | [whois.nic.hotmail](https://whois.nic.hotmail)|
 | .house | [whois.nic.house](https://whois.nic.house)|
 | .how | [whois.nic.google](https://whois.nic.google)|
 | .hr | [whois.dns.hr](https://whois.dns.hr)|
@@ -662,6 +665,7 @@ It does not contain:
 | .merckmsd | [whois.nic.merckmsd](https://whois.nic.merckmsd)|
 | .mg | [whois.nic.mg](https://whois.nic.mg)|
 | .miami | [whois.nic.miami](https://whois.nic.miami)|
+| .microsoft | [whois.nic.microsoft](https://whois.nic.microsoft)|
 | .mini | [whois.nic.mini](https://whois.nic.mini)|
 | .mit | [whois.nic.mit](https://whois.nic.mit)|
 | .mitsubishi | [whois.nic.gmo](https://whois.nic.gmo)|
@@ -740,6 +744,7 @@ It does not contain:
 | .nz | [whois.irs.net.nz](https://whois.irs.net.nz)|
 | .obi | [whois.nic.obi](https://whois.nic.obi)|
 | .observer | [whois.nic.observer](https://whois.nic.observer)|
+| .office | [whois.nic.office](https://whois.nic.office)|
 | .okinawa | [whois.nic.okinawa](https://whois.nic.okinawa)|
 | .olayan | [whois.nic.olayan](https://whois.nic.olayan)|
 | .olayangroup | [whois.nic.olayangroup](https://whois.nic.olayangroup)|
@@ -935,6 +940,7 @@ It does not contain:
 | .ski | [whois.nic.ski](https://whois.nic.ski)|
 | .skin | [whois.nic.skin](https://whois.nic.skin)|
 | .sky | [whois.nic.sky](https://whois.nic.sky)|
+| .skype | [whois.nic.skype](https://whois.nic.skype)|
 | .sling | [whois.nic.sling](https://whois.nic.sling)|
 | .sm | [whois.nic.sm](https://whois.nic.sm)|
 | .smart | [whois.nic.smart](https://whois.nic.smart)|
@@ -1112,6 +1118,7 @@ It does not contain:
 | .wien | [whois.nic.wien](https://whois.nic.wien)|
 | .wiki | [whois.nic.wiki](https://whois.nic.wiki)|
 | .win | [whois.nic.win](https://whois.nic.win)|
+| .windows | [whois.nic.windows](https://whois.nic.windows)|
 | .wine | [whois.nic.wine](https://whois.nic.wine)|
 | .wme | [whois.nic.wme](https://whois.nic.wme)|
 | .wolterskluwer | [whois.nic.wolterskluwer](https://whois.nic.wolterskluwer)|
@@ -1123,6 +1130,7 @@ It does not contain:
 | .ws | [whois.website.ws](https://whois.website.ws)|
 | .wtc | [whois.nic.wtc](https://whois.nic.wtc)|
 | .wtf | [whois.nic.wtf](https://whois.nic.wtf)|
+| .xbox | [whois.nic.xbox](https://whois.nic.xbox)|
 | .xerox | [whois.nic.xerox](https://whois.nic.xerox)|
 | .xihuan | [whois.teleinfo.cn](https://whois.teleinfo.cn)|
 | .xin | [whois.nic.xin](https://whois.nic.xin)|
