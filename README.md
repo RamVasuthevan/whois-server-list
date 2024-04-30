@@ -894,7 +894,7 @@ It does not contain:
 | .sb | [whois.nic.net.sb](https://whois.nic.net.sb)|
 | .sbi | [whois.nic.sbi](https://whois.nic.sbi)|
 | .sbs | [whois.nic.sbs](https://whois.nic.sbs)|
-| .sc | [whois2.afilias-grs.net](https://whois2.afilias-grs.net)|
+| .sc | [whois.nic.sc](https://whois.nic.sc)|
 | .scb | [whois.nic.scb](https://whois.nic.scb)|
 | .schaeffler | [whois.afilias-srs.net](https://whois.afilias-srs.net)|
 | .schmidt | [whois.nic.schmidt](https://whois.nic.schmidt)|
