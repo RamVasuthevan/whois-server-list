@@ -709,7 +709,6 @@ It does not contain:
 | .nab | [whois.nic.nab](https://whois.nic.nab)|
 | .nagoya | [whois.nic.nagoya](https://whois.nic.nagoya)|
 | .name | [whois.nic.name](https://whois.nic.name)|
-| .natura | [whois.gtlds.nic.br](https://whois.gtlds.nic.br)|
 | .navy | [whois.nic.navy](https://whois.nic.navy)|
 | .nc | [whois.nc](https://whois.nc)|
 | .nec | [whois.nic.nec](https://whois.nic.nec)|
