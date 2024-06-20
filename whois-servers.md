@@ -695,7 +695,6 @@
 | nab | whois.nic.nab |
 | nagoya | whois.nic.nagoya |
 | name | whois.nic.name |
-| natura | whois.gtlds.nic.br |
 | navy | whois.nic.navy |
 | nc | whois.nc |
 | nec | whois.nic.nec |
