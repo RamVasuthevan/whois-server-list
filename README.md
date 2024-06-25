@@ -422,7 +422,7 @@ It does not contain:
 | .gg | [whois.gg](https://whois.gg)|
 | .ggee | [whois.nic.ggee](https://whois.nic.ggee)|
 | .gh | [whois.nic.gh](https://whois.nic.gh)|
-| .gi | [whois2.afilias-grs.net](https://whois2.afilias-grs.net)|
+| .gi | [whois.identitydigital.services](https://whois.identitydigital.services)|
 | .gift | [whois.uniregistry.net](https://whois.uniregistry.net)|
 | .gifts | [whois.nic.gifts](https://whois.nic.gifts)|
 | .gives | [whois.nic.gives](https://whois.nic.gives)|
