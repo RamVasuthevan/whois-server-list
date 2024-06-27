@@ -408,7 +408,7 @@
 | gg | whois.gg |
 | ggee | whois.nic.ggee |
 | gh | whois.nic.gh |
-| gi | whois2.afilias-grs.net |
+| gi | whois.identitydigital.services |
 | gift | whois.uniregistry.net |
 | gifts | whois.nic.gifts |
 | gives | whois.nic.gives |
@@ -1210,7 +1210,6 @@
 | xn--ngbc5azd | whois.nic.xn--ngbc5azd |
 | xn--ngbe9e0a | whois.nic.xn--ngbe9e0a |
 | xn--ngbrx | whois.nic.xn--ngbrx |
-| xn--node | whois.itdc.ge |
 | xn--nqv7f | whois.nic.xn--nqv7f |
 | xn--nqv7fs00ema | whois.nic.xn--nqv7fs00ema |
 | xn--o3cw4h | whois.thnic.co.th |
