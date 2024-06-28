@@ -422,7 +422,7 @@ It does not contain:
 | .gg | [whois.gg](https://whois.gg)|
 | .ggee | [whois.nic.ggee](https://whois.nic.ggee)|
 | .gh | [whois.nic.gh](https://whois.nic.gh)|
-| .gi | [whois2.afilias-grs.net](https://whois2.afilias-grs.net)|
+| .gi | [whois.identitydigital.services](https://whois.identitydigital.services)|
 | .gift | [whois.uniregistry.net](https://whois.uniregistry.net)|
 | .gifts | [whois.nic.gifts](https://whois.nic.gifts)|
 | .gives | [whois.nic.gives](https://whois.nic.gives)|
@@ -1224,7 +1224,6 @@ It does not contain:
 | .xn--ngbc5azd (.شبكة) | [whois.nic.xn--ngbc5azd](https://whois.nic.xn--ngbc5azd) |
 | .xn--ngbe9e0a (.بيتك) | [whois.nic.xn--ngbe9e0a](https://whois.nic.xn--ngbe9e0a) |
 | .xn--ngbrx (.عرب) | [whois.nic.xn--ngbrx](https://whois.nic.xn--ngbrx) |
-| .xn--node (.ᲒᲔ) | [whois.itdc.ge](https://whois.itdc.ge) |
 | .xn--nqv7f (.机构) | [whois.nic.xn--nqv7f](https://whois.nic.xn--nqv7f) |
 | .xn--nqv7fs00ema (.组织机构) | [whois.nic.xn--nqv7fs00ema](https://whois.nic.xn--nqv7fs00ema) |
 | .xn--o3cw4h (.ไทย) | [whois.thnic.co.th](https://whois.thnic.co.th) |
