@@ -921,7 +921,6 @@ It does not contain:
 | .sh | [whois.nic.sh](https://whois.nic.sh)|
 | .shangrila | [whois.nic.shangrila](https://whois.nic.shangrila)|
 | .sharp | [whois.nic.gmo](https://whois.nic.gmo)|
-| .shaw | [whois.afilias-srs.net](https://whois.afilias-srs.net)|
 | .shell | [whois.nic.shell](https://whois.nic.shell)|
 | .shia | [whois.nic.shia](https://whois.nic.shia)|
 | .shiksha | [whois.nic.shiksha](https://whois.nic.shiksha)|
@@ -1070,7 +1069,7 @@ It does not contain:
 | .vacations | [whois.nic.vacations](https://whois.nic.vacations)|
 | .vana | [whois.nic.vana](https://whois.nic.vana)|
 | .vanguard | [whois.nic.vanguard](https://whois.nic.vanguard)|
-| .vc | [whois2.afilias-grs.net](https://whois2.afilias-grs.net)|
+| .vc | [whois.identitydigital.services](https://whois.identitydigital.services)|
 | .ve | [whois.nic.ve](https://whois.nic.ve)|
 | .vegas | [whois.nic.vegas](https://whois.nic.vegas)|
 | .ventures | [whois.nic.ventures](https://whois.nic.ventures)|
