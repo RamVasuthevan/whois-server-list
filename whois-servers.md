@@ -907,7 +907,6 @@
 | sh | whois.nic.sh |
 | shangrila | whois.nic.shangrila |
 | sharp | whois.nic.gmo |
-| shaw | whois.afilias-srs.net |
 | shell | whois.nic.shell |
 | shia | whois.nic.shia |
 | shiksha | whois.nic.shiksha |
@@ -1056,7 +1055,7 @@
 | vacations | whois.nic.vacations |
 | vana | whois.nic.vana |
 | vanguard | whois.nic.vanguard |
-| vc | whois2.afilias-grs.net |
+| vc | whois.identitydigital.services |
 | ve | whois.nic.ve |
 | vegas | whois.nic.vegas |
 | ventures | whois.nic.ventures |
