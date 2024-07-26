@@ -911,6 +911,7 @@ It does not contain:
 | .security | [whois.nic.security](https://whois.nic.security)|
 | .seek | [whois.nic.seek](https://whois.nic.seek)|
 | .select | [whois.nic.select](https://whois.nic.select)|
+| .sener | [whois.nic.rwe](https://whois.nic.rwe)|
 | .services | [whois.nic.services](https://whois.nic.services)|
 | .seven | [whois.nic.seven](https://whois.nic.seven)|
 | .sew | [whois.nic.sew](https://whois.nic.sew)|

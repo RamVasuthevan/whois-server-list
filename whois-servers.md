@@ -897,6 +897,7 @@
 | security | whois.nic.security |
 | seek | whois.nic.seek |
 | select | whois.nic.select |
+| sener | whois.nic.rwe |
 | services | whois.nic.services |
 | seven | whois.nic.seven |
 | sew | whois.nic.sew |
