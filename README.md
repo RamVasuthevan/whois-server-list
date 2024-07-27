@@ -1259,6 +1259,7 @@ It does not contain:
 | .xxx | [whois.nic.xxx](https://whois.nic.xxx)|
 | .xyz | [whois.nic.xyz](https://whois.nic.xyz)|
 | .yachts | [whois.nic.yachts](https://whois.nic.yachts)|
+| .yahoo | [whois.nic.yahoo](https://whois.nic.yahoo)|
 | .yamaxun | [whois.nic.yamaxun](https://whois.nic.yamaxun)|
 | .ye | [whois.y.net.ye](https://whois.y.net.ye)|
 | .yodobashi | [whois.nic.gmo](https://whois.nic.gmo)|
