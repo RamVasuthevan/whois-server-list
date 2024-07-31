@@ -1245,6 +1245,7 @@
 | xxx | whois.nic.xxx |
 | xyz | whois.nic.xyz |
 | yachts | whois.nic.yachts |
+| yahoo | whois.nic.yahoo |
 | yamaxun | whois.nic.yamaxun |
 | ye | whois.y.net.ye |
 | yodobashi | whois.nic.gmo |
