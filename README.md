@@ -28,6 +28,7 @@ It does not contain:
 | .accountants | [whois.nic.accountants](https://whois.nic.accountants)|
 | .aco | [whois.nic.aco](https://whois.nic.aco)|
 | .actor | [whois.nic.actor](https://whois.nic.actor)|
+| .ad | [whois.nic.ad](https://whois.nic.ad)|
 | .ads | [whois.nic.google](https://whois.nic.google)|
 | .adult | [whois.nic.adult](https://whois.nic.adult)|
 | .ae | [whois.aeda.net.ae](https://whois.aeda.net.ae)|
