@@ -271,7 +271,6 @@ It does not contain:
 | .cymru | [whois.nic.cymru](https://whois.nic.cymru)|
 | .cyou | [whois.nic.cyou](https://whois.nic.cyou)|
 | .cz | [whois.nic.cz](https://whois.nic.cz)|
-| .dabur | [whois.nic.dabur](https://whois.nic.dabur)|
 | .dad | [whois.nic.google](https://whois.nic.google)|
 | .dance | [whois.nic.dance](https://whois.nic.dance)|
 | .data | [whois.nic.data](https://whois.nic.data)|
