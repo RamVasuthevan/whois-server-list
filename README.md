@@ -705,7 +705,6 @@ It does not contain:
 | .mx | [whois.mx](https://whois.mx)|
 | .my | [whois.mynic.my](https://whois.mynic.my)|
 | .mz | [whois.nic.mz](https://whois.nic.mz)|
-| .na | [whois.na-nic.com.na](https://whois.na-nic.com.na)|
 | .nab | [whois.nic.nab](https://whois.nic.nab)|
 | .nagoya | [whois.nic.nagoya](https://whois.nic.nagoya)|
 | .name | [whois.nic.name](https://whois.nic.name)|
