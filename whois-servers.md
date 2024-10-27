@@ -371,6 +371,7 @@
 | fm | whois.nic.fm |
 | fo | whois.nic.fo |
 | foo | whois.nic.google |
+| food | whois.nic.food |
 | football | whois.nic.football |
 | forex | whois.nic.forex |
 | forsale | whois.nic.forsale |
@@ -600,6 +601,7 @@
 | link | whois.uniregistry.net |
 | lipsy | whois.nic.lipsy |
 | live | whois.nic.live |
+| living | whois.nic.living |
 | llc | whois.nic.llc |
 | llp | whois.nic.llp |
 | loan | whois.nic.loan |
@@ -691,7 +693,6 @@
 | mx | whois.mx |
 | my | whois.mynic.my |
 | mz | whois.nic.mz |
-| na | whois.na-nic.com.na |
 | nab | whois.nic.nab |
 | nagoya | whois.nic.nagoya |
 | name | whois.nic.name |

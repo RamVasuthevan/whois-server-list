@@ -385,6 +385,7 @@ It does not contain:
 | .fm | [whois.nic.fm](https://whois.nic.fm)|
 | .fo | [whois.nic.fo](https://whois.nic.fo)|
 | .foo | [whois.nic.google](https://whois.nic.google)|
+| .food | [whois.nic.food](https://whois.nic.food)|
 | .football | [whois.nic.football](https://whois.nic.football)|
 | .forex | [whois.nic.forex](https://whois.nic.forex)|
 | .forsale | [whois.nic.forsale](https://whois.nic.forsale)|
@@ -614,6 +615,7 @@ It does not contain:
 | .link | [whois.uniregistry.net](https://whois.uniregistry.net)|
 | .lipsy | [whois.nic.lipsy](https://whois.nic.lipsy)|
 | .live | [whois.nic.live](https://whois.nic.live)|
+| .living | [whois.nic.living](https://whois.nic.living)|
 | .llc | [whois.nic.llc](https://whois.nic.llc)|
 | .llp | [whois.nic.llp](https://whois.nic.llp)|
 | .loan | [whois.nic.loan](https://whois.nic.loan)|
@@ -705,7 +707,6 @@ It does not contain:
 | .mx | [whois.mx](https://whois.mx)|
 | .my | [whois.mynic.my](https://whois.mynic.my)|
 | .mz | [whois.nic.mz](https://whois.nic.mz)|
-| .na | [whois.na-nic.com.na](https://whois.na-nic.com.na)|
 | .nab | [whois.nic.nab](https://whois.nic.nab)|
 | .nagoya | [whois.nic.nagoya](https://whois.nic.nagoya)|
 | .name | [whois.nic.name](https://whois.nic.name)|
