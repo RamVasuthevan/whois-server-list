@@ -10,20 +10,24 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+    - name: Install Git LFS
+      run: |
+        sudo apt-get update && sudo apt-get install -y git-lfs
+        git lfs install
+
     - name: Check out code
       uses: actions/checkout@v4
-      
+
     - name: Git LFS pull
       run: git lfs pull
 
     - name: Set up Python from Pipfile
       id: python
       run: |
-        echo "::set-output name=version::$(grep python_version Pipfile | cut -d'"' -f2)"
+        echo "version=$(grep python_version Pipfile | cut -d'\"' -f2)" >> $GITHUB_ENV
 
     - name: Install pipenv
-      run: |
-        pip install pipenv
+      run: pip install pipenv
 
     - name: Install dependencies using Pipenv
       run: |
@@ -37,22 +41,34 @@ jobs:
 
     - name: Get current date
       id: date
-      run: echo "::set-output name=date::$(date +'%Y-%m-%d')"
-    
+      run: |
+        echo "date=$(date +'%Y-%m-%d')" >> $GITHUB_ENV
+
+    - name: Commit
+      run: |
+        git add -A
+        git commit -m "Save uncommitted changes" || echo "No changes to commit"
+
     - name: Check for changes in CSV
       id: check_changes
       run: |
-          git diff --exit-code whois-servers.csv && (echo "No changes detected in CSV" && echo "changes=no" >> $GITHUB_ENV) || (echo "Changes detected in CSV" && echo "changes=yes" >> $GITHUB_ENV)
-      
+        if git diff --quiet whois-servers.csv; then
+          echo "No changes detected in CSV"
+          echo "changes=no" >> $GITHUB_ENV
+        else
+          echo "Changes detected in CSV"
+          echo "changes=yes" >> $GITHUB_ENV
+        fi
+
     - name: Create Pull Request
       if: env.changes == 'yes'
       id: cpr
       uses: peter-evans/create-pull-request@v6
       with:
         token: ${{ secrets.GITHUB_TOKEN }}
-        commit-message: "Automatically updated on ${{ steps.date.outputs.date }}"
-        title: "Update WHOIS servers list - ${{ steps.date.outputs.date }}"
-        branch: "update-whois-list-${{ steps.date.outputs.date }}-${{ github.run_number }}"
+        commit-message: "Automatically updated on ${{ env.date }}"
+        title: "Update WHOIS servers list - ${{ env.date }}"
+        branch: "update-whois-list-${{ env.date }}-${{ github.run_number }}"
         labels: automated-pr
 
     - name: PR details
@@ -60,3 +76,9 @@ jobs:
       run: |
         echo "Pull Request Number - ${{ steps.cpr.outputs.pull-request-number }}"
         echo "Pull Request URL - ${{ steps.cpr.outputs.pull-request-url }}"
+
+    - name: Debug Git State
+      if: failure()
+      run: |
+        git status
+        git log --oneline -n 5
