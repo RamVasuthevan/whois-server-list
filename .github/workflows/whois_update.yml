@@ -44,6 +44,11 @@ jobs:
       run: |
         echo "date=$(date +'%Y-%m-%d')" >> $GITHUB_ENV
 
+    - name: Commit
+      run: |
+        git add -A
+        git commit -m "Save uncommitted changes" || echo "No changes to commit"
+
     - name: Check for changes in CSV
       id: check_changes
       run: |
