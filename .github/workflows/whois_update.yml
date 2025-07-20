@@ -21,6 +21,11 @@ jobs:
     - name: Git LFS pull
       run: git lfs pull
 
+    - name: Configure Git
+      run: |
+        git config user.name "Automated"
+        git config user.email "actions@users.noreply.github.com"
+
     - name: Get Python version from Pipfile
       id: python-version
       run: |
