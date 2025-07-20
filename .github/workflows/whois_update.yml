@@ -21,10 +21,16 @@ jobs:
     - name: Git LFS pull
       run: git lfs pull
 
-    - name: Set up Python from Pipfile
-      id: python
+    - name: Get Python version from Pipfile
+      id: python-version
       run: |
+        cd whois-server-list-generator
         echo "version=$(grep python_version Pipfile | cut -d'\"' -f2)" >> $GITHUB_ENV
+
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: ${{ env.version }}
 
     - name: Install pipenv
       run: pip install pipenv
