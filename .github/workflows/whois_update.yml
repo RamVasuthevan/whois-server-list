@@ -25,12 +25,10 @@ jobs:
       id: python-version
       run: |
         cd whois-server-list-generator
-        echo "version=$(grep python_version Pipfile | sed 's/.*= "\([^"]*\)".*/\1/')" >> $GITHUB_ENV
+        echo "python-version=$(grep python_version Pipfile | sed 's/.*= "\([^"]*\)".*/\1/')" >> $GITHUB_ENV
 
     - name: Set up Python
       uses: actions/setup-python@v4
-      with:
-        python-version: ${{ env.version }}
 
     - name: Install pipenv
       run: pip install pipenv
