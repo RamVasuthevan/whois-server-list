@@ -34,7 +34,7 @@ jobs:
         echo "Python version: ${{ env.python-version }}"
 
     - name: Set up Python
-      uses: actions/setup-python@v4
+      uses: actions/setup-python@v6
       with:
         python-version: ${{ env.python-version }}
 
