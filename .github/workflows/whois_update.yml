@@ -16,7 +16,7 @@ jobs:
         git lfs install
 
     - name: Check out code
-      uses: actions/checkout@v4
+      uses: actions/checkout@v6
 
     - name: Git LFS pull
       run: git lfs pull
@@ -34,7 +34,7 @@ jobs:
         echo "Python version: ${{ env.python-version }}"
 
     - name: Set up Python
-      uses: actions/setup-python@v4
+      uses: actions/setup-python@v6
       with:
         python-version: ${{ env.python-version }}
 
@@ -75,7 +75,7 @@ jobs:
     - name: Create Pull Request
       if: env.changes == 'yes'
       id: cpr
-      uses: peter-evans/create-pull-request@v7
+      uses: peter-evans/create-pull-request@v8
       with:
         token: ${{ secrets.GITHUB_TOKEN }}
         commit-message: "Automatically updated on ${{ env.date }}"
