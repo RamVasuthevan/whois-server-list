@@ -1,0 +1,5050 @@
+[
+  {
+    "domain": "aarp",
+    "whois_server_url": "whois.nic.aarp"
+  },
+  {
+    "domain": "abb",
+    "whois_server_url": "whois.nic.abb"
+  },
+  {
+    "domain": "abbott",
+    "whois_server_url": "whois.nic.abbott"
+  },
+  {
+    "domain": "abbvie",
+    "whois_server_url": "whois.nic.abbvie"
+  },
+  {
+    "domain": "abc",
+    "whois_server_url": "whois.nic.abc"
+  },
+  {
+    "domain": "abogado",
+    "whois_server_url": "whois.nic.abogado"
+  },
+  {
+    "domain": "abudhabi",
+    "whois_server_url": "whois.nic.abudhabi"
+  },
+  {
+    "domain": "ac",
+    "whois_server_url": "whois.nic.ac"
+  },
+  {
+    "domain": "academy",
+    "whois_server_url": "whois.nic.academy"
+  },
+  {
+    "domain": "accenture",
+    "whois_server_url": "whois.nic.accenture"
+  },
+  {
+    "domain": "accountant",
+    "whois_server_url": "whois.nic.accountant"
+  },
+  {
+    "domain": "accountants",
+    "whois_server_url": "whois.nic.accountants"
+  },
+  {
+    "domain": "aco",
+    "whois_server_url": "whois.nic.aco"
+  },
+  {
+    "domain": "actor",
+    "whois_server_url": "whois.nic.actor"
+  },
+  {
+    "domain": "ad",
+    "whois_server_url": "whois.nic.ad"
+  },
+  {
+    "domain": "ads",
+    "whois_server_url": "whois.nic.google"
+  },
+  {
+    "domain": "adult",
+    "whois_server_url": "whois.nic.adult"
+  },
+  {
+    "domain": "ae",
+    "whois_server_url": "whois.aeda.net.ae"
+  },
+  {
+    "domain": "aeg",
+    "whois_server_url": "whois.nic.aeg"
+  },
+  {
+    "domain": "aero",
+    "whois_server_url": "whois.aero"
+  },
+  {
+    "domain": "af",
+    "whois_server_url": "whois.nic.af"
+  },
+  {
+    "domain": "afl",
+    "whois_server_url": "whois.nic.afl"
+  },
+  {
+    "domain": "africa",
+    "whois_server_url": "whois.nic.africa"
+  },
+  {
+    "domain": "ag",
+    "whois_server_url": "whois.nic.ag"
+  },
+  {
+    "domain": "agakhan",
+    "whois_server_url": "whois.nic.agakhan"
+  },
+  {
+    "domain": "agency",
+    "whois_server_url": "whois.nic.agency"
+  },
+  {
+    "domain": "ai",
+    "whois_server_url": "whois.nic.ai"
+  },
+  {
+    "domain": "airbus",
+    "whois_server_url": "whois.nic.airbus"
+  },
+  {
+    "domain": "airforce",
+    "whois_server_url": "whois.nic.airforce"
+  },
+  {
+    "domain": "airtel",
+    "whois_server_url": "whois.nic.airtel"
+  },
+  {
+    "domain": "akdn",
+    "whois_server_url": "whois.nic.akdn"
+  },
+  {
+    "domain": "alibaba",
+    "whois_server_url": "whois.nic.alibaba"
+  },
+  {
+    "domain": "alipay",
+    "whois_server_url": "whois.nic.alipay"
+  },
+  {
+    "domain": "allfinanz",
+    "whois_server_url": "whois.nic.allfinanz"
+  },
+  {
+    "domain": "allstate",
+    "whois_server_url": "whois.nic.allstate"
+  },
+  {
+    "domain": "ally",
+    "whois_server_url": "whois.nic.ally"
+  },
+  {
+    "domain": "alsace",
+    "whois_server_url": "whois.nic.alsace"
+  },
+  {
+    "domain": "alstom",
+    "whois_server_url": "whois.nic.alstom"
+  },
+  {
+    "domain": "am",
+    "whois_server_url": "whois.amnic.net"
+  },
+  {
+    "domain": "amazon",
+    "whois_server_url": "whois.nic.amazon"
+  },
+  {
+    "domain": "americanfamily",
+    "whois_server_url": "whois.nic.americanfamily"
+  },
+  {
+    "domain": "amfam",
+    "whois_server_url": "whois.nic.amfam"
+  },
+  {
+    "domain": "amsterdam",
+    "whois_server_url": "whois.nic.amsterdam"
+  },
+  {
+    "domain": "android",
+    "whois_server_url": "whois.nic.google"
+  },
+  {
+    "domain": "anquan",
+    "whois_server_url": "whois.teleinfo.cn"
+  },
+  {
+    "domain": "anz",
+    "whois_server_url": "whois.nic.anz"
+  },
+  {
+    "domain": "aol",
+    "whois_server_url": "whois.nic.aol"
+  },
+  {
+    "domain": "apartments",
+    "whois_server_url": "whois.nic.apartments"
+  },
+  {
+    "domain": "app",
+    "whois_server_url": "whois.nic.google"
+  },
+  {
+    "domain": "apple",
+    "whois_server_url": "whois.nic.apple"
+  },
+  {
+    "domain": "aquarelle",
+    "whois_server_url": "whois.nic.aquarelle"
+  },
+  {
+    "domain": "ar",
+    "whois_server_url": "whois.nic.ar"
+  },
+  {
+    "domain": "arab",
+    "whois_server_url": "whois.nic.arab"
+  },
+  {
+    "domain": "archi",
+    "whois_server_url": "whois.nic.archi"
+  },
+  {
+    "domain": "army",
+    "whois_server_url": "whois.nic.army"
+  },
+  {
+    "domain": "arpa",
+    "whois_server_url": "whois.iana.org"
+  },
+  {
+    "domain": "art",
+    "whois_server_url": "whois.nic.art"
+  },
+  {
+    "domain": "arte",
+    "whois_server_url": "whois.nic.arte"
+  },
+  {
+    "domain": "as",
+    "whois_server_url": "whois.nic.as"
+  },
+  {
+    "domain": "asda",
+    "whois_server_url": "whois.nic.asda"
+  },
+  {
+    "domain": "asia",
+    "whois_server_url": "whois.nic.asia"
+  },
+  {
+    "domain": "associates",
+    "whois_server_url": "whois.nic.associates"
+  },
+  {
+    "domain": "at",
+    "whois_server_url": "whois.nic.at"
+  },
+  {
+    "domain": "attorney",
+    "whois_server_url": "whois.nic.attorney"
+  },
+  {
+    "domain": "au",
+    "whois_server_url": "whois.auda.org.au"
+  },
+  {
+    "domain": "auction",
+    "whois_server_url": "whois.nic.auction"
+  },
+  {
+    "domain": "audi",
+    "whois_server_url": "whois.nic.audi"
+  },
+  {
+    "domain": "audible",
+    "whois_server_url": "whois.nic.audible"
+  },
+  {
+    "domain": "audio",
+    "whois_server_url": "whois.nic.audio"
+  },
+  {
+    "domain": "auspost",
+    "whois_server_url": "whois.nic.auspost"
+  },
+  {
+    "domain": "author",
+    "whois_server_url": "whois.nic.author"
+  },
+  {
+    "domain": "auto",
+    "whois_server_url": "whois.nic.auto"
+  },
+  {
+    "domain": "autos",
+    "whois_server_url": "whois.nic.autos"
+  },
+  {
+    "domain": "aw",
+    "whois_server_url": "whois.nic.aw"
+  },
+  {
+    "domain": "aws",
+    "whois_server_url": "whois.nic.aws"
+  },
+  {
+    "domain": "ax",
+    "whois_server_url": "whois.ax"
+  },
+  {
+    "domain": "azure",
+    "whois_server_url": "whois.nic.azure"
+  },
+  {
+    "domain": "baby",
+    "whois_server_url": "whois.nic.baby"
+  },
+  {
+    "domain": "baidu",
+    "whois_server_url": "whois.gtld.knet.cn"
+  },
+  {
+    "domain": "band",
+    "whois_server_url": "whois.nic.band"
+  },
+  {
+    "domain": "bank",
+    "whois_server_url": "whois.nic.bank"
+  },
+  {
+    "domain": "bar",
+    "whois_server_url": "whois.nic.bar"
+  },
+  {
+    "domain": "barcelona",
+    "whois_server_url": "whois.nic.barcelona"
+  },
+  {
+    "domain": "barclaycard",
+    "whois_server_url": "whois.nic.barclaycard"
+  },
+  {
+    "domain": "barclays",
+    "whois_server_url": "whois.nic.barclays"
+  },
+  {
+    "domain": "barefoot",
+    "whois_server_url": "whois.nic.barefoot"
+  },
+  {
+    "domain": "bargains",
+    "whois_server_url": "whois.nic.bargains"
+  },
+  {
+    "domain": "baseball",
+    "whois_server_url": "whois.nic.baseball"
+  },
+  {
+    "domain": "basketball",
+    "whois_server_url": "whois.nic.basketball"
+  },
+  {
+    "domain": "bauhaus",
+    "whois_server_url": "whois.nic.bauhaus"
+  },
+  {
+    "domain": "bayern",
+    "whois_server_url": "whois.nic.bayern"
+  },
+  {
+    "domain": "bbc",
+    "whois_server_url": "whois.nic.bbc"
+  },
+  {
+    "domain": "bbt",
+    "whois_server_url": "whois.nic.bbt"
+  },
+  {
+    "domain": "bbva",
+    "whois_server_url": "whois.nic.bbva"
+  },
+  {
+    "domain": "bcg",
+    "whois_server_url": "whois.nic.bcg"
+  },
+  {
+    "domain": "bcn",
+    "whois_server_url": "whois.nic.bcn"
+  },
+  {
+    "domain": "be",
+    "whois_server_url": "whois.dns.be"
+  },
+  {
+    "domain": "beats",
+    "whois_server_url": "whois.nic.beats"
+  },
+  {
+    "domain": "beauty",
+    "whois_server_url": "whois.nic.beauty"
+  },
+  {
+    "domain": "beer",
+    "whois_server_url": "whois.nic.beer"
+  },
+  {
+    "domain": "bentley",
+    "whois_server_url": "whois.nic.bentley"
+  },
+  {
+    "domain": "berlin",
+    "whois_server_url": "whois.nic.berlin"
+  },
+  {
+    "domain": "best",
+    "whois_server_url": "whois.nic.best"
+  },
+  {
+    "domain": "bestbuy",
+    "whois_server_url": "whois.nic.bestbuy"
+  },
+  {
+    "domain": "bet",
+    "whois_server_url": "whois.nic.bet"
+  },
+  {
+    "domain": "bf",
+    "whois_server_url": "whois.registre.bf"
+  },
+  {
+    "domain": "bg",
+    "whois_server_url": "whois.register.bg"
+  },
+  {
+    "domain": "bh",
+    "whois_server_url": "whois.nic.bh"
+  },
+  {
+    "domain": "bi",
+    "whois_server_url": "whois1.nic.bi"
+  },
+  {
+    "domain": "bible",
+    "whois_server_url": "whois.nic.bible"
+  },
+  {
+    "domain": "bid",
+    "whois_server_url": "whois.nic.bid"
+  },
+  {
+    "domain": "bike",
+    "whois_server_url": "whois.nic.bike"
+  },
+  {
+    "domain": "bing",
+    "whois_server_url": "whois.nic.bing"
+  },
+  {
+    "domain": "bingo",
+    "whois_server_url": "whois.nic.bingo"
+  },
+  {
+    "domain": "bio",
+    "whois_server_url": "whois.nic.bio"
+  },
+  {
+    "domain": "biz",
+    "whois_server_url": "whois.nic.biz"
+  },
+  {
+    "domain": "bj",
+    "whois_server_url": "whois.nic.bj"
+  },
+  {
+    "domain": "black",
+    "whois_server_url": "whois.nic.black"
+  },
+  {
+    "domain": "blackfriday",
+    "whois_server_url": "whois.nic.blackfriday"
+  },
+  {
+    "domain": "blockbuster",
+    "whois_server_url": "whois.nic.blockbuster"
+  },
+  {
+    "domain": "blog",
+    "whois_server_url": "whois.nic.blog"
+  },
+  {
+    "domain": "bloomberg",
+    "whois_server_url": "whois.nic.bloomberg"
+  },
+  {
+    "domain": "blue",
+    "whois_server_url": "whois.nic.blue"
+  },
+  {
+    "domain": "bm",
+    "whois_server_url": "whois.nic.bm"
+  },
+  {
+    "domain": "bms",
+    "whois_server_url": "whois.nic.bms"
+  },
+  {
+    "domain": "bmw",
+    "whois_server_url": "whois.nic.bmw"
+  },
+  {
+    "domain": "bn",
+    "whois_server_url": "whois.bnnic.bn"
+  },
+  {
+    "domain": "bnpparibas",
+    "whois_server_url": "whois.nic.bnpparibas"
+  },
+  {
+    "domain": "bo",
+    "whois_server_url": "whois.nic.bo"
+  },
+  {
+    "domain": "boats",
+    "whois_server_url": "whois.nic.boats"
+  },
+  {
+    "domain": "boehringer",
+    "whois_server_url": "whois.nic.boehringer"
+  },
+  {
+    "domain": "bofa",
+    "whois_server_url": "whois.nic.bofa"
+  },
+  {
+    "domain": "bom",
+    "whois_server_url": "whois.gtlds.nic.br"
+  },
+  {
+    "domain": "bond",
+    "whois_server_url": "whois.nic.bond"
+  },
+  {
+    "domain": "boo",
+    "whois_server_url": "whois.nic.google"
+  },
+  {
+    "domain": "book",
+    "whois_server_url": "whois.nic.book"
+  },
+  {
+    "domain": "bosch",
+    "whois_server_url": "whois.nic.bosch"
+  },
+  {
+    "domain": "bostik",
+    "whois_server_url": "whois.nic.bostik"
+  },
+  {
+    "domain": "boston",
+    "whois_server_url": "whois.nic.boston"
+  },
+  {
+    "domain": "bot",
+    "whois_server_url": "whois.nic.bot"
+  },
+  {
+    "domain": "boutique",
+    "whois_server_url": "whois.nic.boutique"
+  },
+  {
+    "domain": "box",
+    "whois_server_url": "whois.nic.box"
+  },
+  {
+    "domain": "br",
+    "whois_server_url": "whois.registro.br"
+  },
+  {
+    "domain": "bradesco",
+    "whois_server_url": "whois.nic.bradesco"
+  },
+  {
+    "domain": "bridgestone",
+    "whois_server_url": "whois.nic.bridgestone"
+  },
+  {
+    "domain": "broadway",
+    "whois_server_url": "whois.nic.broadway"
+  },
+  {
+    "domain": "broker",
+    "whois_server_url": "whois.nic.broker"
+  },
+  {
+    "domain": "brother",
+    "whois_server_url": "whois.nic.brother"
+  },
+  {
+    "domain": "brussels",
+    "whois_server_url": "whois.nic.brussels"
+  },
+  {
+    "domain": "build",
+    "whois_server_url": "whois.nic.build"
+  },
+  {
+    "domain": "builders",
+    "whois_server_url": "whois.nic.builders"
+  },
+  {
+    "domain": "business",
+    "whois_server_url": "whois.nic.business"
+  },
+  {
+    "domain": "buy",
+    "whois_server_url": "whois.nic.buy"
+  },
+  {
+    "domain": "buzz",
+    "whois_server_url": "whois.nic.buzz"
+  },
+  {
+    "domain": "bw",
+    "whois_server_url": "whois.nic.net.bw"
+  },
+  {
+    "domain": "by",
+    "whois_server_url": "whois.cctld.by"
+  },
+  {
+    "domain": "bzh",
+    "whois_server_url": "whois.nic.bzh"
+  },
+  {
+    "domain": "ca",
+    "whois_server_url": "whois.cira.ca"
+  },
+  {
+    "domain": "cab",
+    "whois_server_url": "whois.nic.cab"
+  },
+  {
+    "domain": "cafe",
+    "whois_server_url": "whois.nic.cafe"
+  },
+  {
+    "domain": "cal",
+    "whois_server_url": "whois.nic.google"
+  },
+  {
+    "domain": "call",
+    "whois_server_url": "whois.nic.call"
+  },
+  {
+    "domain": "cam",
+    "whois_server_url": "whois.nic.cam"
+  },
+  {
+    "domain": "camera",
+    "whois_server_url": "whois.nic.camera"
+  },
+  {
+    "domain": "camp",
+    "whois_server_url": "whois.nic.camp"
+  },
+  {
+    "domain": "canon",
+    "whois_server_url": "whois.nic.canon"
+  },
+  {
+    "domain": "capetown",
+    "whois_server_url": "whois.nic.capetown"
+  },
+  {
+    "domain": "capital",
+    "whois_server_url": "whois.nic.capital"
+  },
+  {
+    "domain": "capitalone",
+    "whois_server_url": "whois.nic.capitalone"
+  },
+  {
+    "domain": "car",
+    "whois_server_url": "whois.nic.car"
+  },
+  {
+    "domain": "cards",
+    "whois_server_url": "whois.nic.cards"
+  },
+  {
+    "domain": "care",
+    "whois_server_url": "whois.nic.care"
+  },
+  {
+    "domain": "career",
+    "whois_server_url": "whois.nic.career"
+  },
+  {
+    "domain": "careers",
+    "whois_server_url": "whois.nic.careers"
+  },
+  {
+    "domain": "cars",
+    "whois_server_url": "whois.nic.cars"
+  },
+  {
+    "domain": "casa",
+    "whois_server_url": "whois.nic.casa"
+  },
+  {
+    "domain": "case",
+    "whois_server_url": "whois.nic.case"
+  },
+  {
+    "domain": "cash",
+    "whois_server_url": "whois.nic.cash"
+  },
+  {
+    "domain": "casino",
+    "whois_server_url": "whois.nic.casino"
+  },
+  {
+    "domain": "cat",
+    "whois_server_url": "whois.nic.cat"
+  },
+  {
+    "domain": "catering",
+    "whois_server_url": "whois.nic.catering"
+  },
+  {
+    "domain": "catholic",
+    "whois_server_url": "whois.nic.catholic"
+  },
+  {
+    "domain": "cba",
+    "whois_server_url": "whois.nic.cba"
+  },
+  {
+    "domain": "cc",
+    "whois_server_url": "ccwhois.verisign-grs.com"
+  },
+  {
+    "domain": "center",
+    "whois_server_url": "whois.nic.center"
+  },
+  {
+    "domain": "ceo",
+    "whois_server_url": "whois.nic.ceo"
+  },
+  {
+    "domain": "cern",
+    "whois_server_url": "whois.nic.cern"
+  },
+  {
+    "domain": "cf",
+    "whois_server_url": "whois.dot.cf"
+  },
+  {
+    "domain": "cfa",
+    "whois_server_url": "whois.nic.cfa"
+  },
+  {
+    "domain": "cfd",
+    "whois_server_url": "whois.nic.cfd"
+  },
+  {
+    "domain": "ch",
+    "whois_server_url": "whois.nic.ch"
+  },
+  {
+    "domain": "chanel",
+    "whois_server_url": "whois.nic.chanel"
+  },
+  {
+    "domain": "channel",
+    "whois_server_url": "whois.nic.google"
+  },
+  {
+    "domain": "charity",
+    "whois_server_url": "whois.nic.charity"
+  },
+  {
+    "domain": "chat",
+    "whois_server_url": "whois.nic.chat"
+  },
+  {
+    "domain": "cheap",
+    "whois_server_url": "whois.nic.cheap"
+  },
+  {
+    "domain": "chintai",
+    "whois_server_url": "whois.nic.chintai"
+  },
+  {
+    "domain": "christmas",
+    "whois_server_url": "whois.nic.christmas"
+  },
+  {
+    "domain": "chrome",
+    "whois_server_url": "whois.nic.google"
+  },
+  {
+    "domain": "church",
+    "whois_server_url": "whois.nic.church"
+  },
+  {
+    "domain": "ci",
+    "whois_server_url": "whois.nic.ci"
+  },
+  {
+    "domain": "cipriani",
+    "whois_server_url": "whois.nic.cipriani"
+  },
+  {
+    "domain": "circle",
+    "whois_server_url": "whois.nic.circle"
+  },
+  {
+    "domain": "citadel",
+    "whois_server_url": "whois.nic.citadel"
+  },
+  {
+    "domain": "city",
+    "whois_server_url": "whois.nic.city"
+  },
+  {
+    "domain": "cl",
+    "whois_server_url": "whois.nic.cl"
+  },
+  {
+    "domain": "claims",
+    "whois_server_url": "whois.nic.claims"
+  },
+  {
+    "domain": "cleaning",
+    "whois_server_url": "whois.nic.cleaning"
+  },
+  {
+    "domain": "click",
+    "whois_server_url": "whois.nic.click"
+  },
+  {
+    "domain": "clinic",
+    "whois_server_url": "whois.nic.clinic"
+  },
+  {
+    "domain": "clinique",
+    "whois_server_url": "whois.nic.clinique"
+  },
+  {
+    "domain": "clothing",
+    "whois_server_url": "whois.nic.clothing"
+  },
+  {
+    "domain": "cloud",
+    "whois_server_url": "whois.nic.cloud"
+  },
+  {
+    "domain": "club",
+    "whois_server_url": "whois.nic.club"
+  },
+  {
+    "domain": "clubmed",
+    "whois_server_url": "whois.nic.clubmed"
+  },
+  {
+    "domain": "cn",
+    "whois_server_url": "whois.cnnic.cn"
+  },
+  {
+    "domain": "co",
+    "whois_server_url": "whois.nic.co"
+  },
+  {
+    "domain": "coach",
+    "whois_server_url": "whois.nic.coach"
+  },
+  {
+    "domain": "codes",
+    "whois_server_url": "whois.nic.codes"
+  },
+  {
+    "domain": "coffee",
+    "whois_server_url": "whois.nic.coffee"
+  },
+  {
+    "domain": "college",
+    "whois_server_url": "whois.nic.college"
+  },
+  {
+    "domain": "cologne",
+    "whois_server_url": "whois.ryce-rsp.com"
+  },
+  {
+    "domain": "com",
+    "whois_server_url": "whois.verisign-grs.com"
+  },
+  {
+    "domain": "commbank",
+    "whois_server_url": "whois.nic.commbank"
+  },
+  {
+    "domain": "community",
+    "whois_server_url": "whois.nic.community"
+  },
+  {
+    "domain": "company",
+    "whois_server_url": "whois.nic.company"
+  },
+  {
+    "domain": "compare",
+    "whois_server_url": "whois.nic.compare"
+  },
+  {
+    "domain": "computer",
+    "whois_server_url": "whois.nic.computer"
+  },
+  {
+    "domain": "comsec",
+    "whois_server_url": "whois.nic.comsec"
+  },
+  {
+    "domain": "condos",
+    "whois_server_url": "whois.nic.condos"
+  },
+  {
+    "domain": "construction",
+    "whois_server_url": "whois.nic.construction"
+  },
+  {
+    "domain": "consulting",
+    "whois_server_url": "whois.nic.consulting"
+  },
+  {
+    "domain": "contact",
+    "whois_server_url": "whois.nic.contact"
+  },
+  {
+    "domain": "contractors",
+    "whois_server_url": "whois.nic.contractors"
+  },
+  {
+    "domain": "cooking",
+    "whois_server_url": "whois.nic.cooking"
+  },
+  {
+    "domain": "cool",
+    "whois_server_url": "whois.nic.cool"
+  },
+  {
+    "domain": "coop",
+    "whois_server_url": "whois.nic.coop"
+  },
+  {
+    "domain": "corsica",
+    "whois_server_url": "whois.nic.corsica"
+  },
+  {
+    "domain": "country",
+    "whois_server_url": "whois.nic.country"
+  },
+  {
+    "domain": "coupons",
+    "whois_server_url": "whois.nic.coupons"
+  },
+  {
+    "domain": "courses",
+    "whois_server_url": "whois.nic.courses"
+  },
+  {
+    "domain": "cpa",
+    "whois_server_url": "whois.nic.cpa"
+  },
+  {
+    "domain": "cr",
+    "whois_server_url": "whois.nic.cr"
+  },
+  {
+    "domain": "credit",
+    "whois_server_url": "whois.nic.credit"
+  },
+  {
+    "domain": "creditcard",
+    "whois_server_url": "whois.nic.creditcard"
+  },
+  {
+    "domain": "creditunion",
+    "whois_server_url": "whois.nic.creditunion"
+  },
+  {
+    "domain": "cricket",
+    "whois_server_url": "whois.nic.cricket"
+  },
+  {
+    "domain": "crown",
+    "whois_server_url": "whois.nic.crown"
+  },
+  {
+    "domain": "crs",
+    "whois_server_url": "whois.nic.crs"
+  },
+  {
+    "domain": "cruise",
+    "whois_server_url": "whois.nic.cruise"
+  },
+  {
+    "domain": "cruises",
+    "whois_server_url": "whois.nic.cruises"
+  },
+  {
+    "domain": "cuisinella",
+    "whois_server_url": "whois.nic.cuisinella"
+  },
+  {
+    "domain": "cv",
+    "whois_server_url": "whois.nic.cv"
+  },
+  {
+    "domain": "cx",
+    "whois_server_url": "whois.nic.cx"
+  },
+  {
+    "domain": "cymru",
+    "whois_server_url": "whois.nic.cymru"
+  },
+  {
+    "domain": "cyou",
+    "whois_server_url": "whois.nic.cyou"
+  },
+  {
+    "domain": "cz",
+    "whois_server_url": "whois.nic.cz"
+  },
+  {
+    "domain": "dad",
+    "whois_server_url": "whois.nic.google"
+  },
+  {
+    "domain": "dance",
+    "whois_server_url": "whois.nic.dance"
+  },
+  {
+    "domain": "data",
+    "whois_server_url": "whois.nic.data"
+  },
+  {
+    "domain": "date",
+    "whois_server_url": "whois.nic.date"
+  },
+  {
+    "domain": "dating",
+    "whois_server_url": "whois.nic.dating"
+  },
+  {
+    "domain": "datsun",
+    "whois_server_url": "whois.nic.gmo"
+  },
+  {
+    "domain": "day",
+    "whois_server_url": "whois.nic.google"
+  },
+  {
+    "domain": "dclk",
+    "whois_server_url": "whois.nic.google"
+  },
+  {
+    "domain": "dds",
+    "whois_server_url": "whois.nic.dds"
+  },
+  {
+    "domain": "de",
+    "whois_server_url": "whois.denic.de"
+  },
+  {
+    "domain": "deal",
+    "whois_server_url": "whois.nic.deal"
+  },
+  {
+    "domain": "dealer",
+    "whois_server_url": "whois.nic.dealer"
+  },
+  {
+    "domain": "deals",
+    "whois_server_url": "whois.nic.deals"
+  },
+  {
+    "domain": "degree",
+    "whois_server_url": "whois.nic.degree"
+  },
+  {
+    "domain": "delivery",
+    "whois_server_url": "whois.nic.delivery"
+  },
+  {
+    "domain": "deloitte",
+    "whois_server_url": "whois.nic.deloitte"
+  },
+  {
+    "domain": "delta",
+    "whois_server_url": "whois.nic.delta"
+  },
+  {
+    "domain": "democrat",
+    "whois_server_url": "whois.nic.democrat"
+  },
+  {
+    "domain": "dental",
+    "whois_server_url": "whois.nic.dental"
+  },
+  {
+    "domain": "dentist",
+    "whois_server_url": "whois.nic.dentist"
+  },
+  {
+    "domain": "desi",
+    "whois_server_url": "whois.nic.desi"
+  },
+  {
+    "domain": "design",
+    "whois_server_url": "whois.nic.design"
+  },
+  {
+    "domain": "dev",
+    "whois_server_url": "whois.nic.google"
+  },
+  {
+    "domain": "diamonds",
+    "whois_server_url": "whois.nic.diamonds"
+  },
+  {
+    "domain": "diet",
+    "whois_server_url": "whois.nic.diet"
+  },
+  {
+    "domain": "digital",
+    "whois_server_url": "whois.nic.digital"
+  },
+  {
+    "domain": "direct",
+    "whois_server_url": "whois.nic.direct"
+  },
+  {
+    "domain": "directory",
+    "whois_server_url": "whois.nic.directory"
+  },
+  {
+    "domain": "discount",
+    "whois_server_url": "whois.nic.discount"
+  },
+  {
+    "domain": "dish",
+    "whois_server_url": "whois.nic.dish"
+  },
+  {
+    "domain": "diy",
+    "whois_server_url": "whois.nic.diy"
+  },
+  {
+    "domain": "dk",
+    "whois_server_url": "whois.punktum.dk"
+  },
+  {
+    "domain": "dm",
+    "whois_server_url": "whois.dmdomains.dm"
+  },
+  {
+    "domain": "dnp",
+    "whois_server_url": "whois.nic.dnp"
+  },
+  {
+    "domain": "do",
+    "whois_server_url": "whois.nic.do"
+  },
+  {
+    "domain": "docs",
+    "whois_server_url": "whois.nic.google"
+  },
+  {
+    "domain": "doctor",
+    "whois_server_url": "whois.nic.doctor"
+  },
+  {
+    "domain": "dog",
+    "whois_server_url": "whois.nic.dog"
+  },
+  {
+    "domain": "domains",
+    "whois_server_url": "whois.nic.domains"
+  },
+  {
+    "domain": "dot",
+    "whois_server_url": "whois.nic.dot"
+  },
+  {
+    "domain": "download",
+    "whois_server_url": "whois.nic.download"
+  },
+  {
+    "domain": "drive",
+    "whois_server_url": "whois.nic.google"
+  },
+  {
+    "domain": "dtv",
+    "whois_server_url": "whois.nic.dtv"
+  },
+  {
+    "domain": "dubai",
+    "whois_server_url": "whois.nic.dubai"
+  },
+  {
+    "domain": "dunlop",
+    "whois_server_url": "whois.nic.dunlop"
+  },
+  {
+    "domain": "durban",
+    "whois_server_url": "whois.nic.durban"
+  },
+  {
+    "domain": "dvag",
+    "whois_server_url": "whois.nic.dvag"
+  },
+  {
+    "domain": "dvr",
+    "whois_server_url": "whois.nic.dvr"
+  },
+  {
+    "domain": "dz",
+    "whois_server_url": "whois.nic.dz"
+  },
+  {
+    "domain": "earth",
+    "whois_server_url": "whois.nic.earth"
+  },
+  {
+    "domain": "eat",
+    "whois_server_url": "whois.nic.google"
+  },
+  {
+    "domain": "ec",
+    "whois_server_url": "whois.nic.ec"
+  },
+  {
+    "domain": "eco",
+    "whois_server_url": "whois.nic.eco"
+  },
+  {
+    "domain": "edeka",
+    "whois_server_url": "whois.nic.edeka"
+  },
+  {
+    "domain": "edu",
+    "whois_server_url": "whois.educause.edu"
+  },
+  {
+    "domain": "education",
+    "whois_server_url": "whois.nic.education"
+  },
+  {
+    "domain": "ee",
+    "whois_server_url": "whois.tld.ee"
+  },
+  {
+    "domain": "email",
+    "whois_server_url": "whois.nic.email"
+  },
+  {
+    "domain": "emerck",
+    "whois_server_url": "whois.nic.emerck"
+  },
+  {
+    "domain": "energy",
+    "whois_server_url": "whois.nic.energy"
+  },
+  {
+    "domain": "engineer",
+    "whois_server_url": "whois.nic.engineer"
+  },
+  {
+    "domain": "engineering",
+    "whois_server_url": "whois.nic.engineering"
+  },
+  {
+    "domain": "enterprises",
+    "whois_server_url": "whois.nic.enterprises"
+  },
+  {
+    "domain": "epson",
+    "whois_server_url": "whois.nic.epson"
+  },
+  {
+    "domain": "equipment",
+    "whois_server_url": "whois.nic.equipment"
+  },
+  {
+    "domain": "ericsson",
+    "whois_server_url": "whois.nic.ericsson"
+  },
+  {
+    "domain": "erni",
+    "whois_server_url": "whois.nic.erni"
+  },
+  {
+    "domain": "es",
+    "whois_server_url": "whois.nic.es"
+  },
+  {
+    "domain": "esq",
+    "whois_server_url": "whois.nic.google"
+  },
+  {
+    "domain": "estate",
+    "whois_server_url": "whois.nic.estate"
+  },
+  {
+    "domain": "eu",
+    "whois_server_url": "whois.eu"
+  },
+  {
+    "domain": "eurovision",
+    "whois_server_url": "whois.nic.eurovision"
+  },
+  {
+    "domain": "eus",
+    "whois_server_url": "whois.nic.eus"
+  },
+  {
+    "domain": "events",
+    "whois_server_url": "whois.nic.events"
+  },
+  {
+    "domain": "exchange",
+    "whois_server_url": "whois.nic.exchange"
+  },
+  {
+    "domain": "expert",
+    "whois_server_url": "whois.nic.expert"
+  },
+  {
+    "domain": "exposed",
+    "whois_server_url": "whois.nic.exposed"
+  },
+  {
+    "domain": "express",
+    "whois_server_url": "whois.nic.express"
+  },
+  {
+    "domain": "extraspace",
+    "whois_server_url": "whois.nic.extraspace"
+  },
+  {
+    "domain": "fage",
+    "whois_server_url": "whois.nic.fage"
+  },
+  {
+    "domain": "fail",
+    "whois_server_url": "whois.nic.fail"
+  },
+  {
+    "domain": "fairwinds",
+    "whois_server_url": "whois.nic.fairwinds"
+  },
+  {
+    "domain": "faith",
+    "whois_server_url": "whois.nic.faith"
+  },
+  {
+    "domain": "family",
+    "whois_server_url": "whois.nic.family"
+  },
+  {
+    "domain": "fan",
+    "whois_server_url": "whois.nic.fan"
+  },
+  {
+    "domain": "fans",
+    "whois_server_url": "whois.nic.fans"
+  },
+  {
+    "domain": "farm",
+    "whois_server_url": "whois.nic.farm"
+  },
+  {
+    "domain": "fashion",
+    "whois_server_url": "whois.nic.fashion"
+  },
+  {
+    "domain": "fast",
+    "whois_server_url": "whois.nic.fast"
+  },
+  {
+    "domain": "fedex",
+    "whois_server_url": "whois.nic.fedex"
+  },
+  {
+    "domain": "feedback",
+    "whois_server_url": "whois.nic.feedback"
+  },
+  {
+    "domain": "ferrari",
+    "whois_server_url": "whois.nic.ferrari"
+  },
+  {
+    "domain": "fi",
+    "whois_server_url": "whois.fi"
+  },
+  {
+    "domain": "fidelity",
+    "whois_server_url": "whois.nic.fidelity"
+  },
+  {
+    "domain": "fido",
+    "whois_server_url": "whois.nic.fido"
+  },
+  {
+    "domain": "film",
+    "whois_server_url": "whois.nic.film"
+  },
+  {
+    "domain": "final",
+    "whois_server_url": "whois.gtlds.nic.br"
+  },
+  {
+    "domain": "finance",
+    "whois_server_url": "whois.nic.finance"
+  },
+  {
+    "domain": "financial",
+    "whois_server_url": "whois.nic.financial"
+  },
+  {
+    "domain": "fire",
+    "whois_server_url": "whois.nic.fire"
+  },
+  {
+    "domain": "firestone",
+    "whois_server_url": "whois.nic.firestone"
+  },
+  {
+    "domain": "firmdale",
+    "whois_server_url": "whois.nic.firmdale"
+  },
+  {
+    "domain": "fish",
+    "whois_server_url": "whois.nic.fish"
+  },
+  {
+    "domain": "fishing",
+    "whois_server_url": "whois.nic.fishing"
+  },
+  {
+    "domain": "fit",
+    "whois_server_url": "whois.nic.fit"
+  },
+  {
+    "domain": "fitness",
+    "whois_server_url": "whois.nic.fitness"
+  },
+  {
+    "domain": "fj",
+    "whois_server_url": "www.whois.fj"
+  },
+  {
+    "domain": "flights",
+    "whois_server_url": "whois.nic.flights"
+  },
+  {
+    "domain": "florist",
+    "whois_server_url": "whois.nic.florist"
+  },
+  {
+    "domain": "flowers",
+    "whois_server_url": "whois.nic.flowers"
+  },
+  {
+    "domain": "fly",
+    "whois_server_url": "whois.nic.google"
+  },
+  {
+    "domain": "fm",
+    "whois_server_url": "whois.nic.fm"
+  },
+  {
+    "domain": "fo",
+    "whois_server_url": "whois.nic.fo"
+  },
+  {
+    "domain": "foo",
+    "whois_server_url": "whois.nic.google"
+  },
+  {
+    "domain": "food",
+    "whois_server_url": "whois.nic.food"
+  },
+  {
+    "domain": "football",
+    "whois_server_url": "whois.nic.football"
+  },
+  {
+    "domain": "forex",
+    "whois_server_url": "whois.nic.forex"
+  },
+  {
+    "domain": "forsale",
+    "whois_server_url": "whois.nic.forsale"
+  },
+  {
+    "domain": "forum",
+    "whois_server_url": "whois.nic.forum"
+  },
+  {
+    "domain": "foundation",
+    "whois_server_url": "whois.nic.foundation"
+  },
+  {
+    "domain": "fox",
+    "whois_server_url": "whois.nic.fox"
+  },
+  {
+    "domain": "fr",
+    "whois_server_url": "whois.nic.fr"
+  },
+  {
+    "domain": "free",
+    "whois_server_url": "whois.nic.free"
+  },
+  {
+    "domain": "fresenius",
+    "whois_server_url": "whois.nic.fresenius"
+  },
+  {
+    "domain": "frl",
+    "whois_server_url": "whois.nic.frl"
+  },
+  {
+    "domain": "frogans",
+    "whois_server_url": "whois.nic.frogans"
+  },
+  {
+    "domain": "fujitsu",
+    "whois_server_url": "whois.nic.gmo"
+  },
+  {
+    "domain": "fun",
+    "whois_server_url": "whois.nic.fun"
+  },
+  {
+    "domain": "fund",
+    "whois_server_url": "whois.nic.fund"
+  },
+  {
+    "domain": "furniture",
+    "whois_server_url": "whois.nic.furniture"
+  },
+  {
+    "domain": "futbol",
+    "whois_server_url": "whois.nic.futbol"
+  },
+  {
+    "domain": "fyi",
+    "whois_server_url": "whois.nic.fyi"
+  },
+  {
+    "domain": "gal",
+    "whois_server_url": "whois.nic.gal"
+  },
+  {
+    "domain": "gallery",
+    "whois_server_url": "whois.nic.gallery"
+  },
+  {
+    "domain": "gallo",
+    "whois_server_url": "whois.nic.gallo"
+  },
+  {
+    "domain": "gallup",
+    "whois_server_url": "whois.nic.gallup"
+  },
+  {
+    "domain": "game",
+    "whois_server_url": "whois.nic.game"
+  },
+  {
+    "domain": "games",
+    "whois_server_url": "whois.nic.games"
+  },
+  {
+    "domain": "garden",
+    "whois_server_url": "whois.nic.garden"
+  },
+  {
+    "domain": "gay",
+    "whois_server_url": "whois.nic.gay"
+  },
+  {
+    "domain": "gbiz",
+    "whois_server_url": "whois.nic.google"
+  },
+  {
+    "domain": "gd",
+    "whois_server_url": "whois.nic.gd"
+  },
+  {
+    "domain": "gdn",
+    "whois_server_url": "whois.nic.gdn"
+  },
+  {
+    "domain": "ge",
+    "whois_server_url": "whois.nic.ge"
+  },
+  {
+    "domain": "gea",
+    "whois_server_url": "whois.nic.gea"
+  },
+  {
+    "domain": "gent",
+    "whois_server_url": "whois.nic.gent"
+  },
+  {
+    "domain": "genting",
+    "whois_server_url": "whois.nic.genting"
+  },
+  {
+    "domain": "george",
+    "whois_server_url": "whois.nic.george"
+  },
+  {
+    "domain": "gf",
+    "whois_server_url": "whois.mediaserv.net"
+  },
+  {
+    "domain": "gg",
+    "whois_server_url": "whois.gg"
+  },
+  {
+    "domain": "ggee",
+    "whois_server_url": "whois.nic.ggee"
+  },
+  {
+    "domain": "gh",
+    "whois_server_url": "whois.nic.gh"
+  },
+  {
+    "domain": "gi",
+    "whois_server_url": "whois.identitydigital.services"
+  },
+  {
+    "domain": "gift",
+    "whois_server_url": "whois.uniregistry.net"
+  },
+  {
+    "domain": "gifts",
+    "whois_server_url": "whois.nic.gifts"
+  },
+  {
+    "domain": "gives",
+    "whois_server_url": "whois.nic.gives"
+  },
+  {
+    "domain": "giving",
+    "whois_server_url": "whois.nic.giving"
+  },
+  {
+    "domain": "gl",
+    "whois_server_url": "whois.nic.gl"
+  },
+  {
+    "domain": "glass",
+    "whois_server_url": "whois.nic.glass"
+  },
+  {
+    "domain": "gle",
+    "whois_server_url": "whois.nic.google"
+  },
+  {
+    "domain": "global",
+    "whois_server_url": "whois.nic.global"
+  },
+  {
+    "domain": "globo",
+    "whois_server_url": "whois.gtlds.nic.br"
+  },
+  {
+    "domain": "gmail",
+    "whois_server_url": "whois.nic.google"
+  },
+  {
+    "domain": "gmbh",
+    "whois_server_url": "whois.nic.gmbh"
+  },
+  {
+    "domain": "gmo",
+    "whois_server_url": "whois.nic.gmo"
+  },
+  {
+    "domain": "gmx",
+    "whois_server_url": "whois.nic.gmx"
+  },
+  {
+    "domain": "gn",
+    "whois_server_url": "whois.ande.gov.gn"
+  },
+  {
+    "domain": "godaddy",
+    "whois_server_url": "whois.nic.godaddy"
+  },
+  {
+    "domain": "gold",
+    "whois_server_url": "whois.nic.gold"
+  },
+  {
+    "domain": "goldpoint",
+    "whois_server_url": "whois.nic.goldpoint"
+  },
+  {
+    "domain": "golf",
+    "whois_server_url": "whois.nic.golf"
+  },
+  {
+    "domain": "goo",
+    "whois_server_url": "whois.nic.gmo"
+  },
+  {
+    "domain": "goodyear",
+    "whois_server_url": "whois.nic.goodyear"
+  },
+  {
+    "domain": "goog",
+    "whois_server_url": "whois.nic.google"
+  },
+  {
+    "domain": "google",
+    "whois_server_url": "whois.nic.google"
+  },
+  {
+    "domain": "gop",
+    "whois_server_url": "whois.nic.gop"
+  },
+  {
+    "domain": "got",
+    "whois_server_url": "whois.nic.got"
+  },
+  {
+    "domain": "gov",
+    "whois_server_url": "whois.dotgov.gov"
+  },
+  {
+    "domain": "gp",
+    "whois_server_url": "whois.nic.gp"
+  },
+  {
+    "domain": "gq",
+    "whois_server_url": "whois.dominio.gq"
+  },
+  {
+    "domain": "graphics",
+    "whois_server_url": "whois.nic.graphics"
+  },
+  {
+    "domain": "gratis",
+    "whois_server_url": "whois.nic.gratis"
+  },
+  {
+    "domain": "green",
+    "whois_server_url": "whois.nic.green"
+  },
+  {
+    "domain": "gripe",
+    "whois_server_url": "whois.nic.gripe"
+  },
+  {
+    "domain": "grocery",
+    "whois_server_url": "whois.nic.grocery"
+  },
+  {
+    "domain": "group",
+    "whois_server_url": "whois.nic.group"
+  },
+  {
+    "domain": "gs",
+    "whois_server_url": "whois.nic.gs"
+  },
+  {
+    "domain": "gucci",
+    "whois_server_url": "whois.nic.gucci"
+  },
+  {
+    "domain": "guge",
+    "whois_server_url": "whois.nic.google"
+  },
+  {
+    "domain": "guide",
+    "whois_server_url": "whois.nic.guide"
+  },
+  {
+    "domain": "guitars",
+    "whois_server_url": "whois.nic.guitars"
+  },
+  {
+    "domain": "guru",
+    "whois_server_url": "whois.nic.guru"
+  },
+  {
+    "domain": "gy",
+    "whois_server_url": "whois.registry.gy"
+  },
+  {
+    "domain": "hair",
+    "whois_server_url": "whois.nic.hair"
+  },
+  {
+    "domain": "hamburg",
+    "whois_server_url": "whois.nic.hamburg"
+  },
+  {
+    "domain": "hangout",
+    "whois_server_url": "whois.nic.google"
+  },
+  {
+    "domain": "haus",
+    "whois_server_url": "whois.nic.haus"
+  },
+  {
+    "domain": "hdfc",
+    "whois_server_url": "whois.nic.hdfc"
+  },
+  {
+    "domain": "hdfcbank",
+    "whois_server_url": "whois.nic.hdfcbank"
+  },
+  {
+    "domain": "healthcare",
+    "whois_server_url": "whois.nic.healthcare"
+  },
+  {
+    "domain": "help",
+    "whois_server_url": "whois.nic.help"
+  },
+  {
+    "domain": "helsinki",
+    "whois_server_url": "whois.nic.helsinki"
+  },
+  {
+    "domain": "here",
+    "whois_server_url": "whois.nic.google"
+  },
+  {
+    "domain": "hermes",
+    "whois_server_url": "whois.nic.hermes"
+  },
+  {
+    "domain": "hiphop",
+    "whois_server_url": "whois.nic.hiphop"
+  },
+  {
+    "domain": "hisamitsu",
+    "whois_server_url": "whois.nic.gmo"
+  },
+  {
+    "domain": "hitachi",
+    "whois_server_url": "whois.nic.gmo"
+  },
+  {
+    "domain": "hiv",
+    "whois_server_url": "whois.nic.hiv"
+  },
+  {
+    "domain": "hk",
+    "whois_server_url": "whois.hkirc.hk"
+  },
+  {
+    "domain": "hkt",
+    "whois_server_url": "whois.nic.hkt"
+  },
+  {
+    "domain": "hm",
+    "whois_server_url": "whois.registry.hm"
+  },
+  {
+    "domain": "hn",
+    "whois_server_url": "whois.nic.hn"
+  },
+  {
+    "domain": "hockey",
+    "whois_server_url": "whois.nic.hockey"
+  },
+  {
+    "domain": "holdings",
+    "whois_server_url": "whois.nic.holdings"
+  },
+  {
+    "domain": "holiday",
+    "whois_server_url": "whois.nic.holiday"
+  },
+  {
+    "domain": "homedepot",
+    "whois_server_url": "whois.nic.homedepot"
+  },
+  {
+    "domain": "homes",
+    "whois_server_url": "whois.nic.homes"
+  },
+  {
+    "domain": "honda",
+    "whois_server_url": "whois.nic.honda"
+  },
+  {
+    "domain": "horse",
+    "whois_server_url": "whois.nic.horse"
+  },
+  {
+    "domain": "hospital",
+    "whois_server_url": "whois.nic.hospital"
+  },
+  {
+    "domain": "host",
+    "whois_server_url": "whois.nic.host"
+  },
+  {
+    "domain": "hosting",
+    "whois_server_url": "whois.nic.hosting"
+  },
+  {
+    "domain": "hot",
+    "whois_server_url": "whois.nic.hot"
+  },
+  {
+    "domain": "hotels",
+    "whois_server_url": "whois.nic.hotels"
+  },
+  {
+    "domain": "hotmail",
+    "whois_server_url": "whois.nic.hotmail"
+  },
+  {
+    "domain": "house",
+    "whois_server_url": "whois.nic.house"
+  },
+  {
+    "domain": "how",
+    "whois_server_url": "whois.nic.google"
+  },
+  {
+    "domain": "hr",
+    "whois_server_url": "whois.dns.hr"
+  },
+  {
+    "domain": "ht",
+    "whois_server_url": "whois.nic.ht"
+  },
+  {
+    "domain": "hu",
+    "whois_server_url": "whois.nic.hu"
+  },
+  {
+    "domain": "hughes",
+    "whois_server_url": "whois.nic.hughes"
+  },
+  {
+    "domain": "hyundai",
+    "whois_server_url": "whois.nic.hyundai"
+  },
+  {
+    "domain": "ibm",
+    "whois_server_url": "whois.nic.ibm"
+  },
+  {
+    "domain": "icbc",
+    "whois_server_url": "whois.nic.icbc"
+  },
+  {
+    "domain": "ice",
+    "whois_server_url": "whois.nic.ice"
+  },
+  {
+    "domain": "icu",
+    "whois_server_url": "whois.nic.icu"
+  },
+  {
+    "domain": "id",
+    "whois_server_url": "whois.id"
+  },
+  {
+    "domain": "ie",
+    "whois_server_url": "whois.weare.ie"
+  },
+  {
+    "domain": "ifm",
+    "whois_server_url": "whois.nic.ifm"
+  },
+  {
+    "domain": "ikano",
+    "whois_server_url": "whois.nic.ikano"
+  },
+  {
+    "domain": "il",
+    "whois_server_url": "whois.isoc.org.il"
+  },
+  {
+    "domain": "im",
+    "whois_server_url": "whois.nic.im"
+  },
+  {
+    "domain": "imamat",
+    "whois_server_url": "whois.nic.imamat"
+  },
+  {
+    "domain": "imdb",
+    "whois_server_url": "whois.nic.imdb"
+  },
+  {
+    "domain": "immo",
+    "whois_server_url": "whois.nic.immo"
+  },
+  {
+    "domain": "immobilien",
+    "whois_server_url": "whois.nic.immobilien"
+  },
+  {
+    "domain": "in",
+    "whois_server_url": "whois.registry.in"
+  },
+  {
+    "domain": "inc",
+    "whois_server_url": "whois.nic.inc"
+  },
+  {
+    "domain": "industries",
+    "whois_server_url": "whois.nic.industries"
+  },
+  {
+    "domain": "infiniti",
+    "whois_server_url": "whois.nic.gmo"
+  },
+  {
+    "domain": "info",
+    "whois_server_url": "whois.nic.info"
+  },
+  {
+    "domain": "ing",
+    "whois_server_url": "whois.nic.google"
+  },
+  {
+    "domain": "ink",
+    "whois_server_url": "whois.nic.ink"
+  },
+  {
+    "domain": "institute",
+    "whois_server_url": "whois.nic.institute"
+  },
+  {
+    "domain": "insurance",
+    "whois_server_url": "whois.nic.insurance"
+  },
+  {
+    "domain": "insure",
+    "whois_server_url": "whois.nic.insure"
+  },
+  {
+    "domain": "int",
+    "whois_server_url": "whois.iana.org"
+  },
+  {
+    "domain": "international",
+    "whois_server_url": "whois.nic.international"
+  },
+  {
+    "domain": "investments",
+    "whois_server_url": "whois.nic.investments"
+  },
+  {
+    "domain": "io",
+    "whois_server_url": "whois.nic.io"
+  },
+  {
+    "domain": "iq",
+    "whois_server_url": "whois.cmc.iq"
+  },
+  {
+    "domain": "ir",
+    "whois_server_url": "whois.nic.ir"
+  },
+  {
+    "domain": "irish",
+    "whois_server_url": "whois.nic.irish"
+  },
+  {
+    "domain": "is",
+    "whois_server_url": "whois.isnic.is"
+  },
+  {
+    "domain": "ismaili",
+    "whois_server_url": "whois.nic.ismaili"
+  },
+  {
+    "domain": "ist",
+    "whois_server_url": "whois.nic.ist"
+  },
+  {
+    "domain": "istanbul",
+    "whois_server_url": "whois.nic.istanbul"
+  },
+  {
+    "domain": "it",
+    "whois_server_url": "whois.nic.it"
+  },
+  {
+    "domain": "itv",
+    "whois_server_url": "whois.nic.itv"
+  },
+  {
+    "domain": "jaguar",
+    "whois_server_url": "whois.nic.jaguar"
+  },
+  {
+    "domain": "java",
+    "whois_server_url": "whois.nic.java"
+  },
+  {
+    "domain": "jcb",
+    "whois_server_url": "whois.nic.gmo"
+  },
+  {
+    "domain": "je",
+    "whois_server_url": "whois.je"
+  },
+  {
+    "domain": "jeep",
+    "whois_server_url": "whois.nic.jeep"
+  },
+  {
+    "domain": "jetzt",
+    "whois_server_url": "whois.nic.jetzt"
+  },
+  {
+    "domain": "jewelry",
+    "whois_server_url": "whois.nic.jewelry"
+  },
+  {
+    "domain": "jio",
+    "whois_server_url": "whois.nic.jio"
+  },
+  {
+    "domain": "jll",
+    "whois_server_url": "whois.nic.jll"
+  },
+  {
+    "domain": "jobs",
+    "whois_server_url": "whois.nic.jobs"
+  },
+  {
+    "domain": "joburg",
+    "whois_server_url": "whois.nic.joburg"
+  },
+  {
+    "domain": "jot",
+    "whois_server_url": "whois.nic.jot"
+  },
+  {
+    "domain": "joy",
+    "whois_server_url": "whois.nic.joy"
+  },
+  {
+    "domain": "jp",
+    "whois_server_url": "whois.jprs.jp"
+  },
+  {
+    "domain": "juegos",
+    "whois_server_url": "whois.uniregistry.net"
+  },
+  {
+    "domain": "juniper",
+    "whois_server_url": "whois.nic.juniper"
+  },
+  {
+    "domain": "kaufen",
+    "whois_server_url": "whois.nic.kaufen"
+  },
+  {
+    "domain": "kddi",
+    "whois_server_url": "whois.nic.kddi"
+  },
+  {
+    "domain": "ke",
+    "whois_server_url": "whois.kenic.or.ke"
+  },
+  {
+    "domain": "kerryhotels",
+    "whois_server_url": "whois.nic.kerryhotels"
+  },
+  {
+    "domain": "kerrylogistics",
+    "whois_server_url": "whois.nic.kerrylogistics"
+  },
+  {
+    "domain": "kerryproperties",
+    "whois_server_url": "whois.nic.kerryproperties"
+  },
+  {
+    "domain": "kfh",
+    "whois_server_url": "whois.nic.kfh"
+  },
+  {
+    "domain": "kg",
+    "whois_server_url": "whois.kg"
+  },
+  {
+    "domain": "ki",
+    "whois_server_url": "whois.nic.ki"
+  },
+  {
+    "domain": "kia",
+    "whois_server_url": "whois.nic.kia"
+  },
+  {
+    "domain": "kids",
+    "whois_server_url": "whois.nic.kids"
+  },
+  {
+    "domain": "kim",
+    "whois_server_url": "whois.nic.kim"
+  },
+  {
+    "domain": "kindle",
+    "whois_server_url": "whois.nic.kindle"
+  },
+  {
+    "domain": "kitchen",
+    "whois_server_url": "whois.nic.kitchen"
+  },
+  {
+    "domain": "kiwi",
+    "whois_server_url": "whois.nic.kiwi"
+  },
+  {
+    "domain": "kn",
+    "whois_server_url": "whois.nic.kn"
+  },
+  {
+    "domain": "koeln",
+    "whois_server_url": "whois.ryce-rsp.com"
+  },
+  {
+    "domain": "komatsu",
+    "whois_server_url": "whois.nic.komatsu"
+  },
+  {
+    "domain": "kosher",
+    "whois_server_url": "whois.nic.kosher"
+  },
+  {
+    "domain": "kr",
+    "whois_server_url": "whois.kr"
+  },
+  {
+    "domain": "krd",
+    "whois_server_url": "whois.nic.krd"
+  },
+  {
+    "domain": "kuokgroup",
+    "whois_server_url": "whois.nic.kuokgroup"
+  },
+  {
+    "domain": "ky",
+    "whois_server_url": "whois.kyregistry.ky"
+  },
+  {
+    "domain": "kyoto",
+    "whois_server_url": "whois.nic.kyoto"
+  },
+  {
+    "domain": "kz",
+    "whois_server_url": "whois.nic.kz"
+  },
+  {
+    "domain": "la",
+    "whois_server_url": "whois.nic.la"
+  },
+  {
+    "domain": "lacaixa",
+    "whois_server_url": "whois.nic.lacaixa"
+  },
+  {
+    "domain": "lamborghini",
+    "whois_server_url": "whois.nic.lamborghini"
+  },
+  {
+    "domain": "lamer",
+    "whois_server_url": "whois.nic.lamer"
+  },
+  {
+    "domain": "lancaster",
+    "whois_server_url": "whois.nic.lancaster"
+  },
+  {
+    "domain": "land",
+    "whois_server_url": "whois.nic.land"
+  },
+  {
+    "domain": "landrover",
+    "whois_server_url": "whois.nic.landrover"
+  },
+  {
+    "domain": "lasalle",
+    "whois_server_url": "whois.nic.lasalle"
+  },
+  {
+    "domain": "lat",
+    "whois_server_url": "whois.nic.lat"
+  },
+  {
+    "domain": "latino",
+    "whois_server_url": "whois.nic.latino"
+  },
+  {
+    "domain": "latrobe",
+    "whois_server_url": "whois.nic.latrobe"
+  },
+  {
+    "domain": "law",
+    "whois_server_url": "whois.nic.law"
+  },
+  {
+    "domain": "lawyer",
+    "whois_server_url": "whois.nic.lawyer"
+  },
+  {
+    "domain": "lb",
+    "whois_server_url": "whois.lbdr.org.lb"
+  },
+  {
+    "domain": "lds",
+    "whois_server_url": "whois.nic.lds"
+  },
+  {
+    "domain": "lease",
+    "whois_server_url": "whois.nic.lease"
+  },
+  {
+    "domain": "leclerc",
+    "whois_server_url": "whois.nic.leclerc"
+  },
+  {
+    "domain": "lefrak",
+    "whois_server_url": "whois.nic.lefrak"
+  },
+  {
+    "domain": "legal",
+    "whois_server_url": "whois.nic.legal"
+  },
+  {
+    "domain": "lego",
+    "whois_server_url": "whois.nic.lego"
+  },
+  {
+    "domain": "lexus",
+    "whois_server_url": "whois.nic.lexus"
+  },
+  {
+    "domain": "lgbt",
+    "whois_server_url": "whois.nic.lgbt"
+  },
+  {
+    "domain": "li",
+    "whois_server_url": "whois.nic.li"
+  },
+  {
+    "domain": "lidl",
+    "whois_server_url": "whois.nic.lidl"
+  },
+  {
+    "domain": "life",
+    "whois_server_url": "whois.nic.life"
+  },
+  {
+    "domain": "lifeinsurance",
+    "whois_server_url": "whois.nic.lifeinsurance"
+  },
+  {
+    "domain": "lifestyle",
+    "whois_server_url": "whois.nic.lifestyle"
+  },
+  {
+    "domain": "lighting",
+    "whois_server_url": "whois.nic.lighting"
+  },
+  {
+    "domain": "like",
+    "whois_server_url": "whois.nic.like"
+  },
+  {
+    "domain": "limited",
+    "whois_server_url": "whois.nic.limited"
+  },
+  {
+    "domain": "limo",
+    "whois_server_url": "whois.nic.limo"
+  },
+  {
+    "domain": "link",
+    "whois_server_url": "whois.uniregistry.net"
+  },
+  {
+    "domain": "lipsy",
+    "whois_server_url": "whois.nic.lipsy"
+  },
+  {
+    "domain": "live",
+    "whois_server_url": "whois.nic.live"
+  },
+  {
+    "domain": "living",
+    "whois_server_url": "whois.nic.living"
+  },
+  {
+    "domain": "llc",
+    "whois_server_url": "whois.nic.llc"
+  },
+  {
+    "domain": "llp",
+    "whois_server_url": "whois.nic.llp"
+  },
+  {
+    "domain": "loan",
+    "whois_server_url": "whois.nic.loan"
+  },
+  {
+    "domain": "loans",
+    "whois_server_url": "whois.nic.loans"
+  },
+  {
+    "domain": "locker",
+    "whois_server_url": "whois.nic.locker"
+  },
+  {
+    "domain": "locus",
+    "whois_server_url": "whois.nic.locus"
+  },
+  {
+    "domain": "lol",
+    "whois_server_url": "whois.nic.lol"
+  },
+  {
+    "domain": "london",
+    "whois_server_url": "whois.nic.london"
+  },
+  {
+    "domain": "lotte",
+    "whois_server_url": "whois.nic.lotte"
+  },
+  {
+    "domain": "lotto",
+    "whois_server_url": "whois.nic.lotto"
+  },
+  {
+    "domain": "love",
+    "whois_server_url": "whois.nic.love"
+  },
+  {
+    "domain": "lpl",
+    "whois_server_url": "whois.nic.lpl"
+  },
+  {
+    "domain": "lplfinancial",
+    "whois_server_url": "whois.nic.lplfinancial"
+  },
+  {
+    "domain": "ls",
+    "whois_server_url": "whois.nic.ls"
+  },
+  {
+    "domain": "lt",
+    "whois_server_url": "whois.domreg.lt"
+  },
+  {
+    "domain": "ltd",
+    "whois_server_url": "whois.nic.ltd"
+  },
+  {
+    "domain": "ltda",
+    "whois_server_url": "whois.nic.ltda"
+  },
+  {
+    "domain": "lu",
+    "whois_server_url": "whois.dns.lu"
+  },
+  {
+    "domain": "lundbeck",
+    "whois_server_url": "whois.nic.lundbeck"
+  },
+  {
+    "domain": "luxe",
+    "whois_server_url": "whois.nic.luxe"
+  },
+  {
+    "domain": "luxury",
+    "whois_server_url": "whois.nic.luxury"
+  },
+  {
+    "domain": "lv",
+    "whois_server_url": "whois.nic.lv"
+  },
+  {
+    "domain": "ly",
+    "whois_server_url": "whois.nic.ly"
+  },
+  {
+    "domain": "ma",
+    "whois_server_url": "whois.registre.ma"
+  },
+  {
+    "domain": "madrid",
+    "whois_server_url": "whois.nic.madrid"
+  },
+  {
+    "domain": "maif",
+    "whois_server_url": "whois.nic.maif"
+  },
+  {
+    "domain": "maison",
+    "whois_server_url": "whois.nic.maison"
+  },
+  {
+    "domain": "makeup",
+    "whois_server_url": "whois.nic.makeup"
+  },
+  {
+    "domain": "man",
+    "whois_server_url": "whois.nic.man"
+  },
+  {
+    "domain": "management",
+    "whois_server_url": "whois.nic.management"
+  },
+  {
+    "domain": "mango",
+    "whois_server_url": "whois.nic.mango"
+  },
+  {
+    "domain": "map",
+    "whois_server_url": "whois.nic.google"
+  },
+  {
+    "domain": "market",
+    "whois_server_url": "whois.nic.market"
+  },
+  {
+    "domain": "marketing",
+    "whois_server_url": "whois.nic.marketing"
+  },
+  {
+    "domain": "markets",
+    "whois_server_url": "whois.nic.markets"
+  },
+  {
+    "domain": "marriott",
+    "whois_server_url": "whois.nic.marriott"
+  },
+  {
+    "domain": "mba",
+    "whois_server_url": "whois.nic.mba"
+  },
+  {
+    "domain": "mckinsey",
+    "whois_server_url": "whois.nic.mckinsey"
+  },
+  {
+    "domain": "md",
+    "whois_server_url": "whois.nic.md"
+  },
+  {
+    "domain": "me",
+    "whois_server_url": "whois.nic.me"
+  },
+  {
+    "domain": "med",
+    "whois_server_url": "whois.nic.med"
+  },
+  {
+    "domain": "media",
+    "whois_server_url": "whois.nic.media"
+  },
+  {
+    "domain": "meet",
+    "whois_server_url": "whois.nic.google"
+  },
+  {
+    "domain": "melbourne",
+    "whois_server_url": "whois.nic.melbourne"
+  },
+  {
+    "domain": "meme",
+    "whois_server_url": "whois.nic.google"
+  },
+  {
+    "domain": "memorial",
+    "whois_server_url": "whois.nic.memorial"
+  },
+  {
+    "domain": "men",
+    "whois_server_url": "whois.nic.men"
+  },
+  {
+    "domain": "menu",
+    "whois_server_url": "whois.nic.menu"
+  },
+  {
+    "domain": "merckmsd",
+    "whois_server_url": "whois.nic.merckmsd"
+  },
+  {
+    "domain": "mg",
+    "whois_server_url": "whois.nic.mg"
+  },
+  {
+    "domain": "miami",
+    "whois_server_url": "whois.nic.miami"
+  },
+  {
+    "domain": "microsoft",
+    "whois_server_url": "whois.nic.microsoft"
+  },
+  {
+    "domain": "mini",
+    "whois_server_url": "whois.nic.mini"
+  },
+  {
+    "domain": "mit",
+    "whois_server_url": "whois.nic.mit"
+  },
+  {
+    "domain": "mitsubishi",
+    "whois_server_url": "whois.nic.gmo"
+  },
+  {
+    "domain": "mk",
+    "whois_server_url": "whois.marnet.mk"
+  },
+  {
+    "domain": "ml",
+    "whois_server_url": "whois.nic.ml"
+  },
+  {
+    "domain": "mls",
+    "whois_server_url": "whois.nic.mls"
+  },
+  {
+    "domain": "mm",
+    "whois_server_url": "whois.registry.gov.mm"
+  },
+  {
+    "domain": "mma",
+    "whois_server_url": "whois.nic.mma"
+  },
+  {
+    "domain": "mn",
+    "whois_server_url": "whois.nic.mn"
+  },
+  {
+    "domain": "mo",
+    "whois_server_url": "whois.monic.mo"
+  },
+  {
+    "domain": "mobi",
+    "whois_server_url": "whois.nic.mobi"
+  },
+  {
+    "domain": "mobile",
+    "whois_server_url": "whois.nic.mobile"
+  },
+  {
+    "domain": "moda",
+    "whois_server_url": "whois.nic.moda"
+  },
+  {
+    "domain": "moe",
+    "whois_server_url": "whois.nic.moe"
+  },
+  {
+    "domain": "moi",
+    "whois_server_url": "whois.nic.moi"
+  },
+  {
+    "domain": "mom",
+    "whois_server_url": "whois.nic.mom"
+  },
+  {
+    "domain": "monash",
+    "whois_server_url": "whois.nic.monash"
+  },
+  {
+    "domain": "money",
+    "whois_server_url": "whois.nic.money"
+  },
+  {
+    "domain": "monster",
+    "whois_server_url": "whois.nic.monster"
+  },
+  {
+    "domain": "mormon",
+    "whois_server_url": "whois.nic.mormon"
+  },
+  {
+    "domain": "mortgage",
+    "whois_server_url": "whois.nic.mortgage"
+  },
+  {
+    "domain": "moscow",
+    "whois_server_url": "whois.nic.moscow"
+  },
+  {
+    "domain": "moto",
+    "whois_server_url": "whois.nic.moto"
+  },
+  {
+    "domain": "motorcycles",
+    "whois_server_url": "whois.nic.motorcycles"
+  },
+  {
+    "domain": "mov",
+    "whois_server_url": "whois.nic.google"
+  },
+  {
+    "domain": "movie",
+    "whois_server_url": "whois.nic.movie"
+  },
+  {
+    "domain": "mq",
+    "whois_server_url": "whois.mediaserv.net"
+  },
+  {
+    "domain": "mr",
+    "whois_server_url": "whois.nic.mr"
+  },
+  {
+    "domain": "ms",
+    "whois_server_url": "whois.nic.ms"
+  },
+  {
+    "domain": "msd",
+    "whois_server_url": "whois.nic.msd"
+  },
+  {
+    "domain": "mtn",
+    "whois_server_url": "whois.nic.mtn"
+  },
+  {
+    "domain": "mtr",
+    "whois_server_url": "whois.nic.mtr"
+  },
+  {
+    "domain": "mu",
+    "whois_server_url": "whois.nic.mu"
+  },
+  {
+    "domain": "museum",
+    "whois_server_url": "whois.nic.museum"
+  },
+  {
+    "domain": "music",
+    "whois_server_url": "whois.nic.music"
+  },
+  {
+    "domain": "mw",
+    "whois_server_url": "whois.nic.mw"
+  },
+  {
+    "domain": "mx",
+    "whois_server_url": "whois.mx"
+  },
+  {
+    "domain": "my",
+    "whois_server_url": "whois.mynic.my"
+  },
+  {
+    "domain": "mz",
+    "whois_server_url": "whois.nic.mz"
+  },
+  {
+    "domain": "nab",
+    "whois_server_url": "whois.nic.nab"
+  },
+  {
+    "domain": "nagoya",
+    "whois_server_url": "whois.nic.nagoya"
+  },
+  {
+    "domain": "name",
+    "whois_server_url": "whois.nic.name"
+  },
+  {
+    "domain": "navy",
+    "whois_server_url": "whois.nic.navy"
+  },
+  {
+    "domain": "nc",
+    "whois_server_url": "whois.nc"
+  },
+  {
+    "domain": "nec",
+    "whois_server_url": "whois.nic.nec"
+  },
+  {
+    "domain": "net",
+    "whois_server_url": "whois.verisign-grs.com"
+  },
+  {
+    "domain": "netbank",
+    "whois_server_url": "whois.nic.netbank"
+  },
+  {
+    "domain": "network",
+    "whois_server_url": "whois.nic.network"
+  },
+  {
+    "domain": "new",
+    "whois_server_url": "whois.nic.google"
+  },
+  {
+    "domain": "news",
+    "whois_server_url": "whois.nic.news"
+  },
+  {
+    "domain": "next",
+    "whois_server_url": "whois.nic.next"
+  },
+  {
+    "domain": "nextdirect",
+    "whois_server_url": "whois.nic.nextdirect"
+  },
+  {
+    "domain": "nexus",
+    "whois_server_url": "whois.nic.google"
+  },
+  {
+    "domain": "nf",
+    "whois_server_url": "whois.nic.nf"
+  },
+  {
+    "domain": "ng",
+    "whois_server_url": "whois.nic.net.ng"
+  },
+  {
+    "domain": "ngo",
+    "whois_server_url": "whois.nic.ngo"
+  },
+  {
+    "domain": "nhk",
+    "whois_server_url": "whois.nic.nhk"
+  },
+  {
+    "domain": "nico",
+    "whois_server_url": "whois.nic.nico"
+  },
+  {
+    "domain": "nikon",
+    "whois_server_url": "whois.nic.nikon"
+  },
+  {
+    "domain": "ninja",
+    "whois_server_url": "whois.nic.ninja"
+  },
+  {
+    "domain": "nissan",
+    "whois_server_url": "whois.nic.gmo"
+  },
+  {
+    "domain": "nissay",
+    "whois_server_url": "whois.nic.nissay"
+  },
+  {
+    "domain": "nl",
+    "whois_server_url": "whois.domain-registry.nl"
+  },
+  {
+    "domain": "no",
+    "whois_server_url": "whois.norid.no"
+  },
+  {
+    "domain": "nokia",
+    "whois_server_url": "whois.nic.nokia"
+  },
+  {
+    "domain": "norton",
+    "whois_server_url": "whois.nic.norton"
+  },
+  {
+    "domain": "now",
+    "whois_server_url": "whois.nic.now"
+  },
+  {
+    "domain": "nowruz",
+    "whois_server_url": "whois.nic.nowruz"
+  },
+  {
+    "domain": "nowtv",
+    "whois_server_url": "whois.nic.nowtv"
+  },
+  {
+    "domain": "nra",
+    "whois_server_url": "whois.nic.nra"
+  },
+  {
+    "domain": "nrw",
+    "whois_server_url": "whois.nic.nrw"
+  },
+  {
+    "domain": "nu",
+    "whois_server_url": "whois.iis.nu"
+  },
+  {
+    "domain": "nyc",
+    "whois_server_url": "whois.nic.nyc"
+  },
+  {
+    "domain": "nz",
+    "whois_server_url": "whois.irs.net.nz"
+  },
+  {
+    "domain": "obi",
+    "whois_server_url": "whois.nic.obi"
+  },
+  {
+    "domain": "observer",
+    "whois_server_url": "whois.nic.observer"
+  },
+  {
+    "domain": "office",
+    "whois_server_url": "whois.nic.office"
+  },
+  {
+    "domain": "okinawa",
+    "whois_server_url": "whois.nic.okinawa"
+  },
+  {
+    "domain": "olayan",
+    "whois_server_url": "whois.nic.olayan"
+  },
+  {
+    "domain": "olayangroup",
+    "whois_server_url": "whois.nic.olayangroup"
+  },
+  {
+    "domain": "ollo",
+    "whois_server_url": "whois.nic.ollo"
+  },
+  {
+    "domain": "om",
+    "whois_server_url": "whois.registry.om"
+  },
+  {
+    "domain": "omega",
+    "whois_server_url": "whois.nic.omega"
+  },
+  {
+    "domain": "one",
+    "whois_server_url": "whois.nic.one"
+  },
+  {
+    "domain": "ong",
+    "whois_server_url": "whois.nic.ong"
+  },
+  {
+    "domain": "onl",
+    "whois_server_url": "whois.nic.onl"
+  },
+  {
+    "domain": "online",
+    "whois_server_url": "whois.nic.online"
+  },
+  {
+    "domain": "ooo",
+    "whois_server_url": "whois.nic.ooo"
+  },
+  {
+    "domain": "open",
+    "whois_server_url": "whois.nic.open"
+  },
+  {
+    "domain": "oracle",
+    "whois_server_url": "whois.nic.oracle"
+  },
+  {
+    "domain": "orange",
+    "whois_server_url": "whois.nic.orange"
+  },
+  {
+    "domain": "org",
+    "whois_server_url": "whois.publicinterestregistry.org"
+  },
+  {
+    "domain": "organic",
+    "whois_server_url": "whois.nic.organic"
+  },
+  {
+    "domain": "origins",
+    "whois_server_url": "whois.nic.origins"
+  },
+  {
+    "domain": "osaka",
+    "whois_server_url": "whois.nic.osaka"
+  },
+  {
+    "domain": "otsuka",
+    "whois_server_url": "whois.nic.otsuka"
+  },
+  {
+    "domain": "ott",
+    "whois_server_url": "whois.nic.ott"
+  },
+  {
+    "domain": "ovh",
+    "whois_server_url": "whois.nic.ovh"
+  },
+  {
+    "domain": "page",
+    "whois_server_url": "whois.nic.google"
+  },
+  {
+    "domain": "panasonic",
+    "whois_server_url": "whois.nic.gmo"
+  },
+  {
+    "domain": "paris",
+    "whois_server_url": "whois.nic.paris"
+  },
+  {
+    "domain": "pars",
+    "whois_server_url": "whois.nic.pars"
+  },
+  {
+    "domain": "partners",
+    "whois_server_url": "whois.nic.partners"
+  },
+  {
+    "domain": "parts",
+    "whois_server_url": "whois.nic.parts"
+  },
+  {
+    "domain": "party",
+    "whois_server_url": "whois.nic.party"
+  },
+  {
+    "domain": "pay",
+    "whois_server_url": "whois.nic.pay"
+  },
+  {
+    "domain": "pccw",
+    "whois_server_url": "whois.nic.pccw"
+  },
+  {
+    "domain": "pe",
+    "whois_server_url": "kero.yachay.pe"
+  },
+  {
+    "domain": "pet",
+    "whois_server_url": "whois.nic.pet"
+  },
+  {
+    "domain": "pf",
+    "whois_server_url": "whois.registry.pf"
+  },
+  {
+    "domain": "pharmacy",
+    "whois_server_url": "whois.nic.pharmacy"
+  },
+  {
+    "domain": "phd",
+    "whois_server_url": "whois.nic.google"
+  },
+  {
+    "domain": "philips",
+    "whois_server_url": "whois.nic.philips"
+  },
+  {
+    "domain": "phone",
+    "whois_server_url": "whois.nic.phone"
+  },
+  {
+    "domain": "photo",
+    "whois_server_url": "whois.nic.photo"
+  },
+  {
+    "domain": "photography",
+    "whois_server_url": "whois.nic.photography"
+  },
+  {
+    "domain": "photos",
+    "whois_server_url": "whois.nic.photos"
+  },
+  {
+    "domain": "physio",
+    "whois_server_url": "whois.nic.physio"
+  },
+  {
+    "domain": "pics",
+    "whois_server_url": "whois.nic.pics"
+  },
+  {
+    "domain": "pictet",
+    "whois_server_url": "whois.nic.pictet"
+  },
+  {
+    "domain": "pictures",
+    "whois_server_url": "whois.nic.pictures"
+  },
+  {
+    "domain": "pid",
+    "whois_server_url": "whois.nic.pid"
+  },
+  {
+    "domain": "pin",
+    "whois_server_url": "whois.nic.pin"
+  },
+  {
+    "domain": "ping",
+    "whois_server_url": "whois.nic.ping"
+  },
+  {
+    "domain": "pink",
+    "whois_server_url": "whois.nic.pink"
+  },
+  {
+    "domain": "pioneer",
+    "whois_server_url": "whois.nic.pioneer"
+  },
+  {
+    "domain": "pizza",
+    "whois_server_url": "whois.nic.pizza"
+  },
+  {
+    "domain": "pk",
+    "whois_server_url": "whois.pknic.net.pk"
+  },
+  {
+    "domain": "pl",
+    "whois_server_url": "whois.dns.pl"
+  },
+  {
+    "domain": "place",
+    "whois_server_url": "whois.nic.place"
+  },
+  {
+    "domain": "play",
+    "whois_server_url": "whois.nic.google"
+  },
+  {
+    "domain": "playstation",
+    "whois_server_url": "whois.nic.playstation"
+  },
+  {
+    "domain": "plumbing",
+    "whois_server_url": "whois.nic.plumbing"
+  },
+  {
+    "domain": "plus",
+    "whois_server_url": "whois.nic.plus"
+  },
+  {
+    "domain": "pm",
+    "whois_server_url": "whois.nic.pm"
+  },
+  {
+    "domain": "pnc",
+    "whois_server_url": "whois.nic.pnc"
+  },
+  {
+    "domain": "pohl",
+    "whois_server_url": "whois.nic.pohl"
+  },
+  {
+    "domain": "poker",
+    "whois_server_url": "whois.nic.poker"
+  },
+  {
+    "domain": "politie",
+    "whois_server_url": "whois.nic.politie"
+  },
+  {
+    "domain": "porn",
+    "whois_server_url": "whois.nic.porn"
+  },
+  {
+    "domain": "post",
+    "whois_server_url": "whois.dotpostregistry.net"
+  },
+  {
+    "domain": "pr",
+    "whois_server_url": "whois.afilias-srs.net"
+  },
+  {
+    "domain": "press",
+    "whois_server_url": "whois.nic.press"
+  },
+  {
+    "domain": "prime",
+    "whois_server_url": "whois.nic.prime"
+  },
+  {
+    "domain": "pro",
+    "whois_server_url": "whois.nic.pro"
+  },
+  {
+    "domain": "prod",
+    "whois_server_url": "whois.nic.google"
+  },
+  {
+    "domain": "productions",
+    "whois_server_url": "whois.nic.productions"
+  },
+  {
+    "domain": "prof",
+    "whois_server_url": "whois.nic.google"
+  },
+  {
+    "domain": "progressive",
+    "whois_server_url": "whois.nic.progressive"
+  },
+  {
+    "domain": "promo",
+    "whois_server_url": "whois.nic.promo"
+  },
+  {
+    "domain": "properties",
+    "whois_server_url": "whois.nic.properties"
+  },
+  {
+    "domain": "property",
+    "whois_server_url": "whois.nic.property"
+  },
+  {
+    "domain": "protection",
+    "whois_server_url": "whois.nic.protection"
+  },
+  {
+    "domain": "pt",
+    "whois_server_url": "whois.dns.pt"
+  },
+  {
+    "domain": "pub",
+    "whois_server_url": "whois.nic.pub"
+  },
+  {
+    "domain": "pw",
+    "whois_server_url": "whois.nic.pw"
+  },
+  {
+    "domain": "pwc",
+    "whois_server_url": "whois.nic.pwc"
+  },
+  {
+    "domain": "qa",
+    "whois_server_url": "whois.registry.qa"
+  },
+  {
+    "domain": "qpon",
+    "whois_server_url": "whois.nic.qpon"
+  },
+  {
+    "domain": "quebec",
+    "whois_server_url": "whois.nic.quebec"
+  },
+  {
+    "domain": "quest",
+    "whois_server_url": "whois.nic.quest"
+  },
+  {
+    "domain": "racing",
+    "whois_server_url": "whois.nic.racing"
+  },
+  {
+    "domain": "radio",
+    "whois_server_url": "whois.nic.radio"
+  },
+  {
+    "domain": "re",
+    "whois_server_url": "whois.nic.re"
+  },
+  {
+    "domain": "read",
+    "whois_server_url": "whois.nic.read"
+  },
+  {
+    "domain": "realestate",
+    "whois_server_url": "whois.nic.realestate"
+  },
+  {
+    "domain": "realtor",
+    "whois_server_url": "whois.nic.realtor"
+  },
+  {
+    "domain": "realty",
+    "whois_server_url": "whois.nic.realty"
+  },
+  {
+    "domain": "recipes",
+    "whois_server_url": "whois.nic.recipes"
+  },
+  {
+    "domain": "red",
+    "whois_server_url": "whois.nic.red"
+  },
+  {
+    "domain": "redstone",
+    "whois_server_url": "whois.nic.redstone"
+  },
+  {
+    "domain": "redumbrella",
+    "whois_server_url": "whois.nic.redumbrella"
+  },
+  {
+    "domain": "rehab",
+    "whois_server_url": "whois.nic.rehab"
+  },
+  {
+    "domain": "reise",
+    "whois_server_url": "whois.nic.reise"
+  },
+  {
+    "domain": "reisen",
+    "whois_server_url": "whois.nic.reisen"
+  },
+  {
+    "domain": "reit",
+    "whois_server_url": "whois.nic.reit"
+  },
+  {
+    "domain": "reliance",
+    "whois_server_url": "whois.nic.reliance"
+  },
+  {
+    "domain": "ren",
+    "whois_server_url": "whois.nic.ren"
+  },
+  {
+    "domain": "rent",
+    "whois_server_url": "whois.nic.rent"
+  },
+  {
+    "domain": "rentals",
+    "whois_server_url": "whois.nic.rentals"
+  },
+  {
+    "domain": "repair",
+    "whois_server_url": "whois.nic.repair"
+  },
+  {
+    "domain": "report",
+    "whois_server_url": "whois.nic.report"
+  },
+  {
+    "domain": "republican",
+    "whois_server_url": "whois.nic.republican"
+  },
+  {
+    "domain": "rest",
+    "whois_server_url": "whois.nic.rest"
+  },
+  {
+    "domain": "restaurant",
+    "whois_server_url": "whois.nic.restaurant"
+  },
+  {
+    "domain": "review",
+    "whois_server_url": "whois.nic.review"
+  },
+  {
+    "domain": "reviews",
+    "whois_server_url": "whois.nic.reviews"
+  },
+  {
+    "domain": "rexroth",
+    "whois_server_url": "whois.nic.rexroth"
+  },
+  {
+    "domain": "rich",
+    "whois_server_url": "whois.nic.rich"
+  },
+  {
+    "domain": "richardli",
+    "whois_server_url": "whois.nic.richardli"
+  },
+  {
+    "domain": "ricoh",
+    "whois_server_url": "whois.nic.ricoh"
+  },
+  {
+    "domain": "ril",
+    "whois_server_url": "whois.nic.ril"
+  },
+  {
+    "domain": "rio",
+    "whois_server_url": "whois.gtlds.nic.br"
+  },
+  {
+    "domain": "rip",
+    "whois_server_url": "whois.nic.rip"
+  },
+  {
+    "domain": "ro",
+    "whois_server_url": "whois.rotld.ro"
+  },
+  {
+    "domain": "rocks",
+    "whois_server_url": "whois.nic.rocks"
+  },
+  {
+    "domain": "rodeo",
+    "whois_server_url": "whois.nic.rodeo"
+  },
+  {
+    "domain": "rogers",
+    "whois_server_url": "whois.nic.rogers"
+  },
+  {
+    "domain": "room",
+    "whois_server_url": "whois.nic.room"
+  },
+  {
+    "domain": "rs",
+    "whois_server_url": "whois.rnids.rs"
+  },
+  {
+    "domain": "rsvp",
+    "whois_server_url": "whois.nic.google"
+  },
+  {
+    "domain": "ru",
+    "whois_server_url": "whois.tcinet.ru"
+  },
+  {
+    "domain": "rugby",
+    "whois_server_url": "whois.nic.rugby"
+  },
+  {
+    "domain": "ruhr",
+    "whois_server_url": "whois.nic.ruhr"
+  },
+  {
+    "domain": "run",
+    "whois_server_url": "whois.nic.run"
+  },
+  {
+    "domain": "rw",
+    "whois_server_url": "whois.ricta.org.rw"
+  },
+  {
+    "domain": "rwe",
+    "whois_server_url": "whois.nic.rwe"
+  },
+  {
+    "domain": "ryukyu",
+    "whois_server_url": "whois.nic.ryukyu"
+  },
+  {
+    "domain": "sa",
+    "whois_server_url": "whois.nic.net.sa"
+  },
+  {
+    "domain": "saarland",
+    "whois_server_url": "whois.nic.saarland"
+  },
+  {
+    "domain": "safe",
+    "whois_server_url": "whois.nic.safe"
+  },
+  {
+    "domain": "safety",
+    "whois_server_url": "whois.nic.safety"
+  },
+  {
+    "domain": "sale",
+    "whois_server_url": "whois.nic.sale"
+  },
+  {
+    "domain": "salon",
+    "whois_server_url": "whois.nic.salon"
+  },
+  {
+    "domain": "samsclub",
+    "whois_server_url": "whois.nic.samsclub"
+  },
+  {
+    "domain": "samsung",
+    "whois_server_url": "whois.nic.samsung"
+  },
+  {
+    "domain": "sandvik",
+    "whois_server_url": "whois.nic.sandvik"
+  },
+  {
+    "domain": "sandvikcoromant",
+    "whois_server_url": "whois.nic.sandvikcoromant"
+  },
+  {
+    "domain": "sanofi",
+    "whois_server_url": "whois.nic.sanofi"
+  },
+  {
+    "domain": "sap",
+    "whois_server_url": "whois.nic.sap"
+  },
+  {
+    "domain": "sarl",
+    "whois_server_url": "whois.nic.sarl"
+  },
+  {
+    "domain": "save",
+    "whois_server_url": "whois.nic.save"
+  },
+  {
+    "domain": "saxo",
+    "whois_server_url": "whois.nic.saxo"
+  },
+  {
+    "domain": "sb",
+    "whois_server_url": "whois.nic.net.sb"
+  },
+  {
+    "domain": "sbi",
+    "whois_server_url": "whois.nic.sbi"
+  },
+  {
+    "domain": "sbs",
+    "whois_server_url": "whois.nic.sbs"
+  },
+  {
+    "domain": "sc",
+    "whois_server_url": "whois.nic.sc"
+  },
+  {
+    "domain": "scb",
+    "whois_server_url": "whois.nic.scb"
+  },
+  {
+    "domain": "schaeffler",
+    "whois_server_url": "whois.afilias-srs.net"
+  },
+  {
+    "domain": "schmidt",
+    "whois_server_url": "whois.nic.schmidt"
+  },
+  {
+    "domain": "scholarships",
+    "whois_server_url": "whois.nic.scholarships"
+  },
+  {
+    "domain": "school",
+    "whois_server_url": "whois.nic.school"
+  },
+  {
+    "domain": "schule",
+    "whois_server_url": "whois.nic.schule"
+  },
+  {
+    "domain": "schwarz",
+    "whois_server_url": "whois.nic.schwarz"
+  },
+  {
+    "domain": "science",
+    "whois_server_url": "whois.nic.science"
+  },
+  {
+    "domain": "scot",
+    "whois_server_url": "whois.nic.scot"
+  },
+  {
+    "domain": "sd",
+    "whois_server_url": "whois.nic.sd"
+  },
+  {
+    "domain": "se",
+    "whois_server_url": "whois.iis.se"
+  },
+  {
+    "domain": "search",
+    "whois_server_url": "whois.nic.google"
+  },
+  {
+    "domain": "seat",
+    "whois_server_url": "whois.nic.seat"
+  },
+  {
+    "domain": "secure",
+    "whois_server_url": "whois.nic.secure"
+  },
+  {
+    "domain": "security",
+    "whois_server_url": "whois.nic.security"
+  },
+  {
+    "domain": "seek",
+    "whois_server_url": "whois.nic.seek"
+  },
+  {
+    "domain": "select",
+    "whois_server_url": "whois.nic.select"
+  },
+  {
+    "domain": "sener",
+    "whois_server_url": "whois.nic.rwe"
+  },
+  {
+    "domain": "services",
+    "whois_server_url": "whois.nic.services"
+  },
+  {
+    "domain": "seven",
+    "whois_server_url": "whois.nic.seven"
+  },
+  {
+    "domain": "sew",
+    "whois_server_url": "whois.nic.sew"
+  },
+  {
+    "domain": "sex",
+    "whois_server_url": "whois.nic.sex"
+  },
+  {
+    "domain": "sexy",
+    "whois_server_url": "whois.nic.sexy"
+  },
+  {
+    "domain": "sfr",
+    "whois_server_url": "whois.nic.sfr"
+  },
+  {
+    "domain": "sg",
+    "whois_server_url": "whois.sgnic.sg"
+  },
+  {
+    "domain": "sh",
+    "whois_server_url": "whois.nic.sh"
+  },
+  {
+    "domain": "shangrila",
+    "whois_server_url": "whois.nic.shangrila"
+  },
+  {
+    "domain": "sharp",
+    "whois_server_url": "whois.nic.gmo"
+  },
+  {
+    "domain": "shell",
+    "whois_server_url": "whois.nic.shell"
+  },
+  {
+    "domain": "shia",
+    "whois_server_url": "whois.nic.shia"
+  },
+  {
+    "domain": "shiksha",
+    "whois_server_url": "whois.nic.shiksha"
+  },
+  {
+    "domain": "shoes",
+    "whois_server_url": "whois.nic.shoes"
+  },
+  {
+    "domain": "shop",
+    "whois_server_url": "whois.nic.shop"
+  },
+  {
+    "domain": "shopping",
+    "whois_server_url": "whois.nic.shopping"
+  },
+  {
+    "domain": "shouji",
+    "whois_server_url": "whois.teleinfo.cn"
+  },
+  {
+    "domain": "show",
+    "whois_server_url": "whois.nic.show"
+  },
+  {
+    "domain": "si",
+    "whois_server_url": "whois.register.si"
+  },
+  {
+    "domain": "silk",
+    "whois_server_url": "whois.nic.silk"
+  },
+  {
+    "domain": "sina",
+    "whois_server_url": "whois.nic.sina"
+  },
+  {
+    "domain": "singles",
+    "whois_server_url": "whois.nic.singles"
+  },
+  {
+    "domain": "site",
+    "whois_server_url": "whois.nic.site"
+  },
+  {
+    "domain": "sk",
+    "whois_server_url": "whois.sk-nic.sk"
+  },
+  {
+    "domain": "ski",
+    "whois_server_url": "whois.nic.ski"
+  },
+  {
+    "domain": "skin",
+    "whois_server_url": "whois.nic.skin"
+  },
+  {
+    "domain": "sky",
+    "whois_server_url": "whois.nic.sky"
+  },
+  {
+    "domain": "skype",
+    "whois_server_url": "whois.nic.skype"
+  },
+  {
+    "domain": "sling",
+    "whois_server_url": "whois.nic.sling"
+  },
+  {
+    "domain": "sm",
+    "whois_server_url": "whois.nic.sm"
+  },
+  {
+    "domain": "smart",
+    "whois_server_url": "whois.nic.smart"
+  },
+  {
+    "domain": "smile",
+    "whois_server_url": "whois.nic.smile"
+  },
+  {
+    "domain": "sn",
+    "whois_server_url": "whois.nic.sn"
+  },
+  {
+    "domain": "sncf",
+    "whois_server_url": "whois.nic.sncf"
+  },
+  {
+    "domain": "so",
+    "whois_server_url": "whois.nic.so"
+  },
+  {
+    "domain": "soccer",
+    "whois_server_url": "whois.nic.soccer"
+  },
+  {
+    "domain": "social",
+    "whois_server_url": "whois.nic.social"
+  },
+  {
+    "domain": "softbank",
+    "whois_server_url": "whois.nic.softbank"
+  },
+  {
+    "domain": "software",
+    "whois_server_url": "whois.nic.software"
+  },
+  {
+    "domain": "solar",
+    "whois_server_url": "whois.nic.solar"
+  },
+  {
+    "domain": "solutions",
+    "whois_server_url": "whois.nic.solutions"
+  },
+  {
+    "domain": "sony",
+    "whois_server_url": "whois.nic.sony"
+  },
+  {
+    "domain": "soy",
+    "whois_server_url": "whois.nic.google"
+  },
+  {
+    "domain": "spa",
+    "whois_server_url": "whois.nic.spa"
+  },
+  {
+    "domain": "space",
+    "whois_server_url": "whois.nic.space"
+  },
+  {
+    "domain": "sport",
+    "whois_server_url": "whois.nic.sport"
+  },
+  {
+    "domain": "spot",
+    "whois_server_url": "whois.nic.spot"
+  },
+  {
+    "domain": "srl",
+    "whois_server_url": "whois.nic.srl"
+  },
+  {
+    "domain": "ss",
+    "whois_server_url": "whois.nic.ss"
+  },
+  {
+    "domain": "st",
+    "whois_server_url": "whois.nic.st"
+  },
+  {
+    "domain": "stada",
+    "whois_server_url": "whois.nic.stada"
+  },
+  {
+    "domain": "star",
+    "whois_server_url": "whois.nic.star"
+  },
+  {
+    "domain": "statebank",
+    "whois_server_url": "whois.nic.statebank"
+  },
+  {
+    "domain": "stc",
+    "whois_server_url": "whois.nic.stc"
+  },
+  {
+    "domain": "stcgroup",
+    "whois_server_url": "whois.nic.stcgroup"
+  },
+  {
+    "domain": "stockholm",
+    "whois_server_url": "whois.nic.stockholm"
+  },
+  {
+    "domain": "storage",
+    "whois_server_url": "whois.nic.storage"
+  },
+  {
+    "domain": "store",
+    "whois_server_url": "whois.nic.store"
+  },
+  {
+    "domain": "stream",
+    "whois_server_url": "whois.nic.stream"
+  },
+  {
+    "domain": "studio",
+    "whois_server_url": "whois.nic.studio"
+  },
+  {
+    "domain": "study",
+    "whois_server_url": "whois.nic.study"
+  },
+  {
+    "domain": "style",
+    "whois_server_url": "whois.nic.style"
+  },
+  {
+    "domain": "su",
+    "whois_server_url": "whois.tcinet.ru"
+  },
+  {
+    "domain": "sucks",
+    "whois_server_url": "whois.nic.sucks"
+  },
+  {
+    "domain": "supplies",
+    "whois_server_url": "whois.nic.supplies"
+  },
+  {
+    "domain": "supply",
+    "whois_server_url": "whois.nic.supply"
+  },
+  {
+    "domain": "support",
+    "whois_server_url": "whois.nic.support"
+  },
+  {
+    "domain": "surf",
+    "whois_server_url": "whois.nic.surf"
+  },
+  {
+    "domain": "surgery",
+    "whois_server_url": "whois.nic.surgery"
+  },
+  {
+    "domain": "suzuki",
+    "whois_server_url": "whois.nic.suzuki"
+  },
+  {
+    "domain": "swatch",
+    "whois_server_url": "whois.nic.swatch"
+  },
+  {
+    "domain": "swiss",
+    "whois_server_url": "whois.nic.swiss"
+  },
+  {
+    "domain": "sx",
+    "whois_server_url": "whois.sx"
+  },
+  {
+    "domain": "sy",
+    "whois_server_url": "whois.tld.sy"
+  },
+  {
+    "domain": "sydney",
+    "whois_server_url": "whois.nic.sydney"
+  },
+  {
+    "domain": "systems",
+    "whois_server_url": "whois.nic.systems"
+  },
+  {
+    "domain": "tab",
+    "whois_server_url": "whois.nic.tab"
+  },
+  {
+    "domain": "taipei",
+    "whois_server_url": "whois.nic.taipei"
+  },
+  {
+    "domain": "talk",
+    "whois_server_url": "whois.nic.talk"
+  },
+  {
+    "domain": "taobao",
+    "whois_server_url": "whois.nic.taobao"
+  },
+  {
+    "domain": "tatamotors",
+    "whois_server_url": "whois.nic.tatamotors"
+  },
+  {
+    "domain": "tatar",
+    "whois_server_url": "whois.nic.tatar"
+  },
+  {
+    "domain": "tattoo",
+    "whois_server_url": "whois.nic.tattoo"
+  },
+  {
+    "domain": "tax",
+    "whois_server_url": "whois.nic.tax"
+  },
+  {
+    "domain": "taxi",
+    "whois_server_url": "whois.nic.taxi"
+  },
+  {
+    "domain": "tc",
+    "whois_server_url": "whois.nic.tc"
+  },
+  {
+    "domain": "tci",
+    "whois_server_url": "whois.nic.tci"
+  },
+  {
+    "domain": "td",
+    "whois_server_url": "whois.nic.td"
+  },
+  {
+    "domain": "tdk",
+    "whois_server_url": "whois.nic.tdk"
+  },
+  {
+    "domain": "team",
+    "whois_server_url": "whois.nic.team"
+  },
+  {
+    "domain": "tech",
+    "whois_server_url": "whois.nic.tech"
+  },
+  {
+    "domain": "technology",
+    "whois_server_url": "whois.nic.technology"
+  },
+  {
+    "domain": "tel",
+    "whois_server_url": "whois.nic.tel"
+  },
+  {
+    "domain": "temasek",
+    "whois_server_url": "whois.nic.temasek"
+  },
+  {
+    "domain": "tennis",
+    "whois_server_url": "whois.nic.tennis"
+  },
+  {
+    "domain": "teva",
+    "whois_server_url": "whois.nic.teva"
+  },
+  {
+    "domain": "tf",
+    "whois_server_url": "whois.nic.tf"
+  },
+  {
+    "domain": "tg",
+    "whois_server_url": "whois.nic.tg"
+  },
+  {
+    "domain": "th",
+    "whois_server_url": "whois.thnic.co.th"
+  },
+  {
+    "domain": "thd",
+    "whois_server_url": "whois.nic.thd"
+  },
+  {
+    "domain": "theater",
+    "whois_server_url": "whois.nic.theater"
+  },
+  {
+    "domain": "theatre",
+    "whois_server_url": "whois.nic.theatre"
+  },
+  {
+    "domain": "tiaa",
+    "whois_server_url": "whois.nic.tiaa"
+  },
+  {
+    "domain": "tickets",
+    "whois_server_url": "whois.nic.tickets"
+  },
+  {
+    "domain": "tienda",
+    "whois_server_url": "whois.nic.tienda"
+  },
+  {
+    "domain": "tips",
+    "whois_server_url": "whois.nic.tips"
+  },
+  {
+    "domain": "tires",
+    "whois_server_url": "whois.nic.tires"
+  },
+  {
+    "domain": "tirol",
+    "whois_server_url": "whois.nic.tirol"
+  },
+  {
+    "domain": "tk",
+    "whois_server_url": "whois.dot.tk"
+  },
+  {
+    "domain": "tl",
+    "whois_server_url": "whois.nic.tl"
+  },
+  {
+    "domain": "tm",
+    "whois_server_url": "whois.nic.tm"
+  },
+  {
+    "domain": "tmall",
+    "whois_server_url": "whois.nic.tmall"
+  },
+  {
+    "domain": "tn",
+    "whois_server_url": "whois.ati.tn"
+  },
+  {
+    "domain": "to",
+    "whois_server_url": "whois.tonic.to"
+  },
+  {
+    "domain": "today",
+    "whois_server_url": "whois.nic.today"
+  },
+  {
+    "domain": "tokyo",
+    "whois_server_url": "whois.nic.tokyo"
+  },
+  {
+    "domain": "tools",
+    "whois_server_url": "whois.nic.tools"
+  },
+  {
+    "domain": "top",
+    "whois_server_url": "whois.nic.top"
+  },
+  {
+    "domain": "toray",
+    "whois_server_url": "whois.nic.toray"
+  },
+  {
+    "domain": "toshiba",
+    "whois_server_url": "whois.nic.toshiba"
+  },
+  {
+    "domain": "total",
+    "whois_server_url": "whois.nic.total"
+  },
+  {
+    "domain": "tours",
+    "whois_server_url": "whois.nic.tours"
+  },
+  {
+    "domain": "town",
+    "whois_server_url": "whois.nic.town"
+  },
+  {
+    "domain": "toyota",
+    "whois_server_url": "whois.nic.toyota"
+  },
+  {
+    "domain": "toys",
+    "whois_server_url": "whois.nic.toys"
+  },
+  {
+    "domain": "tr",
+    "whois_server_url": "whois.trabis.gov.tr"
+  },
+  {
+    "domain": "trade",
+    "whois_server_url": "whois.nic.trade"
+  },
+  {
+    "domain": "trading",
+    "whois_server_url": "whois.nic.trading"
+  },
+  {
+    "domain": "training",
+    "whois_server_url": "whois.nic.training"
+  },
+  {
+    "domain": "travel",
+    "whois_server_url": "whois.nic.travel"
+  },
+  {
+    "domain": "travelers",
+    "whois_server_url": "whois.nic.travelers"
+  },
+  {
+    "domain": "travelersinsurance",
+    "whois_server_url": "whois.nic.travelersinsurance"
+  },
+  {
+    "domain": "trust",
+    "whois_server_url": "whois.nic.trust"
+  },
+  {
+    "domain": "trv",
+    "whois_server_url": "whois.nic.trv"
+  },
+  {
+    "domain": "tube",
+    "whois_server_url": "whois.nic.tube"
+  },
+  {
+    "domain": "tui",
+    "whois_server_url": "whois.nic.tui"
+  },
+  {
+    "domain": "tunes",
+    "whois_server_url": "whois.nic.tunes"
+  },
+  {
+    "domain": "tushu",
+    "whois_server_url": "whois.nic.tushu"
+  },
+  {
+    "domain": "tv",
+    "whois_server_url": "whois.nic.tv"
+  },
+  {
+    "domain": "tvs",
+    "whois_server_url": "whois.nic.tvs"
+  },
+  {
+    "domain": "tw",
+    "whois_server_url": "whois.twnic.net.tw"
+  },
+  {
+    "domain": "tz",
+    "whois_server_url": "whois.tznic.or.tz"
+  },
+  {
+    "domain": "ua",
+    "whois_server_url": "whois.ua"
+  },
+  {
+    "domain": "ubank",
+    "whois_server_url": "whois.nic.ubank"
+  },
+  {
+    "domain": "ubs",
+    "whois_server_url": "whois.nic.ubs"
+  },
+  {
+    "domain": "ug",
+    "whois_server_url": "whois.co.ug"
+  },
+  {
+    "domain": "uk",
+    "whois_server_url": "whois.nic.uk"
+  },
+  {
+    "domain": "unicom",
+    "whois_server_url": "whois.nic.unicom"
+  },
+  {
+    "domain": "university",
+    "whois_server_url": "whois.nic.university"
+  },
+  {
+    "domain": "uno",
+    "whois_server_url": "whois.nic.uno"
+  },
+  {
+    "domain": "uol",
+    "whois_server_url": "whois.gtlds.nic.br"
+  },
+  {
+    "domain": "ups",
+    "whois_server_url": "whois.nic.ups"
+  },
+  {
+    "domain": "us",
+    "whois_server_url": "whois.nic.us"
+  },
+  {
+    "domain": "uy",
+    "whois_server_url": "whois.nic.org.uy"
+  },
+  {
+    "domain": "uz",
+    "whois_server_url": "whois.cctld.uz"
+  },
+  {
+    "domain": "vacations",
+    "whois_server_url": "whois.nic.vacations"
+  },
+  {
+    "domain": "vana",
+    "whois_server_url": "whois.nic.vana"
+  },
+  {
+    "domain": "vanguard",
+    "whois_server_url": "whois.nic.vanguard"
+  },
+  {
+    "domain": "vc",
+    "whois_server_url": "whois.identitydigital.services"
+  },
+  {
+    "domain": "ve",
+    "whois_server_url": "whois.nic.ve"
+  },
+  {
+    "domain": "vegas",
+    "whois_server_url": "whois.nic.vegas"
+  },
+  {
+    "domain": "ventures",
+    "whois_server_url": "whois.nic.ventures"
+  },
+  {
+    "domain": "verisign",
+    "whois_server_url": "whois.nic.verisign"
+  },
+  {
+    "domain": "versicherung",
+    "whois_server_url": "whois.nic.versicherung"
+  },
+  {
+    "domain": "vet",
+    "whois_server_url": "whois.nic.vet"
+  },
+  {
+    "domain": "vg",
+    "whois_server_url": "whois.nic.vg"
+  },
+  {
+    "domain": "vi",
+    "whois_server_url": "virgil.nic.vi"
+  },
+  {
+    "domain": "viajes",
+    "whois_server_url": "whois.nic.viajes"
+  },
+  {
+    "domain": "video",
+    "whois_server_url": "whois.nic.video"
+  },
+  {
+    "domain": "vig",
+    "whois_server_url": "whois.nic.vig"
+  },
+  {
+    "domain": "viking",
+    "whois_server_url": "whois.nic.viking"
+  },
+  {
+    "domain": "villas",
+    "whois_server_url": "whois.nic.villas"
+  },
+  {
+    "domain": "vin",
+    "whois_server_url": "whois.nic.vin"
+  },
+  {
+    "domain": "vip",
+    "whois_server_url": "whois.nic.vip"
+  },
+  {
+    "domain": "virgin",
+    "whois_server_url": "whois.nic.virgin"
+  },
+  {
+    "domain": "visa",
+    "whois_server_url": "whois.nic.visa"
+  },
+  {
+    "domain": "vision",
+    "whois_server_url": "whois.nic.vision"
+  },
+  {
+    "domain": "viva",
+    "whois_server_url": "whois.nic.viva"
+  },
+  {
+    "domain": "vlaanderen",
+    "whois_server_url": "whois.nic.vlaanderen"
+  },
+  {
+    "domain": "vodka",
+    "whois_server_url": "whois.nic.vodka"
+  },
+  {
+    "domain": "volvo",
+    "whois_server_url": "whois.nic.volvo"
+  },
+  {
+    "domain": "vote",
+    "whois_server_url": "whois.nic.vote"
+  },
+  {
+    "domain": "voting",
+    "whois_server_url": "whois.nic.voting"
+  },
+  {
+    "domain": "voto",
+    "whois_server_url": "whois.nic.voto"
+  },
+  {
+    "domain": "voyage",
+    "whois_server_url": "whois.nic.voyage"
+  },
+  {
+    "domain": "vu",
+    "whois_server_url": "whois.dnrs.vu"
+  },
+  {
+    "domain": "wales",
+    "whois_server_url": "whois.nic.wales"
+  },
+  {
+    "domain": "walmart",
+    "whois_server_url": "whois.nic.walmart"
+  },
+  {
+    "domain": "walter",
+    "whois_server_url": "whois.nic.walter"
+  },
+  {
+    "domain": "wang",
+    "whois_server_url": "whois.gtld.knet.cn"
+  },
+  {
+    "domain": "wanggou",
+    "whois_server_url": "whois.nic.wanggou"
+  },
+  {
+    "domain": "watch",
+    "whois_server_url": "whois.nic.watch"
+  },
+  {
+    "domain": "watches",
+    "whois_server_url": "whois.nic.watches"
+  },
+  {
+    "domain": "webcam",
+    "whois_server_url": "whois.nic.webcam"
+  },
+  {
+    "domain": "weber",
+    "whois_server_url": "whois.nic.weber"
+  },
+  {
+    "domain": "website",
+    "whois_server_url": "whois.nic.website"
+  },
+  {
+    "domain": "wed",
+    "whois_server_url": "whois.nic.wed"
+  },
+  {
+    "domain": "wedding",
+    "whois_server_url": "whois.nic.wedding"
+  },
+  {
+    "domain": "weibo",
+    "whois_server_url": "whois.nic.weibo"
+  },
+  {
+    "domain": "weir",
+    "whois_server_url": "whois.nic.weir"
+  },
+  {
+    "domain": "wf",
+    "whois_server_url": "whois.nic.wf"
+  },
+  {
+    "domain": "whoswho",
+    "whois_server_url": "whois.nic.whoswho"
+  },
+  {
+    "domain": "wien",
+    "whois_server_url": "whois.nic.wien"
+  },
+  {
+    "domain": "wiki",
+    "whois_server_url": "whois.nic.wiki"
+  },
+  {
+    "domain": "win",
+    "whois_server_url": "whois.nic.win"
+  },
+  {
+    "domain": "windows",
+    "whois_server_url": "whois.nic.windows"
+  },
+  {
+    "domain": "wine",
+    "whois_server_url": "whois.nic.wine"
+  },
+  {
+    "domain": "wme",
+    "whois_server_url": "whois.nic.wme"
+  },
+  {
+    "domain": "wolterskluwer",
+    "whois_server_url": "whois.nic.wolterskluwer"
+  },
+  {
+    "domain": "woodside",
+    "whois_server_url": "whois.nic.woodside"
+  },
+  {
+    "domain": "work",
+    "whois_server_url": "whois.nic.work"
+  },
+  {
+    "domain": "works",
+    "whois_server_url": "whois.nic.works"
+  },
+  {
+    "domain": "world",
+    "whois_server_url": "whois.nic.world"
+  },
+  {
+    "domain": "wow",
+    "whois_server_url": "whois.nic.wow"
+  },
+  {
+    "domain": "ws",
+    "whois_server_url": "whois.website.ws"
+  },
+  {
+    "domain": "wtc",
+    "whois_server_url": "whois.nic.wtc"
+  },
+  {
+    "domain": "wtf",
+    "whois_server_url": "whois.nic.wtf"
+  },
+  {
+    "domain": "xbox",
+    "whois_server_url": "whois.nic.xbox"
+  },
+  {
+    "domain": "xerox",
+    "whois_server_url": "whois.nic.xerox"
+  },
+  {
+    "domain": "xihuan",
+    "whois_server_url": "whois.teleinfo.cn"
+  },
+  {
+    "domain": "xin",
+    "whois_server_url": "whois.nic.xin"
+  },
+  {
+    "domain": "xn--11b4c3d",
+    "whois_server_url": "whois.nic.xn--11b4c3d"
+  },
+  {
+    "domain": "xn--1qqw23a",
+    "whois_server_url": "whois.ngtld.cn"
+  },
+  {
+    "domain": "xn--2scrj9c",
+    "whois_server_url": "whois.registry.in"
+  },
+  {
+    "domain": "xn--30rr7y",
+    "whois_server_url": "whois.gtld.knet.cn"
+  },
+  {
+    "domain": "xn--3bst00m",
+    "whois_server_url": "whois.gtld.knet.cn"
+  },
+  {
+    "domain": "xn--3ds443g",
+    "whois_server_url": "whois.teleinfo.cn"
+  },
+  {
+    "domain": "xn--3e0b707e",
+    "whois_server_url": "whois.kr"
+  },
+  {
+    "domain": "xn--3hcrj9c",
+    "whois_server_url": "whois.registry.in"
+  },
+  {
+    "domain": "xn--3pxu8k",
+    "whois_server_url": "whois.nic.xn--3pxu8k"
+  },
+  {
+    "domain": "xn--42c2d9a",
+    "whois_server_url": "whois.nic.xn--42c2d9a"
+  },
+  {
+    "domain": "xn--45br5cyl",
+    "whois_server_url": "whois.registry.in"
+  },
+  {
+    "domain": "xn--45brj9c",
+    "whois_server_url": "whois.registry.in"
+  },
+  {
+    "domain": "xn--45q11c",
+    "whois_server_url": "whois.gtld.knet.cn"
+  },
+  {
+    "domain": "xn--4dbrk0ce",
+    "whois_server_url": "whois.isoc.org.il"
+  },
+  {
+    "domain": "xn--4gbrim",
+    "whois_server_url": "whois.nic.xn--4gbrim"
+  },
+  {
+    "domain": "xn--55qw42g",
+    "whois_server_url": "whois.conac.cn"
+  },
+  {
+    "domain": "xn--55qx5d",
+    "whois_server_url": "whois.ngtld.cn"
+  },
+  {
+    "domain": "xn--5su34j936bgsg",
+    "whois_server_url": "whois.nic.xn--5su34j936bgsg"
+  },
+  {
+    "domain": "xn--5tzm5g",
+    "whois_server_url": "whois.nic.xn--5tzm5g"
+  },
+  {
+    "domain": "xn--6frz82g",
+    "whois_server_url": "whois.nic.xn--6frz82g"
+  },
+  {
+    "domain": "xn--6qq986b3xl",
+    "whois_server_url": "whois.gtld.knet.cn"
+  },
+  {
+    "domain": "xn--80adxhks",
+    "whois_server_url": "whois.nic.xn--80adxhks"
+  },
+  {
+    "domain": "xn--80ao21a",
+    "whois_server_url": "whois.nic.kz"
+  },
+  {
+    "domain": "xn--80aqecdr1a",
+    "whois_server_url": "whois.nic.xn--80aqecdr1a"
+  },
+  {
+    "domain": "xn--80asehdb",
+    "whois_server_url": "whois.nic.xn--80asehdb"
+  },
+  {
+    "domain": "xn--80aswg",
+    "whois_server_url": "whois.nic.xn--80aswg"
+  },
+  {
+    "domain": "xn--8y0a063a",
+    "whois_server_url": "whois.nic.xn--8y0a063a"
+  },
+  {
+    "domain": "xn--90a3ac",
+    "whois_server_url": "whois.rnids.rs"
+  },
+  {
+    "domain": "xn--90ae",
+    "whois_server_url": "whois.imena.bg"
+  },
+  {
+    "domain": "xn--90ais",
+    "whois_server_url": "whois.cctld.by"
+  },
+  {
+    "domain": "xn--9dbq2a",
+    "whois_server_url": "whois.nic.xn--9dbq2a"
+  },
+  {
+    "domain": "xn--9et52u",
+    "whois_server_url": "whois.gtld.knet.cn"
+  },
+  {
+    "domain": "xn--9krt00a",
+    "whois_server_url": "whois.nic.xn--9krt00a"
+  },
+  {
+    "domain": "xn--b4w605ferd",
+    "whois_server_url": "whois.nic.xn--b4w605ferd"
+  },
+  {
+    "domain": "xn--c1avg",
+    "whois_server_url": "whois.nic.xn--c1avg"
+  },
+  {
+    "domain": "xn--c2br7g",
+    "whois_server_url": "whois.nic.xn--c2br7g"
+  },
+  {
+    "domain": "xn--cckwcxetd",
+    "whois_server_url": "whois.nic.xn--cckwcxetd"
+  },
+  {
+    "domain": "xn--cg4bki",
+    "whois_server_url": "whois.kr"
+  },
+  {
+    "domain": "xn--clchc0ea0b2g2a9gcd",
+    "whois_server_url": "whois.ta.sgnic.sg"
+  },
+  {
+    "domain": "xn--czrs0t",
+    "whois_server_url": "whois.nic.xn--czrs0t"
+  },
+  {
+    "domain": "xn--czru2d",
+    "whois_server_url": "whois.gtld.knet.cn"
+  },
+  {
+    "domain": "xn--d1acj3b",
+    "whois_server_url": "whois.nic.xn--d1acj3b"
+  },
+  {
+    "domain": "xn--d1alf",
+    "whois_server_url": "whois.marnet.mk"
+  },
+  {
+    "domain": "xn--e1a4c",
+    "whois_server_url": "whois.eu"
+  },
+  {
+    "domain": "xn--efvy88h",
+    "whois_server_url": "whois.nic.xn--efvy88h"
+  },
+  {
+    "domain": "xn--fhbei",
+    "whois_server_url": "whois.nic.xn--fhbei"
+  },
+  {
+    "domain": "xn--fiq228c5hs",
+    "whois_server_url": "whois.teleinfo.cn"
+  },
+  {
+    "domain": "xn--fiq64b",
+    "whois_server_url": "whois.gtld.knet.cn"
+  },
+  {
+    "domain": "xn--fiqs8s",
+    "whois_server_url": "cwhois.cnnic.cn"
+  },
+  {
+    "domain": "xn--fiqz9s",
+    "whois_server_url": "cwhois.cnnic.cn"
+  },
+  {
+    "domain": "xn--fjq720a",
+    "whois_server_url": "whois.nic.xn--fjq720a"
+  },
+  {
+    "domain": "xn--flw351e",
+    "whois_server_url": "whois.nic.google"
+  },
+  {
+    "domain": "xn--fpcrj9c3d",
+    "whois_server_url": "whois.registry.in"
+  },
+  {
+    "domain": "xn--fzys8d69uvgm",
+    "whois_server_url": "whois.nic.xn--fzys8d69uvgm"
+  },
+  {
+    "domain": "xn--gecrj9c",
+    "whois_server_url": "whois.registry.in"
+  },
+  {
+    "domain": "xn--h2breg3eve",
+    "whois_server_url": "whois.registry.in"
+  },
+  {
+    "domain": "xn--h2brj9c",
+    "whois_server_url": "whois.registry.in"
+  },
+  {
+    "domain": "xn--h2brj9c8c",
+    "whois_server_url": "whois.registry.in"
+  },
+  {
+    "domain": "xn--hxt814e",
+    "whois_server_url": "whois.gtld.knet.cn"
+  },
+  {
+    "domain": "xn--i1b6b1a6a2e",
+    "whois_server_url": "whois.nic.xn--i1b6b1a6a2e"
+  },
+  {
+    "domain": "xn--io0a7i",
+    "whois_server_url": "whois.ngtld.cn"
+  },
+  {
+    "domain": "xn--j1aef",
+    "whois_server_url": "whois.nic.xn--j1aef"
+  },
+  {
+    "domain": "xn--j1amh",
+    "whois_server_url": "whois.dotukr.com"
+  },
+  {
+    "domain": "xn--j6w193g",
+    "whois_server_url": "whois.hkirc.hk"
+  },
+  {
+    "domain": "xn--jlq480n2rg",
+    "whois_server_url": "whois.nic.xn--jlq480n2rg"
+  },
+  {
+    "domain": "xn--kcrx77d1x4a",
+    "whois_server_url": "whois.nic.xn--kcrx77d1x4a"
+  },
+  {
+    "domain": "xn--kprw13d",
+    "whois_server_url": "whois.twnic.net.tw"
+  },
+  {
+    "domain": "xn--kpry57d",
+    "whois_server_url": "whois.twnic.net.tw"
+  },
+  {
+    "domain": "xn--kput3i",
+    "whois_server_url": "whois.nic.xn--kput3i"
+  },
+  {
+    "domain": "xn--lgbbat1ad8j",
+    "whois_server_url": "whois.nic.dz"
+  },
+  {
+    "domain": "xn--mgb9awbf",
+    "whois_server_url": "whois.registry.om"
+  },
+  {
+    "domain": "xn--mgba3a4f16a",
+    "whois_server_url": "whois.nic.ir"
+  },
+  {
+    "domain": "xn--mgba7c0bbn0a",
+    "whois_server_url": "whois.nic.xn--mgba7c0bbn0a"
+  },
+  {
+    "domain": "xn--mgbaam7a8h",
+    "whois_server_url": "whois.aeda.net.ae"
+  },
+  {
+    "domain": "xn--mgbab2bd",
+    "whois_server_url": "whois.nic.xn--mgbab2bd"
+  },
+  {
+    "domain": "xn--mgbah1a3hjkrd",
+    "whois_server_url": "whois.nic.mr"
+  },
+  {
+    "domain": "xn--mgbbh1a",
+    "whois_server_url": "whois.registry.in"
+  },
+  {
+    "domain": "xn--mgbbh1a71e",
+    "whois_server_url": "whois.registry.in"
+  },
+  {
+    "domain": "xn--mgbca7dzdo",
+    "whois_server_url": "whois.nic.xn--mgbca7dzdo"
+  },
+  {
+    "domain": "xn--mgberp4a5d4ar",
+    "whois_server_url": "whois.nic.net.sa"
+  },
+  {
+    "domain": "xn--mgbgu82a",
+    "whois_server_url": "whois.registry.in"
+  },
+  {
+    "domain": "xn--mgbi4ecexp",
+    "whois_server_url": "whois.nic.xn--mgbi4ecexp"
+  },
+  {
+    "domain": "xn--mgbt3dhd",
+    "whois_server_url": "whois.nic.xn--mgbt3dhd"
+  },
+  {
+    "domain": "xn--mgbtx2b",
+    "whois_server_url": "whois.cmc.iq"
+  },
+  {
+    "domain": "xn--mgbx4cd0ab",
+    "whois_server_url": "whois.mynic.my"
+  },
+  {
+    "domain": "xn--mix891f",
+    "whois_server_url": "whois.monic.mo"
+  },
+  {
+    "domain": "xn--mk1bu44c",
+    "whois_server_url": "whois.nic.xn--mk1bu44c"
+  },
+  {
+    "domain": "xn--mxtq1m",
+    "whois_server_url": "whois.nic.xn--mxtq1m"
+  },
+  {
+    "domain": "xn--ngbc5azd",
+    "whois_server_url": "whois.nic.xn--ngbc5azd"
+  },
+  {
+    "domain": "xn--ngbe9e0a",
+    "whois_server_url": "whois.nic.xn--ngbe9e0a"
+  },
+  {
+    "domain": "xn--ngbrx",
+    "whois_server_url": "whois.nic.xn--ngbrx"
+  },
+  {
+    "domain": "xn--nqv7f",
+    "whois_server_url": "whois.nic.xn--nqv7f"
+  },
+  {
+    "domain": "xn--nqv7fs00ema",
+    "whois_server_url": "whois.nic.xn--nqv7fs00ema"
+  },
+  {
+    "domain": "xn--o3cw4h",
+    "whois_server_url": "whois.thnic.co.th"
+  },
+  {
+    "domain": "xn--ogbpf8fl",
+    "whois_server_url": "whois.tld.sy"
+  },
+  {
+    "domain": "xn--p1acf",
+    "whois_server_url": "whois.nic.xn--p1acf"
+  },
+  {
+    "domain": "xn--p1ai",
+    "whois_server_url": "whois.tcinet.ru"
+  },
+  {
+    "domain": "xn--pgbs0dh",
+    "whois_server_url": "whois.ati.tn"
+  },
+  {
+    "domain": "xn--pssy2u",
+    "whois_server_url": "whois.nic.xn--pssy2u"
+  },
+  {
+    "domain": "xn--q7ce6a",
+    "whois_server_url": "whois.nic.la"
+  },
+  {
+    "domain": "xn--q9jyb4c",
+    "whois_server_url": "whois.nic.google"
+  },
+  {
+    "domain": "xn--qcka1pmc",
+    "whois_server_url": "whois.nic.google"
+  },
+  {
+    "domain": "xn--qxa6a",
+    "whois_server_url": "whois.eu"
+  },
+  {
+    "domain": "xn--rvc1e0am3e",
+    "whois_server_url": "whois.registry.in"
+  },
+  {
+    "domain": "xn--s9brj9c",
+    "whois_server_url": "whois.registry.in"
+  },
+  {
+    "domain": "xn--ses554g",
+    "whois_server_url": "whois.nic.xn--ses554g"
+  },
+  {
+    "domain": "xn--t60b56a",
+    "whois_server_url": "whois.nic.xn--t60b56a"
+  },
+  {
+    "domain": "xn--tckwe",
+    "whois_server_url": "whois.nic.xn--tckwe"
+  },
+  {
+    "domain": "xn--tiq49xqyj",
+    "whois_server_url": "whois.nic.xn--tiq49xqyj"
+  },
+  {
+    "domain": "xn--unup4y",
+    "whois_server_url": "whois.nic.xn--unup4y"
+  },
+  {
+    "domain": "xn--vermgensberater-ctb",
+    "whois_server_url": "whois.nic.xn--vermgensberater-ctb"
+  },
+  {
+    "domain": "xn--vermgensberatung-pwb",
+    "whois_server_url": "whois.nic.xn--vermgensberatung-pwb"
+  },
+  {
+    "domain": "xn--vhquv",
+    "whois_server_url": "whois.nic.xn--vhquv"
+  },
+  {
+    "domain": "xn--vuq861b",
+    "whois_server_url": "whois.teleinfo.cn"
+  },
+  {
+    "domain": "xn--w4r85el8fhu5dnra",
+    "whois_server_url": "whois.nic.xn--w4r85el8fhu5dnra"
+  },
+  {
+    "domain": "xn--w4rs40l",
+    "whois_server_url": "whois.nic.xn--w4rs40l"
+  },
+  {
+    "domain": "xn--wgbl6a",
+    "whois_server_url": "whois.registry.qa"
+  },
+  {
+    "domain": "xn--xhq521b",
+    "whois_server_url": "whois.ngtld.cn"
+  },
+  {
+    "domain": "xn--xkc2dl3a5ee0h",
+    "whois_server_url": "whois.registry.in"
+  },
+  {
+    "domain": "xn--y9a3aq",
+    "whois_server_url": "whois.amnic.net"
+  },
+  {
+    "domain": "xn--yfro4i67o",
+    "whois_server_url": "whois.zh.sgnic.sg"
+  },
+  {
+    "domain": "xn--ygbi2ammx",
+    "whois_server_url": "whois.pnina.ps"
+  },
+  {
+    "domain": "xn--zfr164b",
+    "whois_server_url": "whois.conac.cn"
+  },
+  {
+    "domain": "xxx",
+    "whois_server_url": "whois.nic.xxx"
+  },
+  {
+    "domain": "xyz",
+    "whois_server_url": "whois.nic.xyz"
+  },
+  {
+    "domain": "yachts",
+    "whois_server_url": "whois.nic.yachts"
+  },
+  {
+    "domain": "yahoo",
+    "whois_server_url": "whois.nic.yahoo"
+  },
+  {
+    "domain": "yamaxun",
+    "whois_server_url": "whois.nic.yamaxun"
+  },
+  {
+    "domain": "ye",
+    "whois_server_url": "whois.y.net.ye"
+  },
+  {
+    "domain": "yodobashi",
+    "whois_server_url": "whois.nic.gmo"
+  },
+  {
+    "domain": "yoga",
+    "whois_server_url": "whois.nic.yoga"
+  },
+  {
+    "domain": "yokohama",
+    "whois_server_url": "whois.nic.yokohama"
+  },
+  {
+    "domain": "you",
+    "whois_server_url": "whois.nic.you"
+  },
+  {
+    "domain": "youtube",
+    "whois_server_url": "whois.nic.google"
+  },
+  {
+    "domain": "yt",
+    "whois_server_url": "whois.nic.yt"
+  },
+  {
+    "domain": "yun",
+    "whois_server_url": "whois.teleinfo.cn"
+  },
+  {
+    "domain": "zappos",
+    "whois_server_url": "whois.nic.zappos"
+  },
+  {
+    "domain": "zara",
+    "whois_server_url": "whois.nic.zara"
+  },
+  {
+    "domain": "zip",
+    "whois_server_url": "whois.nic.google"
+  },
+  {
+    "domain": "zm",
+    "whois_server_url": "whois.zicta.zm"
+  },
+  {
+    "domain": "zone",
+    "whois_server_url": "whois.nic.zone"
+  },
+  {
+    "domain": "zuerich",
+    "whois_server_url": "whois.nic.zuerich"
+  }
+]

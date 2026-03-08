@@ -9,6 +9,6 @@ It does not contain:
 
 <br>
 
-<img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4cb.png" width="24" height="24"> [CSV](whois-servers.csv) - <img src="/assets/excel/excel-logo.svg" height="24"> [XLSX](whois-servers.xlsx) - <img src="/assets/markdown/markdown-logo.svg" height="24"> [Markdown](whois-servers.md)
+<img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4cb.png" width="24" height="24"> [CSV](whois-servers.csv) - <img src="/assets/excel/excel-logo.svg" height="24"> [XLSX](whois-servers.xlsx) - <img src="/assets/markdown/markdown-logo.svg" height="24"> [Markdown](whois-servers.md) - [JSON](whois-servers.json)
 
 ## List of WHOIS Servers
