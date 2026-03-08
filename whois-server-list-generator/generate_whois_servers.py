@@ -1,4 +1,5 @@
 import csv
+import json
 import os
 import time
 from dataclasses import dataclass
@@ -65,6 +66,19 @@ def create_csv(results: List[Result]):
         writer.writerows(
             ((result.tld_punycode, result.whois_server_url) for result in results)
         )
+
+
+def create_json(results: List[Result]):
+    FILENAME = os.path.join(os.pardir, "whois-servers.json")
+
+    data = [
+        {"domain": result.tld_punycode, "whois_server_url": result.whois_server_url}
+        for result in results
+    ]
+
+    with open(FILENAME, "w", encoding="utf-8") as file:
+        json.dump(data, file, indent=2, ensure_ascii=False)
+        file.write("\n")
 
 
 def create_markdown(results: List[Result]):
@@ -175,6 +189,7 @@ if __name__ == "__main__":
 
 if __name__ == "__main__":
     create_csv(results)
+    create_json(results)
     create_markdown(results)
     create_README(results)
     create_xlsx(results)
