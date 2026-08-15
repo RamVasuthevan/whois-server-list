@@ -13,4 +13,4 @@ tenacity = "*"
 black = "*"
 
 [requires]
-python_version = "3.10"
+python_version = "3.14"
