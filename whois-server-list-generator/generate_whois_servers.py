@@ -157,11 +157,11 @@ if __name__ == "__main__":
 
     if response and response.status_code == 200:
         soup = BeautifulSoup(response.content, "html.parser")
-        table = soup.find("table", id="tld-table")
+        table = soup.find("table", id="ddtable")
         results = []
 
         for tr in table.tbody.find_all("tr"):
-            relative_tld_url = tr.td.span.a.get("href")
+            relative_tld_url = tr.td.a.get("href")
             tld_punycode = os.path.splitext(os.path.basename(relative_tld_url))[0]
             print(tld_punycode)
 
@@ -169,16 +169,15 @@ if __name__ == "__main__":
 
             if response and response.status_code == 200:
                 soup = BeautifulSoup(response.content, "html.parser")
-                tld_unicode = soup.find("h1").text.split(".")[-1].strip()
-                registry_information = soup.find(
-                    "h2", string="Registry Information"
-                ).find_next("p")
+                tld_unicode = soup.find("h1", class_="tld-name").text.split(".")[-1].strip()
+                whois_label = soup.find(
+                    "div", class_="muted", string="WHOIS Server"
+                )
 
-                if registry_information.find("b", string="WHOIS Server:"):
-                    whois_url = registry_information.find(
-                        "b", string="WHOIS Server:"
-                    ).next_sibling.strip()
-                    results.append(Result(tld_punycode, whois_url, tld_unicode))
+                if whois_label:
+                    whois_url = whois_label.find_next_sibling("div").text.strip()
+                    if whois_url != "-":
+                        results.append(Result(tld_punycode, whois_url, tld_unicode))
             else:
                 print(
                     f"Error occurred while fetching {tld_punycode}. Status Code: {response.status_code}"
